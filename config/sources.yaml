@@ -1,0 +1,134 @@
+# ==============================================================================
+# Ingestion Pipeline Source Registry
+# Supports APIs, RSS/Atom feeds, Structured JSON, and HTML parsers
+# ==============================================================================
+
+version: "1.0"
+
+startups:
+  - name: "Y Combinator"
+    type: "api"
+    base_url: "https://api.ycombinator.com/v0.1/companies"
+    pagination_strategy: "page_number"
+    parser_type: "yc_json"
+    requires_js: false
+    rate_limit_rps: 5
+    enabled: true
+  - name: "GitHub AI Organizations"
+    type: "api"
+    base_url: "https://api.github.com/search/users"
+    params:
+      q: "type:org+topic:artificial-intelligence+followers:>5"
+      per_page: 100
+    pagination_strategy: "page_number"
+    parser_type: "github_org_json"
+    requires_js: false
+    rate_limit_rps: 2
+    enabled: true
+
+products:
+  - name: "Hugging Face Models"
+    type: "api"
+    base_url: "https://huggingface.co/api/models"
+    params:
+      limit: 100
+      full: "true"
+      config: "true"
+    pagination_strategy: "cursor_or_offset"
+    parser_type: "huggingface_json"
+    requires_js: false
+    rate_limit_rps: 5
+    enabled: true
+  - name: "FutureTools AI Directory"
+    type: "html"
+    base_url: "https://www.futuretools.io/"
+    pagination_strategy: "page_number"
+    parser_type: "futuretools_html"
+    requires_js: false
+    rate_limit_rps: 3
+    enabled: true
+
+research_papers:
+  - name: "Papers With Code"
+    type: "api"
+    base_url: "https://paperswithcode.com/api/v1/papers/"
+    pagination_strategy: "page_number"
+    parser_type: "paperswithcode_json"
+    requires_js: false
+    rate_limit_rps: 5
+    enabled: true
+  - name: "ArXiv CS AI"
+    type: "api"
+    base_url: "http://export.arxiv.org/api/query"
+    params:
+      search_query: "cat:cs.AI OR cat:cs.LG OR cat:cs.CL"
+      max_results: 200
+    pagination_strategy: "offset"
+    parser_type: "arxiv_atom_xml"
+    requires_js: false
+    rate_limit_rps: 1
+    enabled: true
+
+news:
+  - name: "TechCrunch AI"
+    type: "feed"
+    base_url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    parser_type: "rss_xml"
+    requires_js: false
+    enabled: true
+  - name: "The Verge AI"
+    type: "feed"
+    base_url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    parser_type: "atom_xml"
+    requires_js: false
+    enabled: true
+  - name: "Ars Technica AI"
+    type: "feed"
+    base_url: "https://feeds.arstechnica.com/arstechnica/index"
+    parser_type: "rss_xml"
+    requires_js: false
+    enabled: true
+  - name: "Engadget AI"
+    type: "feed"
+    base_url: "https://www.engadget.com/rss.xml"
+    parser_type: "rss_xml"
+    requires_js: false
+    enabled: true
+  - name: "SiliconANGLE AI"
+    type: "feed"
+    base_url: "https://siliconangle.com/feed/"
+    parser_type: "rss_xml"
+    requires_js: false
+    enabled: true
+
+jobs:
+  - name: "RemoteOK AI"
+    type: "api"
+    base_url: "https://remoteok.com/api?tag=ai"
+    parser_type: "remoteok_json"
+    requires_js: false
+    enabled: true
+  - name: "Jobicy AI"
+    type: "api"
+    base_url: "https://jobicy.com/api/v2/remote-jobs?count=50&tag=ai"
+    parser_type: "jobicy_json"
+    requires_js: false
+    enabled: true
+  - name: "Remotive AI"
+    type: "api"
+    base_url: "https://remotive.com/api/remote-jobs?category=software-dev&search=AI"
+    parser_type: "remotive_json"
+    requires_js: false
+    enabled: true
+  - name: "WeWorkRemotely"
+    type: "feed"
+    base_url: "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+    parser_type: "rss_xml"
+    requires_js: false
+    enabled: true
+  - name: "Arbeitnow AI"
+    type: "api"
+    base_url: "https://www.arbeitnow.com/api/job-board-api"
+    parser_type: "arbeitnow_json"
+    requires_js: false
+    enabled: true
