@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  crawler-pipeline:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: intelligence-pipeline
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./config:/app/config
+    environment:
+      - PYTHONUNBUFFERED=1
+      - MAX_PROJECT_FOOTPRINT_MB=900
+    restart: "no"
