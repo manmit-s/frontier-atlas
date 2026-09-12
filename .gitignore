@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and temporary data
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+data/temp/
+data/cache/
+*.tmp
+
+# Environment variables & secrets
+.env
+*.pem
+*.key
+credentials.json
+service_account.json
+
+# Local databases (optional exclusion or keep tracked schema)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+# Playwright & browser traces
+.playwright/
+test-results/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
