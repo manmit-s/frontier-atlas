@@ -1,0 +1,1001 @@
+id,hash_key,schema_version,record_type,source_name,source_url,entity_name,employee_count,collected_at
+1,ee57a01c16efeb40aba25a7dc139635f30c7a672c195e56274edca9486bfbbf2,1.0,STARTUP,GitHub AI Organizations,https://github.com/openai,OpenAI,,2026-09-12T12:01:02.435026+00:00
+2,9b006c4931915e524a62342294644f397415889ae720fafe71a6706c68f5577e,1.0,STARTUP,GitHub AI Organizations,https://github.com/Stability-AI,Stability AI,,2026-09-12T12:01:02.435641+00:00
+3,af74e21195145f6dc50167dba07e8e9ac2ebba4f8a2bba1edfe6dec831885f0a,1.0,STARTUP,GitHub AI Organizations,https://github.com/allenai,Allenai,,2026-09-12T12:01:02.435770+00:00
+4,762a9b97f6281eafda422e04c4bc916f0b2dee650e30a8ef5b14bc17b1190bed,1.0,STARTUP,GitHub AI Organizations,https://github.com/dair-ai,Dair Ai,,2026-09-12T12:01:02.435825+00:00
+5,12f34d906d1ed927867c6e614c9db37b1b3fc739330c5f0e45b88edf669aeff3,1.0,STARTUP,GitHub AI Organizations,https://github.com/airbnb,Airbnb,,2026-09-12T12:01:02.435875+00:00
+6,9862723d871e9b04feb0f2a993911f01a1536f178875b6a3b8db4fbeafcc02fd,1.0,STARTUP,GitHub AI Organizations,https://github.com/jina-ai,Jina Ai,,2026-09-12T12:01:02.435913+00:00
+7,27851a4d3ddc70a0f50fadb0e44aba60c9e996f4165293b6ae7a88aed1daca48,1.0,STARTUP,GitHub AI Organizations,https://github.com/MoonshotAI,Moonshotai,,2026-09-12T12:01:02.435949+00:00
+8,dab3714f8d9a8e8fc282d2111a0ae25fa71506be8432b5e3f928d1c8506a2e52,1.0,STARTUP,GitHub AI Organizations,https://github.com/commaai,Commaai,,2026-09-12T12:01:02.435984+00:00
+9,2aafb2fe52d8fac80023b5304ffae0e9d7633154b7d11734f5645e26f292f83a,1.0,STARTUP,GitHub AI Organizations,https://github.com/LAION-AI,Laion Ai,,2026-09-12T12:01:02.436020+00:00
+10,cde01f2f6d649f30330b16c6b5687cf01f66e87638216d27e397c45d39275351,1.0,STARTUP,GitHub AI Organizations,https://github.com/EleutherAI,Eleutherai,,2026-09-12T12:01:02.436056+00:00
+11,7b513db7b43544869f8e38faf8af35cb512aeecf01c292b78eef60ceca08a99e,1.0,STARTUP,GitHub AI Organizations,https://github.com/fastai,Fastai,,2026-09-12T12:01:02.436087+00:00
+12,f47e9767654c0ff28959a2c0fe64d37e71f412b7fd2fa5cc62f91ed403e89681,1.0,STARTUP,GitHub AI Organizations,https://github.com/mistralai,Mistral AI,,2026-09-12T12:01:02.436106+00:00
+13,4970e282a6a668e45f084896c9e5086a3bef353ec1f3a76136afa066156c8e76,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4Finance-Foundation,Ai4finance Foundation,,2026-09-12T12:01:02.436144+00:00
+14,f45fb8d50c799b39d7aa08583f1a82847c20e2229695cc17edef29fdb6e6e645,1.0,STARTUP,GitHub AI Organizations,https://github.com/zai-org,Zai Org,,2026-09-12T12:01:02.436181+00:00
+15,ff8d5428bfa62fa5c645d3d717236433bfc23fafabb46e4729bdbaf5cab18561,1.0,STARTUP,GitHub AI Organizations,https://github.com/SakanaAI,Sakanaai,,2026-09-12T12:01:02.436215+00:00
+16,d1c2420250fc815a635b738f034840bfe7762120e23749bfb24d4e56fc73506a,1.0,STARTUP,GitHub AI Organizations,https://github.com/tenstorrent,Tenstorrent,,2026-09-12T12:01:02.436249+00:00
+17,06d3a74db7a3a0ede9efe37659fa2279d854340fe2e10167540cd0c0df8c09ed,1.0,STARTUP,GitHub AI Organizations,https://github.com/nomic-ai,Nomic Ai,,2026-09-12T12:01:02.436285+00:00
+18,f601826eb8e9bfbc2b9a8fafb9f84e552150317a6ea01a73372b0122950599c0,1.0,STARTUP,GitHub AI Organizations,https://github.com/AnswerDotAI,Answerdotai,,2026-09-12T12:01:02.436317+00:00
+19,ba2c4ab4b9737036fec506b4d0c47d7c34e9c9277bb0d4923f2f812c9de8ca81,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4Bharat,Ai4bharat,,2026-09-12T12:01:02.436348+00:00
+20,7f48b64e1ef79332a3fba1653939acaab20cabc6e0e24663afd18fc19ee7bc86,1.0,STARTUP,GitHub AI Organizations,https://github.com/shareAI-lab,Shareai Lab,,2026-09-12T12:01:02.436384+00:00
+21,3eb1766ea94de300be6bbb92e70a5614a8828f095f81ce578b4c007fc40c3ed5,1.0,STARTUP,GitHub AI Organizations,https://github.com/camel-ai,Camel Ai,,2026-09-12T12:01:02.436419+00:00
+22,bc2ca8db9714024547e8fdb0a08f9b4862e011132cf4ca33f558d21522435bb8,1.0,STARTUP,GitHub AI Organizations,https://github.com/https-deeplearning-ai,Https Deeplearning Ai,,2026-09-12T12:01:02.436457+00:00
+23,9b43c5116cad69970bc06af55402d80b2164f0904c7c16b072a6f65a2aaed518,1.0,STARTUP,GitHub AI Organizations,https://github.com/leon-ai,Leon Ai,,2026-09-12T12:01:02.436491+00:00
+24,4a3e6f09106dd2ca396e9663afd9cbbc5d1ee78c351837f0baf2cbca8c6be086,1.0,STARTUP,GitHub AI Organizations,https://github.com/fetchai,Fetchai,,2026-09-12T12:01:02.436524+00:00
+25,429772c485c02ef66febeea39e7e10ae705178c1955f0c2ae1ab97ce3471c42e,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-forever,Ai Forever,,2026-09-12T12:01:02.436560+00:00
+26,e6cd3b3e1cdfda6b69d98831f0d24943e0a05369c16a90c3b5d1a56fa28e2359,1.0,STARTUP,GitHub AI Organizations,https://github.com/VedalAI,Vedalai,,2026-09-12T12:01:02.436591+00:00
+27,4015aeafe72164f5a17363791d38b99c5e6e6c5c8acca4892b57880965a689e3,1.0,STARTUP,GitHub AI Organizations,https://github.com/Wan-Video,Wan Video,,2026-09-12T12:01:02.436624+00:00
+28,7d17a7f4212ae84c5bf5dde17094656ce6a65b766cb06f0adbbe77cb618855bd,1.0,STARTUP,GitHub AI Organizations,https://github.com/MonlamAI,Monlamai,,2026-09-12T12:01:02.436656+00:00
+29,cf9865faae114d1c131041bfa497f93943df4358ad482e972ce70c8dcd2788c5,1.0,STARTUP,GitHub AI Organizations,https://github.com/inclusionAI,Inclusionai,,2026-09-12T12:01:02.436691+00:00
+30,e528088ec7459f04276de2b5d6ce9d657536b9743102d5da4c41a96780e96b4b,1.0,STARTUP,GitHub AI Organizations,https://github.com/crewAIInc,Crewaiinc,,2026-09-12T12:01:02.436723+00:00
+31,0592e847215e1cc273c2bcfb813fef6e3067a3314bbf9662569aa3ba923573c8,1.0,STARTUP,GitHub AI Organizations,https://github.com/unslothai,Unslothai,,2026-09-12T12:01:02.436757+00:00
+32,042217591498754ded174fc7178c6a55cfcf552c75f6cdd0a9197a0e1629204a,1.0,STARTUP,GitHub AI Organizations,https://github.com/BerriAI,Berriai,,2026-09-12T12:01:02.436787+00:00
+33,ea6aa91e2eb44e48ed874d0295122d19222b0f1bbc6cb87ffad4e17018c058a1,1.0,STARTUP,GitHub AI Organizations,https://github.com/AirtestProject,Airtestproject,,2026-09-12T12:01:02.436835+00:00
+34,1322ccf1c0e66798215680edec5a6ab6718c42ef41fb1b05ae11ebc777ee4f6f,1.0,STARTUP,GitHub AI Organizations,https://github.com/aimacode,Aimacode,,2026-09-12T12:01:02.436869+00:00
+35,be9ffcc084ae8183046bba84faea780d62d6cd26c6c02b63ac366a570a52d805,1.0,STARTUP,GitHub AI Organizations,https://github.com/RapidAI,Rapidai,,2026-09-12T12:01:02.436902+00:00
+36,64f98b705f850bb2a7628ff855ae5a3145702e1d0a4779cf7c52a0c56b4e29cb,1.0,STARTUP,GitHub AI Organizations,https://github.com/aio-libs,Aio Libs,,2026-09-12T12:01:02.436936+00:00
+37,172e6cfa479c485d84efd6bd0036b146003e473066b65a4973af7dcbf1377bf7,1.0,STARTUP,GitHub AI Organizations,https://github.com/labmlai,Labmlai,,2026-09-12T12:01:02.436970+00:00
+38,dcf22b3a91021c933e71ccf09a49b724669a0e21370de6bb357445ade71c8f71,1.0,STARTUP,GitHub AI Organizations,https://github.com/swiss-ai,Swiss Ai,,2026-09-12T12:01:02.437004+00:00
+39,1efd48e95dc4f8e3043661c799d5f49797e0364f1b0b5f7dbc2ccb649483ab9d,1.0,STARTUP,GitHub AI Organizations,https://github.com/AirdropFamilyIDN-V2-0,Airdropfamilyidn V2 0,,2026-09-12T12:01:02.437043+00:00
+40,6fd922d93ad009e468509948ff718ab8b90bed9948e93078a510bbce05522a27,1.0,STARTUP,GitHub AI Organizations,https://github.com/nogibjj,Nogibjj,,2026-09-12T12:01:02.437074+00:00
+41,8ffb78dfd9b8e0e1270a5104385ea307b065270ea6b788e958075b1c951c31d0,1.0,STARTUP,GitHub AI Organizations,https://github.com/302ai,302ai,,2026-09-12T12:01:02.437106+00:00
+42,9c32c226f5ac7cb011a49276e26f122fd5545be6e518e9f60317d76f53e38599,1.0,STARTUP,GitHub AI Organizations,https://github.com/airbytehq,Airbytehq,,2026-09-12T12:01:02.437140+00:00
+43,4415d1d1c1f00da834a4a39b284657943e23c285c8b0c0bc71b2e3586ec2bef9,1.0,STARTUP,GitHub AI Organizations,https://github.com/kvcache-ai,Kvcache Ai,,2026-09-12T12:01:02.437174+00:00
+44,f4b038423998c60f5b3f4ccbefa90823993381acc78ae436248f1d93d2947ff7,1.0,STARTUP,GitHub AI Organizations,https://github.com/FreedomIntelligence,Freedomintelligence,,2026-09-12T12:01:02.437207+00:00
+45,0bab930f6e89e48d2070aeeed62f03c951de541c86ac218ae2e75434048e139c,1.0,STARTUP,GitHub AI Organizations,https://github.com/FlowiseAI,Flowiseai,,2026-09-12T12:01:02.437240+00:00
+46,5bc6522c8e1f30793262e11abff440de384e5bc496c79bfaab6d9ff04cb54033,1.0,STARTUP,GitHub AI Organizations,https://github.com/mozilla-ai,Mozilla Ai,,2026-09-12T12:01:02.437276+00:00
+47,a4453a32466f0889df310eb4017cd3a912fdd17e47e21a9bbace26d3277824af,1.0,STARTUP,GitHub AI Organizations,https://github.com/Genesis-Embodied-AI,Genesis Embodied Ai,,2026-09-12T12:01:02.437313+00:00
+48,11ba5fc98fed5b13c49f7a44a9583b72dcb6c3791077cdaf518b4bc75a0ef1fe,1.0,STARTUP,GitHub AI Organizations,https://github.com/resemble-ai,Resemble Ai,,2026-09-12T12:01:02.437347+00:00
+49,cc20f8ec54e083adddf2460432eefd0296d04f568f30713faba9a0639ea408f6,1.0,STARTUP,GitHub AI Organizations,https://github.com/moeru-ai,Moeru Ai,,2026-09-12T12:01:02.437381+00:00
+50,6813a481c6476fa63e5f796377385981234f9c8dd9efbabd02f06898faf7f199,1.0,STARTUP,GitHub AI Organizations,https://github.com/Liquid4All,Liquid4all,,2026-09-12T12:01:02.437414+00:00
+51,8a0a904218b4b4c69220e978d7532183a243b5d8d00f7572849f1863317c27d6,1.0,STARTUP,GitHub AI Organizations,https://github.com/fixie-ai,Fixie Ai,,2026-09-12T12:01:02.437447+00:00
+52,b9ad0eec00727d8a20e66918dee23a59ce0d0fb04f22dacf317ee2543ed0d186,1.0,STARTUP,GitHub AI Organizations,https://github.com/tavily-ai,Tavily Ai,,2026-09-12T12:01:02.437485+00:00
+53,4b1458b8d18d789ccd0c1e7d98387e162d85078fd9162771eadc3feaf4588351,1.0,STARTUP,GitHub AI Organizations,https://github.com/Lightning-AI,Lightning AI,,2026-09-12T12:01:02.437504+00:00
+54,ae472ce1276551da1a5e37d1898e732f3295b03e865bbea10f166fe06b877c32,1.0,STARTUP,GitHub AI Organizations,https://github.com/landing-ai,Landing Ai,,2026-09-12T12:01:02.437539+00:00
+55,063a4452d6cbcb43c559c59d2ddab77b1a05608f4720f9ffc0b6f54fa4b07243,1.0,STARTUP,GitHub AI Organizations,https://github.com/NVIDIA-AI-IOT,Nvidia Ai Iot,,2026-09-12T12:01:02.437576+00:00
+56,d7423285185c6998587024facfebebf74f68faa72739b01731c5eb7b60fa1e85,1.0,STARTUP,GitHub AI Organizations,https://github.com/smol-ai,Smol Ai,,2026-09-12T12:01:02.437610+00:00
+57,2c6fae08e9cc4b5d5a34698d50616d15f00adf4bd9e3b06da4c6313d12a553e3,1.0,STARTUP,GitHub AI Organizations,https://github.com/noCaptchaAi,Nocaptchaai,,2026-09-12T12:01:02.437641+00:00
+58,88658dc8ca3839bf70098110254c0e23d9bef407eeed44fab59bc969a402e129,1.0,STARTUP,GitHub AI Organizations,https://github.com/tile-ai,Tile Ai,,2026-09-12T12:01:02.437677+00:00
+59,54b0ec22b67b49420f33ccab7e4ec46181ca08e847b4f67c35868d7ac08115a4,1.0,STARTUP,GitHub AI Organizations,https://github.com/boson-ai,Boson Ai,,2026-09-12T12:01:02.437710+00:00
+60,0533febbf400d78f8b4da24c3b7020fe235b0f9b22545985c06c828c7228c7c7,1.0,STARTUP,GitHub AI Organizations,https://github.com/Arize-ai,Arize Ai,,2026-09-12T12:01:02.437744+00:00
+61,caa070e0101fd8c1479790c3c0087b165939f49a7fb2f5d99f0e362701d0cc0d,1.0,STARTUP,GitHub AI Organizations,https://github.com/i-am-bee,I Am Bee,,2026-09-12T12:01:02.437779+00:00
+62,367a4171cd0b5f9783305a9ae8006c8b8429e46212a1088e1af33eea41930360,1.0,STARTUP,GitHub AI Organizations,https://github.com/moonshine-ai,Moonshine Ai,,2026-09-12T12:01:02.437813+00:00
+63,7f02a6792dabfe980c28b0430fdea2de6d6655a4e87229c2ffbb7cabbbd86405,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Maker-Space,Ai Maker Space,,2026-09-12T12:01:02.437848+00:00
+64,f000393ee7f897536ab0bc83a5d51f96336f887989546d5b1aa4551fa5824dce,1.0,STARTUP,GitHub AI Organizations,https://github.com/arcee-ai,Arcee Ai,,2026-09-12T12:01:02.437882+00:00
+65,6fc19d9315f41a391ee696521d25b502dce35a71c232813b4899dd2e8928ad4e,1.0,STARTUP,GitHub AI Organizations,https://github.com/girafe-ai,Girafe Ai,,2026-09-12T12:01:02.437914+00:00
+66,89630b2ce30e950335d04d7abbf24402210a8262eac26b5027051aeead300acd,1.0,STARTUP,GitHub AI Organizations,https://github.com/hyperai,Hyperai,,2026-09-12T12:01:02.437949+00:00
+67,6751862b159e911959d9df02b920bb2b1abc4bef87f982120121a1f706b20e3c,1.0,STARTUP,GitHub AI Organizations,https://github.com/luxfi,Luxfi,,2026-09-12T12:01:02.437983+00:00
+68,3daab2f14cb3491e9051846303ab0576ace4fbbcc2920a9685ec23d7c0823c64,1.0,STARTUP,GitHub AI Organizations,https://github.com/01-ai,01 Ai,,2026-09-12T12:01:02.438017+00:00
+69,434d1edd2918e8efd9b6d2fda74d6eb2d3e1db606797402cb069e47046260c2e,1.0,STARTUP,GitHub AI Organizations,https://github.com/OrionStarAI,Orionstarai,,2026-09-12T12:01:02.438048+00:00
+70,85ab5705a318452fcd3a0f270134eef7871f33e132637e636dec320c55cb50e6,1.0,STARTUP,GitHub AI Organizations,https://github.com/naver-ai,Naver Ai,,2026-09-12T12:01:02.438098+00:00
+71,c57af38a65fbcd68c211838d99a7459cf1176298d300f15c4681264fb84961ba,1.0,STARTUP,GitHub AI Organizations,https://github.com/sarvamai,Sarvamai,,2026-09-12T12:01:02.438134+00:00
+72,57a7be90391a562f6cba4a3b4344ccfcdc456cd853b16cab97aad2d5cee2c2a2,1.0,STARTUP,GitHub AI Organizations,https://github.com/OptimaiNetwork,Optimainetwork,,2026-09-12T12:01:02.438167+00:00
+73,67a57ba487c9f4c52370b0e9f840c33b5d9bb0ce3925e73981e3d69d2c210372,1.0,STARTUP,GitHub AI Organizations,https://github.com/different-ai,Different Ai,,2026-09-12T12:01:02.438202+00:00
+74,566e98087d038116098e41009b0697c49ba1c42bcc8ad910606951172c62d249,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiming-lab,Aiming Lab,,2026-09-12T12:01:02.438237+00:00
+75,dcdf5981d1035618eabff67586d7e6209e7f183b558fd421d97a143a9760e6d9,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiven,Aiven,,2026-09-12T12:01:02.438270+00:00
+76,903b7c7ddd04ba9ac042c63e15a6138efc77ceddbd7822015b557658ba2ddc2d,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiplanethub,Aiplanethub,,2026-09-12T12:01:02.438303+00:00
+77,5193ca58e318e0549ba4264774136e9c210b17db9cddf7089792fa437cd7f50d,1.0,STARTUP,GitHub AI Organizations,https://github.com/valeoai,Valeoai,,2026-09-12T12:01:02.438334+00:00
+78,a762a65ab916fcc39e4d40ca4db6f6cc890a3f6365746fa6a0ba5b877d10a3aa,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIRI-Institute,Airi Institute,,2026-09-12T12:01:02.438370+00:00
+79,1c45648a241d3364a2dabb561ec08cc9747112b3dc87bd9f09b31b78751abe71,1.0,STARTUP,GitHub AI Organizations,https://github.com/Ai-Thinker-Open,Ai Thinker Open,,2026-09-12T12:01:02.438405+00:00
+80,4cde16c211accb6d46b4c2759ca63ad937a0e89ec3bd266161bbe1f55b9b3eff,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIDotNet,Aidotnet,,2026-09-12T12:01:02.438435+00:00
+81,d5400bae8bc623ef6117038fdc4a74d860aad534fcec82be3c4c65a5e5631f30,1.0,STARTUP,GitHub AI Organizations,https://github.com/tracel-ai,Tracel Ai,,2026-09-12T12:01:02.438469+00:00
+82,daaba64708ca8e809d93753547c7aa6cef49547247b1db8889fc0969ad45f876,1.0,STARTUP,GitHub AI Organizations,https://github.com/leptonai,Leptonai,,2026-09-12T12:01:02.438501+00:00
+83,2288786f8cf2f6b87b26fb9b5315c36d8911f959fb2bb77e8ea9bdcf982e3a75,1.0,STARTUP,GitHub AI Organizations,https://github.com/hyperspaceai,Hyperspaceai,,2026-09-12T12:01:02.438533+00:00
+84,618d41a2f5684a4cd92f9208afaa66f3553a70e7ae6f1292433e06ac47f38cb6,1.0,STARTUP,GitHub AI Organizations,https://github.com/AikidoSec,Aikidosec,,2026-09-12T12:01:02.438565+00:00
+85,e95d310fe0656393ed6ea210df189c8d315d07f950fbbf66b1a0f0786cbd8066,1.0,STARTUP,GitHub AI Organizations,https://github.com/agentscope-ai,Agentscope Ai,,2026-09-12T12:01:02.438599+00:00
+86,c75b4eccbed422806a0df27657d15aced2f15cebcb068fcc3da12cd2a37306b6,1.0,STARTUP,GitHub AI Organizations,https://github.com/kby-ai,Kby Ai,,2026-09-12T12:01:02.438632+00:00
+87,c870a758bc5a38661588d098d52d39638d3b37f6cbf45b1e119e074954d487f0,1.0,STARTUP,GitHub AI Organizations,https://github.com/aisingapore,Aisingapore,,2026-09-12T12:01:02.438663+00:00
+88,ca2b76688c857a249a4e8e12a1b1b95ed62e468e483076cbd85d359d530421a4,1.0,STARTUP,GitHub AI Organizations,https://github.com/protectai,Protectai,,2026-09-12T12:01:02.438694+00:00
+89,ce9928f706d191e09d10d331ea7d5e5a6a718e4a9268ecd2354991fa1d54db50,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-dynamo,Ai Dynamo,,2026-09-12T12:01:02.438727+00:00
+90,90d7bfb51f4c68fb03802fa5eb35d303343472bfa624fecf544f4c744f8b8e0f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AssemblyAI,Assemblyai,,2026-09-12T12:01:02.438757+00:00
+91,20836af0069361cf9edb06dfd62008048c631b3b44ef2180d079ebe6507f2e61,1.0,STARTUP,GitHub AI Organizations,https://github.com/i-dot-ai,I Dot Ai,,2026-09-12T12:01:02.438791+00:00
+92,bc072f76b2cd78259df8f9050fd322c5fecaa372cc0bf4126d720521509d46c5,1.0,STARTUP,GitHub AI Organizations,https://github.com/abacusai,Abacusai,,2026-09-12T12:01:02.438833+00:00
+93,b4fd65f61a811b6d589615dd30724fa616d9ea9bcbcdf58b59c290c752ba64b4,1.0,STARTUP,GitHub AI Organizations,https://github.com/open-gigaai,Open Gigaai,,2026-09-12T12:01:02.438868+00:00
+94,35179064a0322919ee632320c551ed96a7cd92024255bdeb24418398cdebebb5,1.0,STARTUP,GitHub AI Organizations,https://github.com/khoj-ai,Khoj Ai,,2026-09-12T12:01:02.438904+00:00
+95,ae813d1d02a0e83b23d5651eb35f0778ef81d71edcd0e76186bb8d0e8cc5e0e0,1.0,STARTUP,GitHub AI Organizations,https://github.com/AILab-CVC,Ailab Cvc,,2026-09-12T12:01:02.438938+00:00
+96,64f6349caa24589296879354f104877e9a5cf7b10e80fbe8359a6972e3d17187,1.0,STARTUP,GitHub AI Organizations,https://github.com/Airtable,Airtable,,2026-09-12T12:01:02.438969+00:00
+97,4e00ebf06f0b4133ba8371a78bc64755e9bb79409ee15c96f37e9b608d9b4991,1.0,STARTUP,GitHub AI Organizations,https://github.com/HumeAI,Humeai,,2026-09-12T12:01:02.439000+00:00
+98,146d0b6104ce711a4922896075dc38ab24a0579c3c3c6651f019307fe5c1f56d,1.0,STARTUP,GitHub AI Organizations,https://github.com/RobotecAI,Robotecai,,2026-09-12T12:01:02.439030+00:00
+99,e1d3aaf3303af794416a5c668b89992de67b9dd1dfb15a70645437e1f19f2b58,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Hobbyist,Ai Hobbyist,,2026-09-12T12:01:02.439063+00:00
+100,59cc993f6d62c58af1b744c9b29325675d567e31b59f67e360538b0c71000caa,1.0,STARTUP,GitHub AI Organizations,https://github.com/Tele-AI,Tele Ai,,2026-09-12T12:01:02.439096+00:00
+101,0637f1f0e0d1c3dcfbedc6a53866993f0e8f6aecad4ccbbd0891629ee9a235ca,1.0,STARTUP,GitHub AI Organizations,https://github.com/alan-ai,Alan Ai,,2026-09-12T12:01:02.914299+00:00
+102,e790d2ff9ad9ba527dc3f38483872fef1aeff56b42a94ee722f49de0244e677b,1.0,STARTUP,GitHub AI Organizations,https://github.com/airgap-it,Airgap It,,2026-09-12T12:01:02.914425+00:00
+103,61dc0386ed635855444b81148f28802e47377d5154d37bed4bbeec986e257b3d,1.0,STARTUP,GitHub AI Organizations,https://github.com/BloopAI,Bloopai,,2026-09-12T12:01:02.914526+00:00
+104,4076a40a87e1ee979dbf4a88ed3ef64bb8e269b6a45096606bb510dd075588b8,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-secure,Ai Secure,,2026-09-12T12:01:02.914623+00:00
+105,4f5d12a602e6fab393c6a3dbabdba716bd055d802e12411caebbb449c6714298,1.0,STARTUP,GitHub AI Organizations,https://github.com/castai,Castai,,2026-09-12T12:01:02.914711+00:00
+106,b13411220d5d0b0aad166c3a01d273a6de806d0087e272093f1ec198c3cf9768,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Hypercomputer,Ai Hypercomputer,,2026-09-12T12:01:02.914803+00:00
+107,8add78eb99aa8ee8e366687cdb29d1d7fea3550f0e3ae0bb27737e7cbe480c14,1.0,STARTUP,GitHub AI Organizations,https://github.com/nearai,Nearai,,2026-09-12T12:01:02.914891+00:00
+108,10a2b455e42ae156bf7a2c1bce9faa4c99331a4e251f97ae285d14e73cc3f634,1.0,STARTUP,GitHub AI Organizations,https://github.com/vanna-ai,Vanna Ai,,2026-09-12T12:01:02.914979+00:00
+109,2a2323c2c3cb580de798b5d4c74648029efb7cccc1863d1d080b97c9dcb5f9ba,1.0,STARTUP,GitHub AI Organizations,https://github.com/pollinations,Pollinations,,2026-09-12T12:01:02.915065+00:00
+110,d58185a9d744653513b8efee1f125b93701b78b5d0a193999f03c6cec37860bd,1.0,STARTUP,GitHub AI Organizations,https://github.com/unit-mesh,Unit Mesh,,2026-09-12T12:01:02.915160+00:00
+111,d6b2770230fa7e9b76b611063f912021224bf5f61b7c911d2384c629fefbcdac,1.0,STARTUP,GitHub AI Organizations,https://github.com/furiosa-ai,Furiosa Ai,,2026-09-12T12:01:02.915248+00:00
+112,835c9ed51d56fca5449527b5e0a9b9bda5086d8ad5751ef39a502c00a2770e71,1.0,STARTUP,GitHub AI Organizations,https://github.com/nod-ai,Nod Ai,,2026-09-12T12:01:02.915335+00:00
+113,6879b3481dd74bb82493414d2d46d5620c3114b41c0fa01b6f655e65f8235989,1.0,STARTUP,GitHub AI Organizations,https://github.com/neptune-ai,Neptune Ai,,2026-09-12T12:01:02.915421+00:00
+114,026c5c1415f17b96bb4d9edc8b26967741bfe8eda900a8521ff1dd452f8e3fb8,1.0,STARTUP,GitHub AI Organizations,https://github.com/materialyzeai,Materialyzeai,,2026-09-12T12:01:02.915504+00:00
+115,dc07107f6e4bb8812c0820ef42464e2f3972df3a36a9c3a5711f1511bd393ab9,1.0,STARTUP,GitHub AI Organizations,https://github.com/aigc3d,Aigc3d,,2026-09-12T12:01:02.915583+00:00
+116,c148442e0aa8eec26ebb1e515c57208c6cfefc77f300687ad230cd38fb9702a2,1.0,STARTUP,GitHub AI Organizations,https://github.com/Aider-AI,Aider Ai,,2026-09-12T12:01:02.915668+00:00
+117,59916b6971641f7b863dca965d800a1ef0aea6942834bc1f19b4b06ccaf9b03f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AICP,Aicp,,2026-09-12T12:01:02.915750+00:00
+118,da1daa57425cbc059400cce6b63812f2189a59895f3353b601bb65c5cc3f82c1,1.0,STARTUP,GitHub AI Organizations,https://github.com/aim-uofa,Aim Uofa,,2026-09-12T12:01:02.915845+00:00
+119,e7aedee09e48f70342f313e7d0d46d958688ca0e141d6137bbe3a219253f2f65,1.0,STARTUP,GitHub AI Organizations,https://github.com/instill-ai,Instill Ai,,2026-09-12T12:01:02.915934+00:00
+120,18423c4a170a36b06f1c77163617eac2cb07cca3b16b88ee5626b079cef71b9c,1.0,STARTUP,GitHub AI Organizations,https://github.com/NeonGeckoCom,Neongeckocom,,2026-09-12T12:01:02.916043+00:00
+121,69c46b4ce676769a036529d6185e6901f56145ab9d4f1a49d7460539ac3b4c48,1.0,STARTUP,GitHub AI Organizations,https://github.com/lumalabs,Lumalabs,,2026-09-12T12:01:02.916129+00:00
+122,181d109cc30618fa7ced451fedf9ba0cbb68e291badc78eaee789a4872701c13,1.0,STARTUP,GitHub AI Organizations,https://github.com/AISCIENCES,Aisciences,,2026-09-12T12:01:02.916210+00:00
+123,7f3551350189940ef183604c5186db45f95bec9dc7a9eaab097b09189ef843cd,1.0,STARTUP,GitHub AI Organizations,https://github.com/guardrails-ai,Guardrails Ai,,2026-09-12T12:01:02.916296+00:00
+124,788705742765565559cfbaffacd9b5b6785b33076cfec742cdcb983ca8edcb83,1.0,STARTUP,GitHub AI Organizations,https://github.com/PygmalionAI,Pygmalionai,,2026-09-12T12:01:02.916379+00:00
+125,8e3a020fcaca016b839cf30af658dfd0fa865c56dc27bec38428cf8318b850cb,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai4ce,Ai4ce,,2026-09-12T12:01:02.916460+00:00
+126,895fda30ba624f974534002bac3f5e8f5a0193b708d5115db9cf2111e2e88603,1.0,STARTUP,GitHub AI Organizations,https://github.com/airbus-seclab,Airbus Seclab,,2026-09-12T12:01:02.916550+00:00
+127,308d480c3c5c637e6a2a8a687cbb70a343b49c152986f6e2b960c3016e37eb3f,1.0,STARTUP,GitHub AI Organizations,https://github.com/hpcaitech,Hpcaitech,,2026-09-12T12:01:02.916630+00:00
+128,65e36b18fafaf7c99cc8612aa6c1a6a25fcb17f5b6e7a9512a2dbcd1fd4f0621,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIGODLIKE,Aigodlike,,2026-09-12T12:01:02.916711+00:00
+129,ebcb5fb5ff6dbdb59cbae7f6f6efc6f2b37f20200907e1e8f65b17da29d21b7c,1.0,STARTUP,GitHub AI Organizations,https://github.com/aimagelab,Aimagelab,,2026-09-12T12:01:02.916793+00:00
+130,82ccd7e2955500d0d3e62016f2a8f30aef46a6a8a96d5f5052b9bac94367cace,1.0,STARTUP,GitHub AI Organizations,https://github.com/rtk-ai,Rtk Ai,,2026-09-12T12:01:02.916880+00:00
+131,f94aa4185b1343afda56ed6941c3b200eeea7592aab4bc0aa03c861d628eabd0,1.0,STARTUP,GitHub AI Organizations,https://github.com/octoml,OctoAI,,2026-09-12T12:01:02.916928+00:00
+132,7bb93586dc4cdc366a321572699ff9628307ac80aaf0ec786fd361b7376ccfbc,1.0,STARTUP,GitHub AI Organizations,https://github.com/sweepai,Sweepai,,2026-09-12T12:01:02.917010+00:00
+133,cc9b97dfa025a9a0ebbe8174760dc4aa77e614794d8b1b564f9c11b3158b9436,1.0,STARTUP,GitHub AI Organizations,https://github.com/smallcloudai,Smallcloudai,,2026-09-12T12:01:02.917390+00:00
+134,d0703565725ccc7e978b2bcea92a01833fcbf5766ff7762086d9583bc8bf9888,1.0,STARTUP,GitHub AI Organizations,https://github.com/Explore-AI,Explore Ai,,2026-09-12T12:01:02.917493+00:00
+135,d5e5a0ced00bb1afa2d80acac3a059cc59e30f37fc9594eb81cf55c84d5174cb,1.0,STARTUP,GitHub AI Organizations,https://github.com/minivision-ai,Minivision Ai,,2026-09-12T12:01:02.917612+00:00
+136,d7c34bdae5a015f59828d53e889a10fc90a35a27548efca6e7c8f0556a100ca3,1.0,STARTUP,GitHub AI Organizations,https://github.com/fazer-ai,Fazer Ai,,2026-09-12T12:01:02.917703+00:00
+137,9e28200617965060eac1aae3ed03787152da8b09b019578b0c83b76fbafa68b9,1.0,STARTUP,GitHub AI Organizations,https://github.com/sail-sg,Sail Sg,,2026-09-12T12:01:02.917789+00:00
+138,cded9d26c17474613d3d58b3201ef04ead82be2dc92bc22194d3adfaa4fb80fd,1.0,STARTUP,GitHub AI Organizations,https://github.com/viktor-platform,Viktor Platform,,2026-09-12T12:01:02.917881+00:00
+139,32492065c8b9081858d797f586dca3f6c50d94e6b86c5cd222227235406e2740,1.0,STARTUP,GitHub AI Organizations,https://github.com/QoderAI,Qoderai,,2026-09-12T12:01:02.917967+00:00
+140,cb0458ab7a6ae055a0e2df16cb8e0ec5cd153c762732eb4703a232a200b078b9,1.0,STARTUP,GitHub AI Organizations,https://github.com/commune-ai,Commune Ai,,2026-09-12T12:01:02.918077+00:00
+141,989691234e78af8e98ff0df36b2730f7aeb5703bad2e887e994a68527a89257d,1.0,STARTUP,GitHub AI Organizations,https://github.com/lamini-ai,Lamini Ai,,2026-09-12T12:01:02.918166+00:00
+142,ec10c7200c9ff9b1f9c1e403d6a701846369c1e07aa80b5a02a11c9ef2ac4849,1.0,STARTUP,GitHub AI Organizations,https://github.com/QuixiAI,Quixiai,,2026-09-12T12:01:02.918246+00:00
+143,ededdc5a05e9a5f667b86a99e979f374f1f1d07c21f2370d73858b9dfc897a4e,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-App,Ai App,,2026-09-12T12:01:02.918335+00:00
+144,2172fcd28a1891412bc85db8a8229a6cc941c1d98610634f3864d97d1b4e2744,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIGeniusInstitute,Aigeniusinstitute,,2026-09-12T12:01:02.918419+00:00
+145,e9d119bd0105e3aceef3fd85399529c0dc475b536fa365d67779dfed5f82da1d,1.0,STARTUP,GitHub AI Organizations,https://github.com/ConnectAI-E,Connectai E,,2026-09-12T12:01:02.918510+00:00
+146,d24ad7fbcac7a2e05726482efd16f7e0ceaae1e3f7deffee5c871d9a4b6c6bde,1.0,STARTUP,GitHub AI Organizations,https://github.com/KlingAIResearch,Klingairesearch,,2026-09-12T12:01:02.918593+00:00
+147,d2d62c0afb2ae0c2fa052452bb722b6ed608c42306b64acabaa7fb26064b1cfc,1.0,STARTUP,GitHub AI Organizations,https://github.com/airbus-cert,Airbus Cert,,2026-09-12T12:01:02.918718+00:00
+148,53c8348a236f43406f47720a7fa4d9af4283cedab21dcbd375b2397fbd0e7573,1.0,STARTUP,GitHub AI Organizations,https://github.com/AlignmentResearch,Alignmentresearch,,2026-09-12T12:01:02.918808+00:00
+149,280efec59553709ea12a6a1ceb8b74e98f0b62f725c46d02709b1ec847e850d7,1.0,STARTUP,GitHub AI Organizations,https://github.com/NVIDIA-AI-Blueprints,Nvidia Ai Blueprints,,2026-09-12T12:01:02.918911+00:00
+150,d4f8de592015296bc74a0ddee3d9d19e6247efa1d996a73c9cc9f2848ebc7d1b,1.0,STARTUP,GitHub AI Organizations,https://github.com/Aiven-Open,Aiven Open,,2026-09-12T12:01:02.919006+00:00
+151,6e121daf6622e541dbf64b10d4198b2fabd05066b392aed6b2d24281b206aac0,1.0,STARTUP,GitHub AI Organizations,https://github.com/OthersideAI,Othersideai,,2026-09-12T12:01:02.919089+00:00
+152,be439545111408f6e2208522c3cd06cff5ad368de5d878caec3f002e51d25885,1.0,STARTUP,GitHub AI Organizations,https://github.com/PolymathicAI,Polymathicai,,2026-09-12T12:01:02.919168+00:00
+153,18a2fe8738eca75ce0544d2131e1bd362e89f0acc1a62762c61fc71691401614,1.0,STARTUP,GitHub AI Organizations,https://github.com/airtribe-projects,Airtribe Projects,,2026-09-12T12:01:02.919260+00:00
+154,16c97e18777258564cc99cbb27acbd5faaf3aec42e7fa78fbb946316bc167457,1.0,STARTUP,GitHub AI Organizations,https://github.com/instantX-research,Instantx Research,,2026-09-12T12:01:02.919590+00:00
+155,4795a2e33c68708dc965c2de981794a38d57c893397b62dde4857ec64f46086f,1.0,STARTUP,GitHub AI Organizations,https://github.com/NovelAI,Novelai,,2026-09-12T12:01:02.919755+00:00
+156,85d0d2d746d4102845c401902ace6dece59b095263541c7310ac6a153c9a3dee,1.0,STARTUP,GitHub AI Organizations,https://github.com/boostcampaitech5,Boostcampaitech5,,2026-09-12T12:01:02.919847+00:00
+157,f1964a36218a6adb0779b1a8bb6b7f6ad9414c31fb082aef1982bad5c2c21169,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-hero-dev,Ai Hero Dev,,2026-09-12T12:01:02.919946+00:00
+158,d7295bc599e940f8aa9394bb531651d66621b4d346e01471cb9b8caf09f450b1,1.0,STARTUP,GitHub AI Organizations,https://github.com/FellouAI,Fellouai,,2026-09-12T12:01:02.920024+00:00
+159,295412ae44cb9ba6c1ad43fddbc1686bf69cb477f76db59751949144395e2d70,1.0,STARTUP,GitHub AI Organizations,https://github.com/epoch-research,Epoch Research,,2026-09-12T12:01:02.920115+00:00
+160,0e84fd40b7aeba5b86e337a68906d353c35a3400f7b715ef17bd2e70f5613caa,1.0,STARTUP,GitHub AI Organizations,https://github.com/VinAIResearch,Vinairesearch,,2026-09-12T12:01:02.920194+00:00
+161,b1a491eafdb6104099c908ca2d5eaa1321dac66b5bb6078aff03a93200e9fc1b,1.0,STARTUP,GitHub AI Organizations,https://github.com/clovaai,Clovaai,,2026-09-12T12:01:02.920275+00:00
+162,2882a7f597e507a7e4ea0706065d6112572df924090959b0caf0d4fe623637cf,1.0,STARTUP,GitHub AI Organizations,https://github.com/ShiftLeftSecurity,Shiftleftsecurity,,2026-09-12T12:01:02.920357+00:00
+163,738be95a0e1732ad0533e2605978006581d9d0b2d9e1fbe88d9d6a1e142e0732,1.0,STARTUP,GitHub AI Organizations,https://github.com/tetsuo-ai,Tetsuo Ai,,2026-09-12T12:01:02.920437+00:00
+164,d38ac8ee8cae017f2050e0f43c56cd681afc6fcd4d857a7e8f51454a5c46463d,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai4co,Ai4co,,2026-09-12T12:01:02.920512+00:00
+165,0c5897e2f5afd91c1cc28a08706d00d11ee6a09c0f7081f914644d3933af0c06,1.0,STARTUP,GitHub AI Organizations,https://github.com/v-modal,V Modal,,2026-09-12T12:01:02.920600+00:00
+166,f12b2b9b1c965bc3ddb5da2309e93d6e6d91958f2ddc3da54af9a0ba17142c60,1.0,STARTUP,GitHub AI Organizations,https://github.com/towardsai,Towardsai,,2026-09-12T12:01:02.920678+00:00
+167,731a0f0c48619fa2bbd7263cd6611807a1e72082d9312f0b2f7d09337ba50897,1.0,STARTUP,GitHub AI Organizations,https://github.com/boostcampaitech3,Boostcampaitech3,,2026-09-12T12:01:02.920760+00:00
+168,f35fd16ef7e74bc77d6d664e6999a389dc89e55c4003a9b39d1a96876216766e,1.0,STARTUP,GitHub AI Organizations,https://github.com/wit-ai,Wit Ai,,2026-09-12T12:01:02.920848+00:00
+169,1aec87e0c43f317b1d0adae3f917b35282c38df1b86cbc440af16bba14247e59,1.0,STARTUP,GitHub AI Organizations,https://github.com/All-About-AI-YouTube,All About Ai Youtube,,2026-09-12T12:01:02.920985+00:00
+170,2e16eb009f50687bb870bdee9603f572830213cc0490b5ab46d5a6aa0604eb24,1.0,STARTUP,GitHub AI Organizations,https://github.com/RelevanceAI,Relevanceai,,2026-09-12T12:01:02.921080+00:00
+171,d1ddccfc10e4da37cacf381e15a6205d845c232f06b6110eec146f05360d2fb1,1.0,STARTUP,GitHub AI Organizations,https://github.com/ail-project,Ail Project,,2026-09-12T12:01:02.921166+00:00
+172,8f9a1a2dc44890f8d786aa82a9a52aac1f5b12756f3616c4b144705fea9697f1,1.0,STARTUP,GitHub AI Organizations,https://github.com/aifoundry-org,Aifoundry Org,,2026-09-12T12:01:02.921257+00:00
+173,bae8fe9531b1636058083296509594d45a71634643ebcfc41a52d89c1635c6af,1.0,STARTUP,GitHub AI Organizations,https://github.com/Trae-AI,Trae Ai,,2026-09-12T12:01:02.921352+00:00
+174,58f7361f7e94e17fea14288ce85701bc37bc0be6e842ec225758ba4725f3efb9,1.0,STARTUP,GitHub AI Organizations,https://github.com/aisuda,Aisuda,,2026-09-12T12:01:02.921433+00:00
+175,a6ff27b467620872ed66f8bf2e026a6fc6713b0917315085cc6ac5f98521d171,1.0,STARTUP,GitHub AI Organizations,https://github.com/HFAiLab,Hfailab,,2026-09-12T12:01:02.921515+00:00
+176,b360339a206c639ac332490325f9093b8155b2f0deb4efa8e6512edb2d88c3d8,1.0,STARTUP,GitHub AI Organizations,https://github.com/redis-applied-ai,Redis Applied Ai,,2026-09-12T12:01:02.921617+00:00
+177,d10f8fdfd5cf7bacbef72ca09490cbd38b9f4725d66f5a3bf7a9a4ca10b2f88a,1.0,STARTUP,GitHub AI Organizations,https://github.com/sendaifun,Sendaifun,,2026-09-12T12:01:02.921697+00:00
+178,ce53b93cc08b0c2ccb1b1497c64d13a635df6541d82ccd10f9b95cb3f0b118bf,1.0,STARTUP,GitHub AI Organizations,https://github.com/ailia-ai,Ailia Ai,,2026-09-12T12:01:02.921784+00:00
+179,710a9052e941041ddcb38a971bc8fa9319de8796d8618125efcac6c3b1711c3f,1.0,STARTUP,GitHub AI Organizations,https://github.com/Infrasys-AI,Infrasys Ai,,2026-09-12T12:01:02.921873+00:00
+180,21699de79530dbd007e2d26deafe235b14f662d2939cad64c309feecffda1b5a,1.0,STARTUP,GitHub AI Organizations,https://github.com/SandAI-org,Sandai Org,,2026-09-12T12:01:02.921944+00:00
+181,b55ca8b1187f2f91b2c4b18badfc0054af065f37d89eab6635e1498924e90bbf,1.0,STARTUP,GitHub AI Organizations,https://github.com/Dao-AILab,Dao Ailab,,2026-09-12T12:01:02.922019+00:00
+182,c020caa26dec115524f347b72ff6f9aad7edc83f67001aa9657c15d331da5687,1.0,STARTUP,GitHub AI Organizations,https://github.com/aidotse,Aidotse,,2026-09-12T12:01:02.922087+00:00
+183,1941d0fcccafe98e1ca7a5e1da64cd55052d775cc99c8868a92a0ba968da98ea,1.0,STARTUP,GitHub AI Organizations,https://github.com/The-AI-Summer,The Ai Summer,,2026-09-12T12:01:02.922167+00:00
+184,2df35d3aab8e5eafa166b49deda82bb4a04caf3616d5081376eefe1e5d80e5ac,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4EPS,Ai4eps,,2026-09-12T12:01:02.922244+00:00
+185,ec74c90bfacdd34522e22a463d845e802d6faa4348207ca574e30bcbdcee585f,1.0,STARTUP,GitHub AI Organizations,https://github.com/oraios,Oraios,,2026-09-12T12:01:02.922313+00:00
+186,9b383a14856b9e29b291c4d7c048e050d859538fd973956ae6b076aa934c2615,1.0,STARTUP,GitHub AI Organizations,https://github.com/h2oai,H2oai,,2026-09-12T12:01:02.922383+00:00
+187,aec203835faf642d4d3f638499e2d0576785e02241a49e5166f399973fe40d63,1.0,STARTUP,GitHub AI Organizations,https://github.com/fw-ai,Fw Ai,,2026-09-12T12:01:02.922453+00:00
+188,294be361f0d4c93f51a265afe11b1f6cb70b4f03809fa4237164e4bf11519d97,1.0,STARTUP,GitHub AI Organizations,https://github.com/confident-ai,Confident Ai,,2026-09-12T12:01:02.922526+00:00
+189,0c6f85a73c0eb9e7a05c13dbb9336e504ae1beb7b6054def2f7d05baa165fcf8,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-infra-curriculum,Ai Infra Curriculum,,2026-09-12T12:01:02.922608+00:00
+190,6bf29b8867e5731200a5abe35fb3dea49879c676ee26c0c99cbd4e7fbeb488e4,1.0,STARTUP,GitHub AI Organizations,https://github.com/XLabs-AI,Xlabs Ai,,2026-09-12T12:01:02.922688+00:00
+191,857fd333298b8d924c8810db66c642f163de0c55448dce2a9d967a57da5633c7,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-dock,Ai Dock,,2026-09-12T12:01:02.922766+00:00
+192,be5e87541a165beb5c3e5e7bac9dc34778a0ce8e185beb2fc12fea1bf0b6d781,1.0,STARTUP,GitHub AI Organizations,https://github.com/sionic-ai,Sionic Ai,,2026-09-12T12:01:02.922848+00:00
+193,08bde45b59f98466ea2e52e65091c2d06472598d88a8546cbd381891971b12e7,1.0,STARTUP,GitHub AI Organizations,https://github.com/run-ai,Run Ai,,2026-09-12T12:01:02.922932+00:00
+194,00f55d7c50bc820dba78c5a26260333c007b1b97389941e1facc0844daec3b14,1.0,STARTUP,GitHub AI Organizations,https://github.com/rh-ai-quickstart,Rh Ai Quickstart,,2026-09-12T12:01:02.923035+00:00
+195,19855c65fd80985a6271415656fbe9136ddb48cb93474599280ec9d230af644d,1.0,STARTUP,GitHub AI Organizations,https://github.com/ContinualAI,Continualai,,2026-09-12T12:01:02.923115+00:00
+196,8cce756018e5548c699617cc76910b05f87a6a69435ede7a1ba2207869ceebc9,1.0,STARTUP,GitHub AI Organizations,https://github.com/kuafuai,Kuafuai,,2026-09-12T12:01:02.923187+00:00
+197,adba21c3ac7357eb6c42a9770bb247ee3cd137ececbe8f2be5c0c99066d0dc9c,1.0,STARTUP,GitHub AI Organizations,https://github.com/determined-ai,Determined Ai,,2026-09-12T12:01:02.923272+00:00
+198,85d36d73b46165d3a8d3c9990112136ca342b4ab0d879518409310e6970ddc41,1.0,STARTUP,GitHub AI Organizations,https://github.com/aimlapi,Aimlapi,,2026-09-12T12:01:02.923349+00:00
+199,ba0e7d26e01cbada592770b39c9ec20807685660e984fd8f094a036fc8f9a22d,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Riksarkivet,Ai Riksarkivet,,2026-09-12T12:01:02.923428+00:00
+200,9d2c23a2e06f314cb5082d249adc95ab54d3fcdf40a028d6fcf533fd1a70d829,1.0,STARTUP,GitHub AI Organizations,https://github.com/novitalabs,Novitalabs,,2026-09-12T12:01:02.923505+00:00
+201,f3109ce4facd66352fee5889ac4c00251b03d539cfe6511d8eb42c783a7c5f63,1.0,STARTUP,GitHub AI Organizations,https://github.com/defog-ai,Defog Ai,,2026-09-12T12:01:03.426326+00:00
+202,52b9ec3374e40144e8d09e1c823782b6ccc4c5888ba452170366e3e9a02a85f9,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIM-Harvard,Aim Harvard,,2026-09-12T12:01:03.426375+00:00
+203,d3ad8bc9d94c94755dd893e30d88d225d2d4a5b6f38851a14881050040b5ea79,1.0,STARTUP,GitHub AI Organizations,https://github.com/EmergenceAI,Emergenceai,,2026-09-12T12:01:03.426412+00:00
+204,ea386fc429294ef18a9ed633b709a59fee31e2e5d1707fd44ba2c180945daf4f,1.0,STARTUP,GitHub AI Organizations,https://github.com/gretelai,Gretelai,,2026-09-12T12:01:03.426453+00:00
+205,1813134f6ce3ad2a1fa4be27775082313314f1bf2f1665ad5a60e767280b974c,1.0,STARTUP,GitHub AI Organizations,https://github.com/evidentlyai,Evidentlyai,,2026-09-12T12:01:03.426487+00:00
+206,dce542fa0473a3760752ecc07a919b0f821f21f43e72f427a028c18edcaad249,1.0,STARTUP,GitHub AI Organizations,https://github.com/aaif,Aaif,,2026-09-12T12:01:03.426520+00:00
+207,6be41751a2c4490d6e815dbf9e48b0226602fd638c056a5d8a5902ac8cf51056,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiogram,Aiogram,,2026-09-12T12:01:03.426554+00:00
+208,575ca0598cf6eb6af78a147874db78c04352a011046706d2e59ab0ba509fde0f,1.0,STARTUP,GitHub AI Organizations,https://github.com/figurerobotics,Figurerobotics,,2026-09-12T12:01:03.426589+00:00
+209,a15acf0b1fcfa63b16c57005c1f502afa96589e41dd9fc21c01a93f243603c7e,1.0,STARTUP,GitHub AI Organizations,https://github.com/code-kern-ai,Code Kern Ai,,2026-09-12T12:01:03.426629+00:00
+210,39d3451972534c93868a11df767ee330484742862ef5a7984bf8af9aae89625a,1.0,STARTUP,GitHub AI Organizations,https://github.com/SpectacularAI,Spectacularai,,2026-09-12T12:01:03.426663+00:00
+211,15ce1ff6ad435da451ec25bf99b02d4f9d1852243c481271f00458e00a726af8,1.0,STARTUP,GitHub AI Organizations,https://github.com/SalesforceAIResearch,Salesforceairesearch,,2026-09-12T12:01:03.426700+00:00
+212,c373f613160041b76fa48c2e347b54c620efd7752b06b64ae50e439987f502a4,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-driven-dev,Ai Driven Dev,,2026-09-12T12:01:03.426740+00:00
+213,be551c8d9b6561c42239a973496f0f74eebb85caa6e3af4dcf672176044ac080,1.0,STARTUP,GitHub AI Organizations,https://github.com/lastmile-ai,Lastmile Ai,,2026-09-12T12:01:03.426776+00:00
+214,2c75489f46b9317a8d898b501dfbd59455deddf16bb6033c0607a1e2c6cde00a,1.0,STARTUP,GitHub AI Organizations,https://github.com/FlagAI-Open,Flagai Open,,2026-09-12T12:01:03.426811+00:00
+215,66ff42ecfa9ceb2f31a7b1a89fec67b1857f83f23708c261eb5888ecc32cbdf8,1.0,STARTUP,GitHub AI Organizations,https://github.com/om-ai-lab,Om Ai Lab,,2026-09-12T12:01:03.426849+00:00
+216,7985920f00da385c1d8847b4f620013c5b541d45012869b722a0ba6b3cdb9746,1.0,STARTUP,GitHub AI Organizations,https://github.com/trypear,Trypear,,2026-09-12T12:01:03.426883+00:00
+217,67e267bfacdccfd28a429465efc1102d88770c594ae52049cc7da697a6ee031f,1.0,STARTUP,GitHub AI Organizations,https://github.com/serp-ai,Serp Ai,,2026-09-12T12:01:03.426918+00:00
+218,a363c8e032b976bb98ca8e21cc9589411365d09a24b6b3eda844498fc80c1bd7,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIS-Bonn,Ais Bonn,,2026-09-12T12:01:03.426952+00:00
+219,b13a2ecdb98c4504885b5efd67ed469656208bf97c019a27b84a33b8d6a79930,1.0,STARTUP,GitHub AI Organizations,https://github.com/cdcai,Cdcai,,2026-09-12T12:01:03.426987+00:00
+220,33822d2f2c538c08595bc5927f85dd4ca47ac14262fe86d60443900069a736e5,1.0,STARTUP,GitHub AI Organizations,https://github.com/trustyai-explainability,Trustyai Explainability,,2026-09-12T12:01:03.427024+00:00
+221,f3709dd3d33ca5d83211ff1fc9be3709d5f6fe5aa499201c742fdb8b02f2902e,1.0,STARTUP,GitHub AI Organizations,https://github.com/airbus,Airbus,,2026-09-12T12:01:03.427058+00:00
+222,0bbd6ab7342ba9fc45bdcf500c52835fa92e3e8fc6c567d0b1e69b55f6374d39,1.0,STARTUP,GitHub AI Organizations,https://github.com/aimclub,Aimclub,,2026-09-12T12:01:03.427092+00:00
+223,719c99e77813a9ec3697622dcb5ce00250140d78e9e8b758e9ba6587e2548449,1.0,STARTUP,GitHub AI Organizations,https://github.com/The-AI-Alliance,The Ai Alliance,,2026-09-12T12:01:03.427131+00:00
+224,73a73c8264800a9e33794ebd8627e45dae1e025ef9e15605b7fe0048855b2010,1.0,STARTUP,GitHub AI Organizations,https://github.com/jupyter-naas,Jupyter Naas,,2026-09-12T12:01:03.427167+00:00
+225,da0ef4046003c4969c5ad0b70205c5a8eb909201df82388ec827be463d3e9143,1.0,STARTUP,GitHub AI Organizations,https://github.com/AISaturdaysLagos,Aisaturdayslagos,,2026-09-12T12:01:03.427201+00:00
+226,6044bdc25adadbf06e98d7f50909cc7f1330ed09bfe551b854500823db12e0a7,1.0,STARTUP,GitHub AI Organizations,https://github.com/AICoE,Aicoe,,2026-09-12T12:01:03.427235+00:00
+227,ce4cb3ec6d1bdeaf5e0cfe7426092ea69876680ca510f0c8d8c0640c74ccec89,1.0,STARTUP,GitHub AI Organizations,https://github.com/Marker-Inc-Korea,Marker Korea,,2026-09-12T12:01:03.427272+00:00
+228,87c24a5ce9740e0cb9fa7c91067cefecd024399da4594a0af1aaaea8c2da791b,1.0,STARTUP,GitHub AI Organizations,https://github.com/paiml,Paiml,,2026-09-12T12:01:03.427307+00:00
+229,7ab62944294b9f98164770bd5f95b60805eecf76bce74bc3c3a416f398368247,1.0,STARTUP,GitHub AI Organizations,https://github.com/ReconAI,Reconai,,2026-09-12T12:01:03.427340+00:00
+230,ddbc6a291921d444a29337d8430d78e1ade7a3415343e8ce205a6ef9e7cc9e39,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Planning,Ai Planning,,2026-09-12T12:01:03.427375+00:00
+231,cfb8b74a8cfd72d29f37949496667c7c82e993fa19e5f5cacf2267c033ec5663,1.0,STARTUP,GitHub AI Organizations,https://github.com/NapthaAI,Napthaai,,2026-09-12T12:01:03.427408+00:00
+232,722134d0c7350213a59f3071663f196996a360811a3b82cce3ff413b2f7679aa,1.0,STARTUP,GitHub AI Organizations,https://github.com/aidecentralized,Aidecentralized,,2026-09-12T12:01:03.427444+00:00
+233,30bdcdc5b7c44f5802a65f6f37990c78c9521e89e6ab1708d0c066e114b70e34,1.0,STARTUP,GitHub AI Organizations,https://github.com/axolotl-ai-cloud,Axolotl Ai Cloud,,2026-09-12T12:01:03.427483+00:00
+234,5da1a5768c1a41473b7021fec2cdd795906d74909d973de33ff9ecd85a194cf5,1.0,STARTUP,GitHub AI Organizations,https://github.com/airalab,Airalab,,2026-09-12T12:01:03.427516+00:00
+235,7e3bf1e74652e1389bf834ba21561953f1eb639f335978cc20f12332a738221f,1.0,STARTUP,GitHub AI Organizations,https://github.com/trycompai,Trycompai,,2026-09-12T12:01:03.427550+00:00
+236,90c1be4d59b05834a63f515ce8acb37e997d52f7de40617883b877003acdd341,1.0,STARTUP,GitHub AI Organizations,https://github.com/maximhq,Maximhq,,2026-09-12T12:01:03.427582+00:00
+237,fefcd686cd1ad5fa274714dfb1ffb846d955e2750a4753c41c65cfbc52c53835,1.0,STARTUP,GitHub AI Organizations,https://github.com/Oxen-AI,Oxen Ai,,2026-09-12T12:01:03.427617+00:00
+238,6f8ac39065419b422827457d918368b96d5739054488eba0efd556e2a6b8ae89,1.0,STARTUP,GitHub AI Organizations,https://github.com/alphanome-ai,Alphanome Ai,,2026-09-12T12:01:03.427652+00:00
+239,b57bbf9e060bd1b73c103699f8439216fa369f1e91dbefb990387b252997e1ad,1.0,STARTUP,GitHub AI Organizations,https://github.com/vast-ai,Vast Ai,,2026-09-12T12:01:03.427686+00:00
+240,3e155c0983bff3b5dcfac85d8ec0e380c6826da5c2adae1001c65fe2f4e20921,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI21Labs,Ai21labs,,2026-09-12T12:01:03.427720+00:00
+241,59997383d3615a856c2ec0b007412da6fe2fa3bcb8fe616833ebd15fa4a5201f,1.0,STARTUP,GitHub AI Organizations,https://github.com/PennyLaneAI,Pennylaneai,,2026-09-12T12:01:03.427753+00:00
+242,532bb402a7dccba47791dc588f963cd6c22099d1260eaa499b0bb3f06369447d,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIR-DISCOVER,Air Discover,,2026-09-12T12:01:03.427788+00:00
+243,20e6ba25222da6115dc988d4d491a53b498b04426d2d9b3fd954ce4879a3d0ed,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIGeeksGroup,Aigeeksgroup,,2026-09-12T12:01:03.427836+00:00
+244,4bf0645840a0c081d03e73643a7c4fff73dbe65fca216537023edd64ae76217f,1.0,STARTUP,GitHub AI Organizations,https://github.com/tradingstrategy-ai,Tradingstrategy Ai,,2026-09-12T12:01:03.427876+00:00
+245,859781acb6eabc922089cdff7a8b7f55504dcfe5ff5e10d30fdc225fcd1bd5e1,1.0,STARTUP,GitHub AI Organizations,https://github.com/RelationalAI,Relationalai,,2026-09-12T12:01:03.427910+00:00
+246,9f373615b38abca50cb31fcc415f72994ea00e3fce971fa0528077c8ca067631,1.0,STARTUP,GitHub AI Organizations,https://github.com/ros-claw,Ros Claw,,2026-09-12T12:01:03.427945+00:00
+247,457c1dc8a0ae6dbe4da58e8d25e0ce95534aad6143c92ead2dfcc7c61bd77db3,1.0,STARTUP,GitHub AI Organizations,https://github.com/PrunaAI,Prunaai,,2026-09-12T12:01:03.427979+00:00
+248,605500ecaf481ba932bd8c7f1af3efb3ca1875ab8396c5c388a72231c783a2ef,1.0,STARTUP,GitHub AI Organizations,https://github.com/nullclaw,Nullclaw,,2026-09-12T12:01:03.428013+00:00
+249,0129b47936e673160fa9afb31e147879d8f7ea58ed1339e3ea5bb1268146a0f3,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI45Lab,Ai45lab,,2026-09-12T12:01:03.428047+00:00
+250,244343dc6c0c1de02ac090f78a3abdd75986f8bce0bfd3e5a917bce13624504d,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiken-lang,Aiken Lang,,2026-09-12T12:01:03.428083+00:00
+251,24a36e5bb5d400db57eef30c1b5d4d2c89e04f2d8817c4f96f7db56aa2e77bce,1.0,STARTUP,GitHub AI Organizations,https://github.com/spring-ai-community,Spring Ai Community,,2026-09-12T12:01:03.428123+00:00
+252,dae742f02f8b3b88469025c758047119a89a875309edac5d1ebca32e80dbaa51,1.0,STARTUP,GitHub AI Organizations,https://github.com/AssemblyAI-Community,Assemblyai Community,,2026-09-12T12:01:03.428160+00:00
+253,703de127dcd2e654d60a6b6c0783e7434a218e176aa6c4d8cb21394561f3dd60,1.0,STARTUP,GitHub AI Organizations,https://github.com/snorkel-ai,Snorkel Ai,,2026-09-12T12:01:03.428197+00:00
+254,b3b36eacf6da617991e1b4cd93a33c91e110b7785d5746c3461ec1f3510f93e0,1.0,STARTUP,GitHub AI Organizations,https://github.com/tinkoff-ai,Tinkoff Ai,,2026-09-12T12:01:03.428231+00:00
+255,775a1a878a772b16557e637a323e650d8ad5695f6370d3491db1e29ae1e66f87,1.0,STARTUP,GitHub AI Organizations,https://github.com/malaysia-ai,Malaysia Ai,,2026-09-12T12:01:03.428268+00:00
+256,fbb838d8b6cd0c213fd9ea7ec7e625bd171f64b08cb69f617542c77aca1739d4,1.0,STARTUP,GitHub AI Organizations,https://github.com/lovstudio,Lovstudio,,2026-09-12T12:01:03.428302+00:00
+257,8a38a8c2ab7f163c6be281bfa13f65e0a4c2d159199a15b70c362d9c241cca1d,1.0,STARTUP,GitHub AI Organizations,https://github.com/sqliteai,Sqliteai,,2026-09-12T12:01:03.428335+00:00
+258,3e0c343eb66158b44d2fe4ed027bda5995582f0fcaa3adb6d3b9794f848a3a98,1.0,STARTUP,GitHub AI Organizations,https://github.com/ScrapeGraphAI,Scrapegraphai,,2026-09-12T12:01:03.428371+00:00
+259,3d53dcf0e1e3affb7eb140b0dae38008c4a2cb69b76764fe206e2675c9612041,1.0,STARTUP,GitHub AI Organizations,https://github.com/krafton-ai,Krafton Ai,,2026-09-12T12:01:03.428409+00:00
+260,b0e74e701060fa1b5f2af48c06a910e66123aab324551833bbe202e12583e8bc,1.0,STARTUP,GitHub AI Organizations,https://github.com/OSCC-Project,Oscc Project,,2026-09-12T12:01:03.428444+00:00
+261,611404e106cdff991dea254c0f4a38240757b4c36bd49142006eb031950b4b9b,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-for-developers,Ai For Developers,,2026-09-12T12:01:03.428482+00:00
+262,05abee3c03fa7d6694557326774ea07da4ec899024eadea2f94238ab678a3bbe,1.0,STARTUP,GitHub AI Organizations,https://github.com/maritaca-ai,Maritaca Ai,,2026-09-12T12:01:03.428529+00:00
+263,aa025b6e4886ce55c1a4e3bbaffe5a53f35f5de0cf509f2994f82e4412429f8f,1.0,STARTUP,GitHub AI Organizations,https://github.com/NexaAI,Nexaai,,2026-09-12T12:01:03.428562+00:00
+264,b21d1a62101c724dfbb6cf3ee6457d373fbe62ebbbcc0f9a9afc651c2aef412e,1.0,STARTUP,GitHub AI Organizations,https://github.com/RLHFlow,Rlhflow,,2026-09-12T12:01:03.428596+00:00
+265,b09d2a170d05986dfe1d7b3e310a19a61d4d26e558172bd23dda1caf87f6ee72,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-SW-Maestro-OSS,Ai Sw Maestro Oss,,2026-09-12T12:01:03.428637+00:00
+266,4f428f97680de00cd2073ba1c9e722cf03826aefb663d6a85d6204405f9cf6fd,1.0,STARTUP,GitHub AI Organizations,https://github.com/linto-ai,Linto Ai,,2026-09-12T12:01:03.432516+00:00
+267,aa305d76655c97a3050f837aba287e6fb854fc0a754d36e99b76662930aed00a,1.0,STARTUP,GitHub AI Organizations,https://github.com/erc-8004,Erc 8004,,2026-09-12T12:01:03.432641+00:00
+268,7e67aba26151d49fb47ed83dacaff3313cb35136d9f915df97e938f236cd9189,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Engineer-Skool,Ai Engineer Skool,,2026-09-12T12:01:03.432705+00:00
+269,92b2e6af2545afb97c967cc711d923e66577e0c282cf9c44f178f5b7e004f480,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIRLab-POLIMI,Airlab Polimi,,2026-09-12T12:01:03.432768+00:00
+270,620577407bd71923baf91eb1e9424fadc0b13453b340e0787e7e2789e158708b,1.0,STARTUP,GitHub AI Organizations,https://github.com/airframesio,Airframesio,,2026-09-12T12:01:03.432819+00:00
+271,fb4c09e636d13248e84631542e7f290dea1ed9ef3f35f803c5d7a8faf022b0db,1.0,STARTUP,GitHub AI Organizations,https://github.com/eigent-ai,Eigent Ai,,2026-09-12T12:01:03.432870+00:00
+272,e6e2be6c1ffb5c143e42491f2edcd12b2fbe56fd2b2ab5bc3b26d18753913b9c,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiidateam,Aiidateam,,2026-09-12T12:01:03.432916+00:00
+273,c5aada8708db6b2787a85b7004a0e0d0797728ed8dbf86a2971c52345326e3df,1.0,STARTUP,GitHub AI Organizations,https://github.com/Integuru-AI,Integuru Ai,,2026-09-12T12:01:03.432968+00:00
+274,3f4b786665e6d53a3d5069b11753f3ac180ac212840741574b7aa0af337e1fdf,1.0,STARTUP,GitHub AI Organizations,https://github.com/QuantaAlpha,Quantaalpha,,2026-09-12T12:01:03.433022+00:00
+275,2a8656e03933312efc52ddc4f09158fe1d9670e64e422f4243b18142ca9bc45e,1.0,STARTUP,GitHub AI Organizations,https://github.com/GeminiGenAI,Geminigenai,,2026-09-12T12:01:03.433073+00:00
+276,46b2477ac7b394aea3faa456b058e5a3f83647fbd20207766f88f56e4ef1ada4,1.0,STARTUP,GitHub AI Organizations,https://github.com/meshy-dev,Meshy Dev,,2026-09-12T12:01:03.433126+00:00
+277,4b8cd82896fb17c58febfc4dd89b1b1c065e74191d55bdafa29efd34ec97ec2d,1.0,STARTUP,GitHub AI Organizations,https://github.com/langgptai,Langgptai,,2026-09-12T12:01:03.433321+00:00
+278,d77590aa751a4f839633c7c97c3a9039c59e622cc07c582a2e3cc2d33aff711b,1.0,STARTUP,GitHub AI Organizations,https://github.com/airacingtech,Airacingtech,,2026-09-12T12:01:03.433434+00:00
+279,f51dcd399b4fbcaf8c8af4ddc1f999296661a2e6bcf49602f12248b9299beb2a,1.0,STARTUP,GitHub AI Organizations,https://github.com/aimat-lab,Aimat Lab,,2026-09-12T12:01:03.433586+00:00
+280,6302d4a2355f3d7b964951ec987885af35c8e337735a714f92b83704a42e4acf,1.0,STARTUP,GitHub AI Organizations,https://github.com/veniceai,Veniceai,,2026-09-12T12:01:03.433657+00:00
+281,7aa66b3e892de6b9d0035e7506b45db2290123ebb4322f3236bc30601ee1c456,1.0,STARTUP,GitHub AI Organizations,https://github.com/AstrBotDevs,Astrbotdevs,,2026-09-12T12:01:03.433712+00:00
+282,f3cbf36f72f111a5a3957e4d6da69d3a2f040d8a1513db431c1b16f54b5746ec,1.0,STARTUP,GitHub AI Organizations,https://github.com/LykosAI,Lykosai,,2026-09-12T12:01:03.433764+00:00
+283,42291ed4407152a867fd350dd34d37eed7f8cc8db22bbfe3c1a91e3592bd95ab,1.0,STARTUP,GitHub AI Organizations,https://github.com/KudoAI,Kudoai,,2026-09-12T12:01:03.433818+00:00
+284,331f1cd95881365f66e54a9fd8f7badb8eb31352b5882d961843dd23294d67ad,1.0,STARTUP,GitHub AI Organizations,https://github.com/cheshire-cat-ai,Cheshire Cat Ai,,2026-09-12T12:01:03.433908+00:00
+285,1974c3ca7f0d87d41915808d287e5d009c951e3883f38e1da9eeca9e5f3ef32f,1.0,STARTUP,GitHub AI Organizations,https://github.com/ailyProject,Ailyproject,,2026-09-12T12:01:03.433980+00:00
+286,a43cbf08f0bfd2cd74273c98b4b6a722fb86795921eb41351fa3cf57a086c537,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4Science-WestlakeU,Ai4science Westlakeu,,2026-09-12T12:01:03.434042+00:00
+287,88eea56e5bbf3b0dbf27e3084eb2435b9d1994e207c772fb15f03131ec0c80da,1.0,STARTUP,GitHub AI Organizations,https://github.com/sinaptik-ai,Sinaptik Ai,,2026-09-12T12:01:03.434101+00:00
+288,4c5fd4da07bb338a1c8c80a275878a08712cff298d5f20fde36fba8bc67a84b0,1.0,STARTUP,GitHub AI Organizations,https://github.com/buildwithflux,Buildwithflux,,2026-09-12T12:01:03.434158+00:00
+289,a1eead88390eb50e206af23be9b6401dec6d5442fd63c69e15b8a08becf21f00,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-med,Ai Med,,2026-09-12T12:01:03.434225+00:00
+290,07e44f832e34767970e3f4b7c9e855354f27eccf6e7fb679c83b4496c359ab3f,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai4protein,Ai4protein,,2026-09-12T12:01:03.434283+00:00
+291,ee63b155b9701edfb2b489c3d05f94390ee4e6f7c2158fa1938a9938279d5ab1,1.0,STARTUP,GitHub AI Organizations,https://github.com/gofireflyio,Gofireflyio,,2026-09-12T12:01:03.434347+00:00
+292,38af1361ed1eaacaaa67eba8af6747f7755545827283e82efe8117efd352b216,1.0,STARTUP,GitHub AI Organizations,https://github.com/zylos-ai,Zylos Ai,,2026-09-12T12:01:03.434404+00:00
+293,b9284f00e5f9eda4c5f14549c6eb16525f9e3375c3b93301851c861b0093ed9e,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIKU-Official,Aiku Official,,2026-09-12T12:01:03.434464+00:00
+294,142d2e8d871691777d83908d27f1d1aecbc8ee92103bce064e16721c0162e72e,1.0,STARTUP,GitHub AI Organizations,https://github.com/hao-ai-lab,Hao Ai Lab,,2026-09-12T12:01:03.434529+00:00
+295,83c43f864adda095d1d729f90f7af52ddf6aa141565a1b98e9b92e9cb9a3f610,1.0,STARTUP,GitHub AI Organizations,https://github.com/decodingai-magazine,Decodingai Magazine,,2026-09-12T12:01:03.434591+00:00
+296,22c4f1482dfb874708ebacafdffe0ab3f8140d344150af7b04f647c20dd3b6d5,1.0,STARTUP,GitHub AI Organizations,https://github.com/Bria-AI,Bria Ai,,2026-09-12T12:01:03.434651+00:00
+297,da701e3d8f623f27c3e1f9cc06b0a410fa014cc9647a145b8ca2be99f0678224,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIVIETNAMResearch,Aivietnamresearch,,2026-09-12T12:01:03.434706+00:00
+298,156a8d7c02ae71374e9372bd9cf8dce493260634ff62b72fd68ace41e4a74559,1.0,STARTUP,GitHub AI Organizations,https://github.com/Aidoku,Aidoku,,2026-09-12T12:01:03.434764+00:00
+299,f1b10c2b958fb46d450244aad7c8fbf15d197cf17f243ff6b055f5955c16816a,1.0,STARTUP,GitHub AI Organizations,https://github.com/lablab-ai,Lablab Ai,,2026-09-12T12:01:03.434821+00:00
+300,aa2a7e31b9fad8fed195a8ef763e437f0f83990c6bb532fd9b7e9112684833a0,1.0,STARTUP,GitHub AI Organizations,https://github.com/hanzoai,Hanzoai,,2026-09-12T12:01:03.434876+00:00
+301,44b118d2845458bc00ddd35340204a5221a4ad42133b8419691a7c7fd30a6c15,1.0,STARTUP,GitHub AI Organizations,https://github.com/aigc-apps,Aigc Apps,,2026-09-12T12:01:03.978871+00:00
+302,d985378adf589c66bffafe16859e5cfeb748480cee5f135e6ae5d4304d2a94fc,1.0,STARTUP,GitHub AI Organizations,https://github.com/kontent-ai,Kontent Ai,,2026-09-12T12:01:03.979000+00:00
+303,1465ec8b914d7809f2686cfe06d1de7c77f64164d14dc30dee5f079af39b9bfe,1.0,STARTUP,GitHub AI Organizations,https://github.com/rh-aiservices-bu,Rh Aiservices Bu,,2026-09-12T12:01:03.979104+00:00
+304,94a204b34353afc804d77f2b78c026bcded3d51e9453617475516a0d5407d27e,1.0,STARTUP,GitHub AI Organizations,https://github.com/probabilisticai,Probabilisticai,,2026-09-12T12:01:03.979193+00:00
+305,598f031d5e8bf1a7d2c77dea922a5a618ad8d0576833a4112d930f4c7e6a16de,1.0,STARTUP,GitHub AI Organizations,https://github.com/Qualcomm-AI-research,Qualcomm Ai Research,,2026-09-12T12:01:03.979298+00:00
+306,e0472ef8fef877f8a3beb95ca01c4e3cd18c0509d7b3f7295d2c814a4e1bf0d3,1.0,STARTUP,GitHub AI Organizations,https://github.com/IAHispano,Iahispano,,2026-09-12T12:01:03.979384+00:00
+307,20b9c0a0988bdc27f4810a1f225be33c2cb75ce76a8c4db3ffabd681d835cd3e,1.0,STARTUP,GitHub AI Organizations,https://github.com/SantanderAI,Santanderai,,2026-09-12T12:01:03.979465+00:00
+308,edabd967b669c4feacd1729d9e865c5fdf92cc85301ad0dc71854296b5dccedd,1.0,STARTUP,GitHub AI Organizations,https://github.com/RevylAI,Revylai,,2026-09-12T12:01:03.979551+00:00
+309,005132aa18e9abb559e2f78cd22dec05ad1044b49412406aa3c64d8605110d91,1.0,STARTUP,GitHub AI Organizations,https://github.com/ContextualAI,Contextualai,,2026-09-12T12:01:03.979683+00:00
+310,29d2a7c6a83d49cd810ad6c5eda87b094c43c508ecd37045642ac8433c5a086f,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiQuest-Intelligence,Aiquest Intelligence,,2026-09-12T12:01:03.979780+00:00
+311,4cd49e6d2b4247e092f9381e888fd7505e4bc35cd03ff239336b8c721ba989d8,1.0,STARTUP,GitHub AI Organizations,https://github.com/TsinghuaAI,Tsinghuaai,,2026-09-12T12:01:03.979863+00:00
+312,aece8471b0c9b6d1d20e45c90730833abfbe9ba9f527a6b354364dd65bc164bf,1.0,STARTUP,GitHub AI Organizations,https://github.com/BengaliAI,Bengaliai,,2026-09-12T12:01:03.979951+00:00
+313,652e7dae32c0c905394bce88763899b45943d56260bb69aa35bf801deddd1930,1.0,STARTUP,GitHub AI Organizations,https://github.com/nansen-ai,Nansen Ai,,2026-09-12T12:01:03.980052+00:00
+314,b7d3116dfda6fcacb30d610780e9d2ef62e3eda405ed9fd646bba0227498bb87,1.0,STARTUP,GitHub AI Organizations,https://github.com/InfuseAI,Infuseai,,2026-09-12T12:01:03.980167+00:00
+315,f6221bcf22457cf201c8e4e46091377a188926f5d21a0c02687aadec34f252d6,1.0,STARTUP,GitHub AI Organizations,https://github.com/All-Hands-AI,All Hands Ai,,2026-09-12T12:01:03.980282+00:00
+316,599c475f4162ee79b72dce5f8ab157c1383b25631a7928d89d73fb79a35aea9f,1.0,STARTUP,GitHub AI Organizations,https://github.com/athina-ai,Athina Ai,,2026-09-12T12:01:03.980379+00:00
+317,7aff23715f64263dda4fe48274b4ac5166b2dfe26f38424a21748e580796e835,1.0,STARTUP,GitHub AI Organizations,https://github.com/airwallex,Airwallex,,2026-09-12T12:01:03.980468+00:00
+318,4a8714cc5736aa864b0d51b92020050b775ac05766859e68192789e3954623c6,1.0,STARTUP,GitHub AI Organizations,https://github.com/flowaicom,Flowaicom,,2026-09-12T12:01:03.980555+00:00
+319,6dc66467ac80b87a2a350748dfaf14b8f8598e8abe455c845e03c1c7a12f51c0,1.0,STARTUP,GitHub AI Organizations,https://github.com/moises-ai,Moises Ai,,2026-09-12T12:01:03.980646+00:00
+320,a0ee397ed81b979a2c97501da5b6d1ba74c699ea448e19f87053ad0c27eeb131,1.0,STARTUP,GitHub AI Organizations,https://github.com/DerwenAI,Derwenai,,2026-09-12T12:01:03.980733+00:00
+321,bb4cb38dc9d45be622760f3e801676024749868ced3dfeb6910635bab0ee08a5,1.0,STARTUP,GitHub AI Organizations,https://github.com/Ansvar-Systems,Ansvar Systems,,2026-09-12T12:01:03.980819+00:00
+322,6ff9050e49ca82e62df36d7d280bb2550552ec3a42cadd142cf0978b7ebb485f,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-twinkle,Ai Twinkle,,2026-09-12T12:01:03.980903+00:00
+323,8fac1743700d123f9230cc6dde1238d86f3c1a9d8c6446390135923acd3c020f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIoT-MLSys-Lab,Aiot Mlsys Lab,,2026-09-12T12:01:03.980986+00:00
+324,b234db6b96d54862028534b14ca563ed38a3c974c721856a2f4335b6c91fa0a0,1.0,STARTUP,GitHub AI Organizations,https://github.com/flowdriveai,Flowdriveai,,2026-09-12T12:01:03.981061+00:00
+325,f94afef1261cc4c8b76fe4e6af2ea9eea5360332e8cdb44661b329200084006b,1.0,STARTUP,GitHub AI Organizations,https://github.com/sberbank-ai,Sberbank Ai,,2026-09-12T12:01:03.981139+00:00
+326,f8a27ffbcb298e5e76e4db1ea3eddfdd95a20f39a73467ebea04bdd5d55bc173,1.0,STARTUP,GitHub AI Organizations,https://github.com/postgres-ai,Postgres Ai,,2026-09-12T12:01:03.981216+00:00
+327,da9a9c60735a751c7203e4df79125d7a14a1619b458e2370a977ac933bbbc302,1.0,STARTUP,GitHub AI Organizations,https://github.com/SaharaLabsAI,Saharalabsai,,2026-09-12T12:01:03.981291+00:00
+328,4be444ddfb3cc37a0670e99101508ea23939d788ee1442f864302bbdcebc18cd,1.0,STARTUP,GitHub AI Organizations,https://github.com/character-ai,Character.ai,,2026-09-12T12:01:03.981333+00:00
+329,286e239943061def150e85c4f94a7caa473138e372be5ded9567960e99618751,1.0,STARTUP,GitHub AI Organizations,https://github.com/sovaai,Sovaai,,2026-09-12T12:01:03.981407+00:00
+330,f4a666773c4511f4b00245ecc3314fa4a948f3bd24a48a8fba79db2ec851cfcd,1.0,STARTUP,GitHub AI Organizations,https://github.com/CharHubAI,Charhubai,,2026-09-12T12:01:03.981485+00:00
+331,ae95070972f65af52c3f1fe19086944f4acd8185262b0f3415324a9492bcdc66,1.0,STARTUP,GitHub AI Organizations,https://github.com/Airthings,Airthings,,2026-09-12T12:01:03.981558+00:00
+332,75fe20fc62de64eb8c3ce3ed9c9e672ddd7bd3c903aae27fd4e13881e87e4591,1.0,STARTUP,GitHub AI Organizations,https://github.com/AgnesAI-Labs,Agnesai,,2026-09-12T12:01:03.981640+00:00
+333,ecf9eff945b14c77ffd67214699b77e3665eb356d7156e396a3eb65ebd393a9d,1.0,STARTUP,GitHub AI Organizations,https://github.com/WaveSpeedAI,Wavespeedai,,2026-09-12T12:01:03.981714+00:00
+334,1c6d3abfece53884056cd02b80efeea709821ac07c9eeeafc0b97d9cdc1075d8,1.0,STARTUP,GitHub AI Organizations,https://github.com/AmbiqAI,Ambiqai,,2026-09-12T12:01:03.981788+00:00
+335,67f1c92ae96206f826e18c15357c61aa62debfa76d2e775017ebb7d9c4d12767,1.0,STARTUP,GitHub AI Organizations,https://github.com/IITGuwahati-AI,Iitguwahati Ai,,2026-09-12T12:01:03.981867+00:00
+336,8869512561e07fbc777ef87a6871dbd0073cda7e3d40ee32841a17a30b73b883,1.0,STARTUP,GitHub AI Organizations,https://github.com/T3xtifyai,T3xtifyai,,2026-09-12T12:01:03.981940+00:00
+337,6c705e3f9359d1175d87f5b8686b8955c99493f4ee7ad061a5d63cca3a2a9880,1.0,STARTUP,GitHub AI Organizations,https://github.com/AiuniAI,Aiuniai,,2026-09-12T12:01:03.981971+00:00
+338,b6b7339cd3a102e9ddd735f6f7e9f545736f9b8f054655f559f2bfa7f95e5f7e,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIR-THU,Air Thu,,2026-09-12T12:01:03.982004+00:00
+339,e41e48c5ef24c54c7df66d573d2529d18106b5daf74bfdf2bd5b1d13bc0eb1c8,1.0,STARTUP,GitHub AI Organizations,https://github.com/SuperagenticAI,Superagenticai,,2026-09-12T12:01:03.982035+00:00
+340,ce507c10e77422239342342657b8ea28d4dcafa45d6b790351bca1322fc608ea,1.0,STARTUP,GitHub AI Organizations,https://github.com/api7,Api7,,2026-09-12T12:01:03.982065+00:00
+341,260630468aeb3bf5136dfb620f90f8f72bbafe19563740fc96772ffb9bc2c31f,1.0,STARTUP,GitHub AI Organizations,https://github.com/albumentations-team,Albumentations Team,,2026-09-12T12:01:03.982100+00:00
+342,9921c3dd54d561e87a959d1e659b26964b714bf151b2047b21652bdbb61b62c7,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-village-agents,Ai Village Agents,,2026-09-12T12:01:03.982134+00:00
+343,a1eb066995abd15f500d13538a789cf27a4e9d2bf13bcc7b45035321d38d3064,1.0,STARTUP,GitHub AI Organizations,https://github.com/Armur-Ai,Armur Ai,,2026-09-12T12:01:03.982174+00:00
+344,a9c49b80ac252809a2cfb87dfe9c12cc4edec2c4a1315d9950a307b7772076c9,1.0,STARTUP,GitHub AI Organizations,https://github.com/Klavis-AI,Klavis Ai,,2026-09-12T12:01:03.982210+00:00
+345,c487f976a868748214f0add48d584341a89d06ccd75a05e00f83be6a6a049c5b,1.0,STARTUP,GitHub AI Organizations,https://github.com/PolyAI-LDN,Polyai Ldn,,2026-09-12T12:01:03.982258+00:00
+346,832be336cec758c49717b029c64c6755ea8800d5c0fbe44a378d758e90d4dbef,1.0,STARTUP,GitHub AI Organizations,https://github.com/cisco-ai-defense,Cisco Ai Defense,,2026-09-12T12:01:03.982293+00:00
+347,8db74842bd7cb2ccb50d999793adde4fda9212cdd097a212199afe8914ab9bfa,1.0,STARTUP,GitHub AI Organizations,https://github.com/Aiven-Labs,Aiven,,2026-09-12T12:01:03.982326+00:00
+348,8b618b333c48393aa75bcb38ad3add309dcdd125de929c421fd69e7d671c0ba6,1.0,STARTUP,GitHub AI Organizations,https://github.com/chai-research,Chai Research,,2026-09-12T12:01:03.982363+00:00
+349,223bf89651ed4d0b8d920dbc3058ab13a3a3b26b8dde2d7989fe07e0e429f4c0,1.0,STARTUP,GitHub AI Organizations,https://github.com/RetellAI,Retellai,,2026-09-12T12:01:03.982395+00:00
+350,7ed6ccabeb31219b1cc8ee75c371fc2fee69882db5a581eab6b27778ad582d0c,1.0,STARTUP,GitHub AI Organizations,https://github.com/vibing-ai,Vibing Ai,,2026-09-12T12:01:03.982428+00:00
+351,a6074532c943263d987ad283202a5334f76a34fce072c898e84d15b51084a4d4,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4LAM,Ai4lam,,2026-09-12T12:01:03.982459+00:00
+352,b94841ef0c3d9548b4a48a27d6f7c03a504c0ee867bd7e70bc3b92fb76020f91,1.0,STARTUP,GitHub AI Organizations,https://github.com/funstory-ai,Funstory Ai,,2026-09-12T12:01:03.982499+00:00
+353,f59753a24a85610ff3a12a5220bf48b9cd40fae5dc93c4ba78ecd0bf2759ba33,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIGCDesignGroup,Aigcdesigngroup,,2026-09-12T12:01:03.982535+00:00
+354,ff1cc2c0a8349244c7c9b113aec07482fc54ca4f82acc518ed5d58e75a946894,1.0,STARTUP,GitHub AI Organizations,https://github.com/skit-ai,Skit Ai,,2026-09-12T12:01:03.982568+00:00
+355,6de9cf0a299259635596ac922210f893b6fc26cfebb85aae6286b87317dde1c8,1.0,STARTUP,GitHub AI Organizations,https://github.com/timeseriesAI,Timeseriesai,,2026-09-12T12:01:03.982600+00:00
+356,7aba4500a2b0c400bb5967460006b907ffbb3d9d2c4b8dee111751aa43566341,1.0,STARTUP,GitHub AI Organizations,https://github.com/localai-org,Localai Org,,2026-09-12T12:01:03.982635+00:00
+357,11beff80dc1d5968c287747ab3fe985ca106bf0ede070b8a8926a60340be9d39,1.0,STARTUP,GitHub AI Organizations,https://github.com/Continuum-AI-Corp,Continuum Ai,,2026-09-12T12:01:03.982669+00:00
+358,ae577cbc594d22def62a73cb69e4a176d2e527cec0815f8b031e2310d0f36e40,1.0,STARTUP,GitHub AI Organizations,https://github.com/airflow-plugins,Airflow Plugins,,2026-09-12T12:01:03.982702+00:00
+359,ef17dd32e51f500523a76de5e4ac1bf1fd359f692699771d5cba76f80a44c6ee,1.0,STARTUP,GitHub AI Organizations,https://github.com/airbus-cyber,Airbus Cyber,,2026-09-12T12:01:03.982739+00:00
+360,7a00f8bf5e43aef06b1fab88acecd6fc6da89d49d80b3ed16b7ff64b9349345c,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Core,Ai Core,,2026-09-12T12:01:03.982771+00:00
+361,f08a44d19c945b64cbaf5f210896e96b9a34b054aeab2d997c5fe894e11e8933,1.0,STARTUP,GitHub AI Organizations,https://github.com/recallai,Recallai,,2026-09-12T12:01:03.982804+00:00
+362,b36ee586da73bbb731ecda2c837fc3a095f393bd49917530ccb6161e13a770c5,1.0,STARTUP,GitHub AI Organizations,https://github.com/recursivelabsai,Recursivelabsai,,2026-09-12T12:01:03.982836+00:00
+363,12a01f0db84015ff186ba293dc7a79435a08e370a9f5a1da42550f99ffcdafca,1.0,STARTUP,GitHub AI Organizations,https://github.com/aibtcdev,Aibtcdev,,2026-09-12T12:01:03.982871+00:00
+364,471bcdeafe1293a60f5d8e5a72e52bec4863ba058ee035a8e3a657d9497c9b4e,1.0,STARTUP,GitHub AI Organizations,https://github.com/shisa-ai,Shisa Ai,,2026-09-12T12:01:03.982903+00:00
+365,f200b50f31697dbc564a3a2617ced6a731fb3f0f854637ce017312026cb0813e,1.0,STARTUP,GitHub AI Organizations,https://github.com/cvat-ai,Cvat Ai,,2026-09-12T12:01:03.982935+00:00
+366,d78d56cab0d66f636e884b9c5025cbd151a3e1faa1c293a08c10efd13203156a,1.0,STARTUP,GitHub AI Organizations,https://github.com/SunbirdAI,Sunbirdai,,2026-09-12T12:01:03.982969+00:00
+367,8411e016d59aff160828b0a9b43e92854c3039a9f4966aabd6c4f260214bd198,1.0,STARTUP,GitHub AI Organizations,https://github.com/Tonic-AI,Tonic Ai,,2026-09-12T12:01:03.983053+00:00
+368,65f9f5e9b8e6ee2bd89d6160bd6caf73b3c919c95800c0bc85ef61800db9520b,1.0,STARTUP,GitHub AI Organizations,https://github.com/SparkAudio,Sparkaudio,,2026-09-12T12:01:03.983142+00:00
+369,1e926af5785139c8ed4ce4911540066ac2fb80f117385f23fbf814dce6b6b371,1.0,STARTUP,GitHub AI Organizations,https://github.com/FirmAI-Research,Firmai Research,,2026-09-12T12:01:03.983240+00:00
+370,2897645683a3464f1ffa7a49e17db9f22191885ac25975cea533092e71b56804,1.0,STARTUP,GitHub AI Organizations,https://github.com/kaiko-ai,Kaiko Ai,,2026-09-12T12:01:03.983338+00:00
+371,eb5de27b49c8ccbd2b82cb43f6e4a605a5e5b750fade59c994b1ec724dd818c5,1.0,STARTUP,GitHub AI Organizations,https://github.com/Ethara-Ai,Ethara Ai,,2026-09-12T12:01:03.983432+00:00
+372,2d87f5d4d5a870d80d8b66472315fdfdb652aa32b84d08c07718ada2ea89e05d,1.0,STARTUP,GitHub AI Organizations,https://github.com/aitechnav,Aitechnav,,2026-09-12T12:01:03.983519+00:00
+373,06bb6729dd005b96221d38c0f0fcc638df924c61c63e66b63e5b5941333c15e3,1.0,STARTUP,GitHub AI Organizations,https://github.com/chatboxai,Chatboxai,,2026-09-12T12:01:03.983608+00:00
+374,5de394c444292422a06fadeecf3324b2ab6918029fd09e30d23894a27ecc6aca,1.0,STARTUP,GitHub AI Organizations,https://github.com/kaistAI,Kaistai,,2026-09-12T12:01:03.983704+00:00
+375,7b70deab757fced7ca249c8eea57d8b2b82b75fa1fc05ca522cd72c84fa1aeea,1.0,STARTUP,GitHub AI Organizations,https://github.com/Deci-AI,Deci Ai,,2026-09-12T12:01:03.983794+00:00
+376,13bc9b7ee01c94b62ec084148a97d51b57d7f69b140a91f885d0bdd7a6f5371e,1.0,STARTUP,GitHub AI Organizations,https://github.com/ait-tr,Ait Tr,,2026-09-12T12:01:03.983885+00:00
+377,2ffbeb17ea6a8561ee5bda0c9412c96691e9b99972872b985a6d8a3cb2a55404,1.0,STARTUP,GitHub AI Organizations,https://github.com/PayAINetwork,Payainetwork,,2026-09-12T12:01:03.983981+00:00
+378,fb3a878e2bf0cf3c3d39190cad2a13c48436c53f114e5dfb6e34f8a5e0db24e6,1.0,STARTUP,GitHub AI Organizations,https://github.com/boostcampaitech2,Boostcampaitech2,,2026-09-12T12:01:03.984077+00:00
+379,b3c4d5e61d8fed558cd7fbd21067ba38cff1b1ed3f6a3c19adff046e1c1232e8,1.0,STARTUP,GitHub AI Organizations,https://github.com/giotto-ai,Giotto Ai,,2026-09-12T12:01:03.984186+00:00
+380,73b8960b1b666a3a5a96a8ec6770f40941fc1aeaa8ca2ef8879424f9dd0e7366,1.0,STARTUP,GitHub AI Organizations,https://github.com/Nexis-Network,Nexis Network,,2026-09-12T12:01:03.984287+00:00
+381,c78d2adf7b99abd7cb416e89f518a30c1b266e5aff07d9b367777e88dc2d1719,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai2es,Ai2es,,2026-09-12T12:01:03.984382+00:00
+382,d04fbb7af8c627bc6c59a94b84dc013c8254f540bd8a4de3cd253228bbe7582f,1.0,STARTUP,GitHub AI Organizations,https://github.com/friendliai,Friendliai,,2026-09-12T12:01:03.984467+00:00
+383,b4894652227029307df1993a7e0c57fbc52c5ab934377e78b7c96b22a7ed838d,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-S2-Lab,Ai S2 Lab,,2026-09-12T12:01:03.984563+00:00
+384,589618c5e4d7d940a4e99e1ee484409e1112c3d42945782f5c16fab4efe66fac,1.0,STARTUP,GitHub AI Organizations,https://github.com/DoIT-Artificial-Intelligence,Doit Artificial Intelligence,,2026-09-12T12:01:03.984671+00:00
+385,c742df497f17e6af2c20927acb2ff07ac2dfab20172032a74b880f893ed1e537,1.0,STARTUP,GitHub AI Organizations,https://github.com/kubiyabot,Kubiyabot,,2026-09-12T12:01:03.984762+00:00
+386,e526a0c60fa2009122da349dc970179727e5ee97cc4516ee0d1df94aa7f0952f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AutodeskAILab,Autodeskailab,,2026-09-12T12:01:03.984858+00:00
+387,81797cc11c24fd6af6f413168a38c24c33d6aad24d21ed6dff1eba00403d9509,1.0,STARTUP,GitHub AI Organizations,https://github.com/qureai,Qureai,,2026-09-12T12:01:03.984944+00:00
+388,d7b360011b619a2458e9ce5a09678bfd646942a6d1ee438f468b78776283d0a9,1.0,STARTUP,GitHub AI Organizations,https://github.com/FederatedAI,Federatedai,,2026-09-12T12:01:03.985039+00:00
+389,0cc4d3d03f83eacc46417f7c4ee0b6d96f086021ecec23961def45ff8e8ded39,1.0,STARTUP,GitHub AI Organizations,https://github.com/AISeQLab,Aiseqlab,,2026-09-12T12:01:03.985125+00:00
+390,37fb076a9225556686404efa3778736d0cb887413d12f38a7c31c0aeb6c42d3e,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiwaves-cn,Aiwaves Cn,,2026-09-12T12:01:03.985218+00:00
+391,182f29b598d36ba4537dd517a736594e0cfb825404c6c172c5cc062c6f939ea0,1.0,STARTUP,GitHub AI Organizations,https://github.com/aihpi,Aihpi,,2026-09-12T12:01:03.985310+00:00
+392,2c1e23aedd015b21cd760e3157fd1b079738b74fc468e1061cc4dae3619d0b8b,1.0,STARTUP,GitHub AI Organizations,https://github.com/aidenlab,Aidenlab,,2026-09-12T12:01:03.985399+00:00
+393,e5be64cef3386a7370ce2572a2f45a674d95416aa08bb2c7015823af29577902,1.0,STARTUP,GitHub AI Organizations,https://github.com/AiursoftWeb,Aiursoftweb,,2026-09-12T12:01:03.985494+00:00
+394,1edfe7e79b393504ed338e5a4c7e0fddd6afe8aed3807956f16c7fe947a6a6a6,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai2cm,Ai2cm,,2026-09-12T12:01:03.985580+00:00
+395,38612d4853eaea8afd78a1f33a9964bfc8924393dd135dd2ce5f16e6c24ff5a1,1.0,STARTUP,GitHub AI Organizations,https://github.com/zsibot,Zsibot,,2026-09-12T12:01:03.985673+00:00
+396,6c286a9d515af888bb9c9c478e1b87fda834c003a3babc251a43a13a58b813c9,1.0,STARTUP,GitHub AI Organizations,https://github.com/AzatAI,Azatai,,2026-09-12T12:01:03.985760+00:00
+397,04002a7f0fe1026224ae6d8d0ae41df6ae292d9b8af3dff0c8854d9241eb8186,1.0,STARTUP,GitHub AI Organizations,https://github.com/AICLUB-IIITDM,Aiclub Iiitdm,,2026-09-12T12:01:03.985845+00:00
+398,c0c4830117dd94368179638e3b75de9c2ef76cf21315392c4a155b715b579487,1.0,STARTUP,GitHub AI Organizations,https://github.com/antvis,Antvis,,2026-09-12T12:01:03.985879+00:00
+399,9e803dceca097358ee82b6f386ee37aeae2a83091690d9511f406bbf03b563e4,1.0,STARTUP,GitHub AI Organizations,https://github.com/nexthop-ai,Nexthop Ai,,2026-09-12T12:01:03.985917+00:00
+400,03167e226f6182a60d5c41c65fdfd52df483bd2f7e6255a8bfb9bd177dbe39ca,1.0,STARTUP,GitHub AI Organizations,https://github.com/lunorai,Lunorai,,2026-09-12T12:01:03.986090+00:00
+401,73222155a3941e89e95dfd2fe69444a0ef9c4e126580d5b2cd14bcf910e52fb7,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIGC-Audio,Aigc Audio,,2026-09-12T12:01:04.538152+00:00
+402,723ed18906423654576726055d70dfc7bd42572a3b38c9bcdfa0d0eb133c6f4f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Robot-Book,Ai Robot Book,,2026-09-12T12:01:04.538592+00:00
+403,dcdba821c3a7949d9eab4d275d97146d253fd698913cb8c185aee1fbe8262580,1.0,STARTUP,GitHub AI Organizations,https://github.com/Triton-AI,Triton Ai,,2026-09-12T12:01:04.538672+00:00
+404,e83d9e4ef166067542be94c8c79794002c0e2978ccce4fb2920a6233ae4fea95,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-evals-course,Ai Evals Course,,2026-09-12T12:01:04.538734+00:00
+405,df383c060b4d9f81f6562b2a22f1aa7066245289dca244c47132d63a16b773cf,1.0,STARTUP,GitHub AI Organizations,https://github.com/vectranetworks,Vectranetworks,,2026-09-12T12:01:04.538785+00:00
+406,cfe41317b8eb5e96e10fd7c85a156b7c72124f21d87753f0d78176a83fcb3c59,1.0,STARTUP,GitHub AI Organizations,https://github.com/KolosalAI,Kolosalai,,2026-09-12T12:01:04.538835+00:00
+407,30b19ba36785fdb7fbdbb44e2e2b72b2e2304149bf8d8f62af38e7de8cba35bf,1.0,STARTUP,GitHub AI Organizations,https://github.com/maum-ai,Maum Ai,,2026-09-12T12:01:04.538886+00:00
+408,dc08e0181fe20da90f1b66470f6945bb0236438379dac357e9387da6eb2b0ef2,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Infra-Team,Ai Infra Team,,2026-09-12T12:01:04.538942+00:00
+409,97f08cbc5f811a0e24e4a4da5f52c09d745996f6f08a06451c7506e10ae76b4a,1.0,STARTUP,GitHub AI Organizations,https://github.com/ml-gde,Ml Gde,,2026-09-12T12:01:04.538996+00:00
+410,f0a283654e7e596d1c115cd4666c57ae1e3661fd5366f49ee1f57a6718a4e9cf,1.0,STARTUP,GitHub AI Organizations,https://github.com/deepsense-ai,Deepsense Ai,,2026-09-12T12:01:04.539052+00:00
+411,2c15aca819f70bdc9f0948c4d9039de7feeb945dbd988a859d247fa01af8def3,1.0,STARTUP,GitHub AI Organizations,https://github.com/fellowship,Fellowship,,2026-09-12T12:01:04.539100+00:00
+412,d573bd64ba1bb5cb5cff9027324791c9e8750a8f89ae0c88106208d484962915,1.0,STARTUP,GitHub AI Organizations,https://github.com/aipotheosis-labs,Aipotheosis,,2026-09-12T12:01:04.539149+00:00
+413,97d497444d25a3fa8c0ec1e3d0f1cadc585a3b222acec110842b2d13064cbbdd,1.0,STARTUP,GitHub AI Organizations,https://github.com/usacognition,Usacognition,,2026-09-12T12:01:04.539196+00:00
+414,6cdadbb9767f2e58aff7a54a3bce38200c6a1a15451856359f8e86e83734bc70,1.0,STARTUP,GitHub AI Organizations,https://github.com/meetcleo,Meetcleo,,2026-09-12T12:01:04.539243+00:00
+415,0d92cf97443fdeb9e397d93ba432e5468a0eb7da9a64af710bdbb63aaec252f4,1.0,STARTUP,GitHub AI Organizations,https://github.com/aitoss,Aitoss,,2026-09-12T12:01:04.539288+00:00
+416,e8ba9565f6d6c7a68fe86e4842f229b022670a57c0355aea0cf1de78c5827a0c,1.0,STARTUP,GitHub AI Organizations,https://github.com/surge-ai,Surge Ai,,2026-09-12T12:01:04.539335+00:00
+417,bdf098614968998a1f5a27f49da3e8e089a8acd5aa4f5736f5c5726977549630,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4LIFE-GROUP,Ai4life,,2026-09-12T12:01:04.539388+00:00
+418,b30474f43844b895d0f2529c44eb4d7d5947a40e42977bf25d1053fd94a53be0,1.0,STARTUP,GitHub AI Organizations,https://github.com/ainfosec,Ainfosec,,2026-09-12T12:01:04.539433+00:00
+419,4b1ea5168434c831f967b54fabc210c9e5172f2f7bba535de570b8abb09861a8,1.0,STARTUP,GitHub AI Organizations,https://github.com/Airstack-xyz,Airstack Xyz,,2026-09-12T12:01:04.539480+00:00
+420,ed118d6c53439ceb6a50fb615279665ee2b70c2e618f56c8c3750b80db5df791,1.0,STARTUP,GitHub AI Organizations,https://github.com/Improbable-AI,Improbable Ai,,2026-09-12T12:01:04.539527+00:00
+421,32ff03be7c88d67284e898352f694183f59e473e19b9ca2553eb608bb89aaacc,1.0,STARTUP,GitHub AI Organizations,https://github.com/airtai,Airtai,,2026-09-12T12:01:04.539570+00:00
+422,8fa1247fabde0084731aa7b171c3e33ea2176e3164ee5238dc2debcce099ef7f,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiming,Aiming,,2026-09-12T12:01:04.539614+00:00
+423,e1f99eea3a83c477adb73c4d6e55472003514b6522e7d453f68a2c5a253498eb,1.0,STARTUP,GitHub AI Organizations,https://github.com/riiid,Riiid,,2026-09-12T12:01:04.539658+00:00
+424,bc248b162fda4dce7f810e290a347d917f7bf81f72ae2c43245f89942b16b664,1.0,STARTUP,GitHub AI Organizations,https://github.com/edenai,Edenai,,2026-09-12T12:01:04.539706+00:00
+425,b8c50f4d4e7fddbd1f937043dbd883b40392001f47f0da844bd4a248f6599322,1.0,STARTUP,GitHub AI Organizations,https://github.com/traycerai,Traycerai,,2026-09-12T12:01:04.539750+00:00
+426,2f39cbbd17b850f697e3099a4c702873989f1777db9a42fa20e0f31ec7b3a058,1.0,STARTUP,GitHub AI Organizations,https://github.com/clue-ai,Clue Ai,,2026-09-12T12:01:04.539795+00:00
+427,1b9904c5868c455a1eddb493533f5cdad13a3b0ff083715643187cc31f6367d0,1.0,STARTUP,GitHub AI Organizations,https://github.com/PundiAI,Pundiai,,2026-09-12T12:01:04.539841+00:00
+428,5d24f4c20deaab829df84b06e9b44caec8f7340daad78629047719b6b08a0f2b,1.0,STARTUP,GitHub AI Organizations,https://github.com/UCSB-AI,Ucsb Ai,,2026-09-12T12:01:04.539891+00:00
+429,e6a6dbec928ccf278024dee125c069e3736bdb2a28ba6ff4dfb62c88fa765ffc,1.0,STARTUP,GitHub AI Organizations,https://github.com/getCUJO,Getcujo,,2026-09-12T12:01:04.539936+00:00
+430,639ba6b67a6b5c4156ac58bacbfa0244f7c6c34fcb03066c114d65c8c88b700a,1.0,STARTUP,GitHub AI Organizations,https://github.com/aidos-lab,Aidos Lab,,2026-09-12T12:01:04.539986+00:00
+431,e43dcb06af093b3c543040f4deb4671df288cf2ebabd9aef20d26bfa727649c9,1.0,STARTUP,GitHub AI Organizations,https://github.com/PreferredAI,Preferredai,,2026-09-12T12:01:04.540055+00:00
+432,317111f947f16bed36a6dc9bf9ae32b095c42fa3c3baaf05b34739c3bb0bbf75,1.0,STARTUP,GitHub AI Organizations,https://github.com/kodu-ai,Kodu Ai,,2026-09-12T12:01:04.540109+00:00
+433,1fcac9a833f02a1197ac97eed350cc87b24ed8366a7c72019f622507bdc3760b,1.0,STARTUP,GitHub AI Organizations,https://github.com/airweave-ai,Airweave Ai,,2026-09-12T12:01:04.540159+00:00
+434,198fbededb4536202058cbe6e88d4fb40df85c6afa5682686892951bbc045ef9,1.0,STARTUP,GitHub AI Organizations,https://github.com/plandex-ai,Plandex Ai,,2026-09-12T12:01:04.540207+00:00
+435,8c5b083aad81ccf6e2601453cc7d0443f3d674f4028abcd2e0c6cd88feb719a5,1.0,STARTUP,GitHub AI Organizations,https://github.com/aurelio-labs,Aurelio,,2026-09-12T12:01:04.540257+00:00
+436,edc0deab469f0e7ff9e3c377d0f306379931237dc69a10258cdc1b0baf4f6a94,1.0,STARTUP,GitHub AI Organizations,https://github.com/BlockRunAI,Blockrunai,,2026-09-12T12:01:04.540303+00:00
+437,19d010b4b66800965388863146d6491a493bd326bb006949c349d4f7706cc665,1.0,STARTUP,GitHub AI Organizations,https://github.com/aistairc,Aistairc,,2026-09-12T12:01:04.540348+00:00
+438,c3a8a898c1d4df1fb6811d30ebc5ec1e95b19ed0e738b6807408a3071fe13d43,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIOZNetwork,Aioznetwork,,2026-09-12T12:01:04.540396+00:00
+439,c94920fcf06b86790c1fa44035407b4034a3fc73d54b7520579e0dfaf9e68a83,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIM-Intelligence,Aim Intelligence,,2026-09-12T12:01:04.540448+00:00
+440,e631df03ad5b857c6a3dfa26ce320187bd66709cfa287d72ccbf3c2f8730f8c0,1.0,STARTUP,GitHub AI Organizations,https://github.com/NeurAI-Lab,Neurai Lab,,2026-09-12T12:01:04.540499+00:00
+441,582ebd367754cd166e3e7acaa085f018f068228f6e254bcd23d1811f22ef9651,1.0,STARTUP,GitHub AI Organizations,https://github.com/AidpProject,Aidpproject,,2026-09-12T12:01:04.540545+00:00
+442,39d8343f95a207ee0ce8127018ba90aff91e9a22c49ee27b4b96dbccd1ef94bc,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-builders,Ai Builders,,2026-09-12T12:01:04.540597+00:00
+443,3ea23abba32c3768ba36a9d5063aa2fbb726523864810fb9e137b1bf13a1ec16,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai4energy,Ai4energy,,2026-09-12T12:01:04.540644+00:00
+444,68db3c5004afde4234ffd78fd321a7e417aa80ab9fea32c275cfee2e4be061de,1.0,STARTUP,GitHub AI Organizations,https://github.com/refly-ai,Refly Ai,,2026-09-12T12:01:04.540693+00:00
+445,18809a73728aaff4ee3e186ac012f7d9d8115b7599f13820d2796731839fefe4,1.0,STARTUP,GitHub AI Organizations,https://github.com/openai-php,Openai Php,,2026-09-12T12:01:04.540744+00:00
+446,6bc7887a3251c59c207f39842dd6a5a558f744b5a2cd3c605764f8846ff3c964,1.0,STARTUP,GitHub AI Organizations,https://github.com/horizon3ai,Horizon3ai,,2026-09-12T12:01:04.540796+00:00
+447,709dc3006cb8aa04348aeb73ee684b41b7a304b4b2fce53818af179471b13a76,1.0,STARTUP,GitHub AI Organizations,https://github.com/haomo-ai,Haomo Ai,,2026-09-12T12:01:04.540848+00:00
+448,ff9418abf8b0bce5e9f3ba452bf68486215e40605c98e3c6cc5a5a36c13ae8d1,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiondemand,Aiondemand,,2026-09-12T12:01:04.540900+00:00
+449,bc1d1e38c360d1d024cd260fcaf3bcf33cea8c2384d2cf88e8abe51b5d432d08,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI20K-Build-Phase-Cohort-3,Ai20k Build Phase Cohort 3,,2026-09-12T12:01:04.540977+00:00
+450,ccd86ee4e77397d9ea0815e5eaf023ab1e5bb688c26dd6440b22b917dcfc52a8,1.0,STARTUP,GitHub AI Organizations,https://github.com/airswap,Airswap,,2026-09-12T12:01:04.541029+00:00
+451,ed420e06440b968acbc7d424dcbc8c41f8cdbea2fb72554773f198e01cf46b00,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-scm,Ai Scm,,2026-09-12T12:01:04.541084+00:00
+452,0837ecba104718e827e886374e320c8b6c2ee6564b23a0390dd4602b03cb460e,1.0,STARTUP,GitHub AI Organizations,https://github.com/digma-ai,Digma Ai,,2026-09-12T12:01:04.541137+00:00
+453,fca5b0fd8f357b00b73d6bae88cfb37f348515a8e33507261f1b4f86289b0814,1.0,STARTUP,GitHub AI Organizations,https://github.com/MolecularAI,Molecularai,,2026-09-12T12:01:04.541193+00:00
+454,52bfcc52b4bde90aeb5511c877cc39b2bd578368e0baf9eafe2ed280dfd14052,1.0,STARTUP,GitHub AI Organizations,https://github.com/Pokee-AI,Pokee Ai,,2026-09-12T12:01:04.541247+00:00
+455,8cc7dd1ad6349e08be63301a8c8753e3329e3844f55156027b0bd034b0f14b15,1.0,STARTUP,GitHub AI Organizations,https://github.com/iblai,Iblai,,2026-09-12T12:01:04.541301+00:00
+456,e8cf22b8978cdb14e7ab9c567bc7f124ecf575f287148335712ce029ba70d04b,1.0,STARTUP,GitHub AI Organizations,https://github.com/aimhubio,Aimhubio,,2026-09-12T12:01:04.541354+00:00
+457,1123fc6b270b49726ca5f7c9f08543cabc9b7dbc913c1840d61a357e0d56ba24,1.0,STARTUP,GitHub AI Organizations,https://github.com/AISocietyIITJ,Aisocietyiitj,,2026-09-12T12:01:04.541408+00:00
+458,6e16ed87fb92e5be609d4bd7bef64f35a87aace380c371f28eac53ffbdec6f59,1.0,STARTUP,GitHub AI Organizations,https://github.com/tum-ai,Tum Ai,,2026-09-12T12:01:04.541463+00:00
+459,a8845cfb50459c8a2140e15f1ff71115a10387716f5751725e6304fb63bb2e0c,1.0,STARTUP,GitHub AI Organizations,https://github.com/one-covenant,One Covenant,,2026-09-12T12:01:04.541517+00:00
+460,acd0a6e0d2e75c5d620cf1be95b7eb5b5e714c97c268f4cc63d89ddff89856ea,1.0,STARTUP,GitHub AI Organizations,https://github.com/fiddler-labs,Fiddler,,2026-09-12T12:01:04.541573+00:00
+461,1b0e6801a14b826f30184c81dcb1658e7f90223900ab2974b1703d16e7f3e3dd,1.0,STARTUP,GitHub AI Organizations,https://github.com/AtomicBot-ai,Atomicbot Ai,,2026-09-12T12:01:04.541632+00:00
+462,0421cb37f975d168f58c41752192bfae104052be7d5b6d10fd11f9c95dc56339,1.0,STARTUP,GitHub AI Organizations,https://github.com/traversaal-ai,Traversaal Ai,,2026-09-12T12:01:04.541685+00:00
+463,409550c19b988ae21f0ce5d606e1aa22b52637214f2bf1d5e9f13197830948e2,1.0,STARTUP,GitHub AI Organizations,https://github.com/faros-ai,Faros Ai,,2026-09-12T12:01:04.541745+00:00
+464,3836063633ea36651371d89a6699fc1247d37cafe394b753d7683fcc31cf605b,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-mastering,Ai Mastering,,2026-09-12T12:01:04.541804+00:00
+465,0e5bde15713330ac6633907b480c0ca4f4ba4e2f3081454729ccc7da118e864b,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-QL,Ai Ql,,2026-09-12T12:01:04.541861+00:00
+466,7a0a83dce7737606fda66eef55a4ebff772836448d6c2f5a7133462692b2e267,1.0,STARTUP,GitHub AI Organizations,https://github.com/Infini-AI-Lab,Infini Ai Lab,,2026-09-12T12:01:04.541920+00:00
+467,2a1d62279d52d357c23544ff724ed141dd0199dd1d676a8f7002fef71c640934,1.0,STARTUP,GitHub AI Organizations,https://github.com/boyu-ai,Boyu Ai,,2026-09-12T12:01:04.541979+00:00
+468,c7da64edee60757299d8f9af5519f6dfc6cfbb1a66eff56356034372b729cb49,1.0,STARTUP,GitHub AI Organizations,https://github.com/Kiln-AI,Kiln Ai,,2026-09-12T12:01:04.542056+00:00
+469,1a7adc7b3f232b23300a56d42a8ec86b22ff84c9bb5814e3264cf7bcd833dfcb,1.0,STARTUP,GitHub AI Organizations,https://github.com/obot-platform,Obot Platform,,2026-09-12T12:01:04.542123+00:00
+470,f28565dc11766fa4e41e04b64f427fa82ca1a4b9ba44b021edef84864b388445,1.0,STARTUP,GitHub AI Organizations,https://github.com/XpressAI,Xpressai,,2026-09-12T12:01:04.542180+00:00
+471,7b848ef3abd78496a80e0d3bb92aed3d9baf663418512f267cf3fd3c96c80994,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Engineer-Foundation,Ai Engineer Foundation,,2026-09-12T12:01:04.542254+00:00
+472,176a30f31c02054951752f7b3adbeb5cce6bdcb01c69493d2acb12b9272b8901,1.0,STARTUP,GitHub AI Organizations,https://github.com/instructa,Instructa,,2026-09-12T12:01:04.542311+00:00
+473,19edd98a105b092b61912560c9976333463cd21f2234ea6f5f9717b950fc730c,1.0,STARTUP,GitHub AI Organizations,https://github.com/fleet-ai,Fleet Ai,,2026-09-12T12:01:04.542369+00:00
+474,757240d8fbe6aa450a55a04ada56e4d2b98b3798c64fb146268fe98b1a48b4a9,1.0,STARTUP,GitHub AI Organizations,https://github.com/ProsusAI,Prosusai,,2026-09-12T12:01:04.542433+00:00
+475,167ff15f19371cfffeb850f76eee669353359ba2c19ffb7ecf070e27d8858e54,1.0,STARTUP,GitHub AI Organizations,https://github.com/aivillage,Aivillage,,2026-09-12T12:01:04.542493+00:00
+476,8a320891e572d0876dbde202640ff6249db001e3bcdcef6b0fe999ca96b10e5d,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-cfia,Ai Cfia,,2026-09-12T12:01:04.542552+00:00
+477,cfc9d002901cb70dc67d52d9307cd0b4a83364194b8777bf967b3c4505ad38c0,1.0,STARTUP,GitHub AI Organizations,https://github.com/airlift,Airlift,,2026-09-12T12:01:04.542608+00:00
+478,4f0d56135e94f04f7814c671a93c1c9d87eac9501c473d461d59747bdfdbfa0f,1.0,STARTUP,GitHub AI Organizations,https://github.com/groundlight,Groundlight,,2026-09-12T12:01:04.542668+00:00
+479,a22690d38a96a2edb098ffe9bd79d64042b9c75fffbfffcfcea7ec08ac2479fe,1.0,STARTUP,GitHub AI Organizations,https://github.com/factoredai,Factoredai,,2026-09-12T12:01:04.542729+00:00
+480,ceaa0649260030cce7cd0a8f4677717ed6a53ef77dd34d05e1a266245ffb5c5d,1.0,STARTUP,GitHub AI Organizations,https://github.com/Toolbase-AI,Toolbase Ai,,2026-09-12T12:01:04.542790+00:00
+481,53f6be99b787304c343a8be76adf4a15bc8cab0059d048291d73190ec4c1646f,1.0,STARTUP,GitHub AI Organizations,https://github.com/aitomatic,Aitomatic,,2026-09-12T12:01:04.542848+00:00
+482,a5b0d85a2a2af447e95af4c5ef7cad062bf81f31dcb010d60130bbc6453af440,1.0,STARTUP,GitHub AI Organizations,https://github.com/AltimateAI,Altimateai,,2026-09-12T12:01:04.542913+00:00
+483,0096cce532ff8a294f34daec2c9926b2b16e1ce0b443fbe695e8c24d192fc8f0,1.0,STARTUP,GitHub AI Organizations,https://github.com/AINative-Studio,Ainative Studio,,2026-09-12T12:01:04.542978+00:00
+484,59849d017d792780f5789ea8bba55330a3d8d2b15b771e6da4515cfd441aa785,1.0,STARTUP,GitHub AI Organizations,https://github.com/GoodAI,Goodai,,2026-09-12T12:01:04.543037+00:00
+485,79a7be0f0678c5e7ef54b59e27bfdf833914fce651a6ec47a03f1113b5a5cc72,1.0,STARTUP,GitHub AI Organizations,https://github.com/mostly-ai,Mostly Ai,,2026-09-12T12:01:04.543106+00:00
+486,4a0a55db8f4a08429334af67b886e1de3a43364dc89bb38553a708787be6781e,1.0,STARTUP,GitHub AI Organizations,https://github.com/KlaatAI,Klaatai,,2026-09-12T12:01:04.543167+00:00
+487,535a884e9591b68529bc243fcfda385894fa3aa901c555638f2d83fdcf6daf07,1.0,STARTUP,GitHub AI Organizations,https://github.com/realtime-ai,Realtime Ai,,2026-09-12T12:01:04.543234+00:00
+488,d20c5d0f16007d1226391707d9ac193623201d5807b9e1c69c81b2750efbba7c,1.0,STARTUP,GitHub AI Organizations,https://github.com/smallest-inc,Smallest,,2026-09-12T12:01:04.543299+00:00
+489,1e9c4f855baf98cade74c6ae342ddb9d345fe857185a20236db0f771953b2475,1.0,STARTUP,GitHub AI Organizations,https://github.com/EvoScientist,Evoscientist,,2026-09-12T12:01:04.543364+00:00
+490,7e5dbb24d76399bbde85fd1450a0c193996a10b55f5fa4eb43b7c1f82c7305b9,1.0,STARTUP,GitHub AI Organizations,https://github.com/heavyai,Heavyai,,2026-09-12T12:01:04.543428+00:00
+491,3a039c1827aee1abc756d468da8663ec25660dfd4d7034efd8d5f02e1f86007c,1.0,STARTUP,GitHub AI Organizations,https://github.com/EightfoldAI,Eightfoldai,,2026-09-12T12:01:04.543488+00:00
+492,31bbe6d4a1b338003a17c4d58481bccabcdc2fa02a85269d613326f43e2db2cb,1.0,STARTUP,GitHub AI Organizations,https://github.com/ExtensityAI,Extensityai,,2026-09-12T12:01:04.543552+00:00
+493,699d465fe45659f5b0d0f9258bb975c32d1eceec27b5ba94c9f49e8e874841c7,1.0,STARTUP,GitHub AI Organizations,https://github.com/SecureChainAI,Securechainai,,2026-09-12T12:01:04.543613+00:00
+494,c1e7f0677625cfe92bd736b6d9563a2d9c38dcf8da741e0edb2d4c516bc9ce04,1.0,STARTUP,GitHub AI Organizations,https://github.com/airmessage,Airmessage,,2026-09-12T12:01:04.543682+00:00
+495,47c862268cdbe3b751b71d53543d149d0d81cbe83734be2425ddd6eac86e7829,1.0,STARTUP,GitHub AI Organizations,https://github.com/airsdk,Airsdk,,2026-09-12T12:01:04.543749+00:00
+496,667d8cb13f1f8b64f037dfed27617739f0560d21a92f72e9f479c090a152ad22,1.0,STARTUP,GitHub AI Organizations,https://github.com/1337-Artificial-Intelligence,1337 Artificial Intelligence,,2026-09-12T12:01:04.543832+00:00
+497,a484684f69cc3ab69a25fa3e079f7170237d571e6cebefeeec059cc55eed9bef,1.0,STARTUP,GitHub AI Organizations,https://github.com/conversationai,Conversationai,,2026-09-12T12:01:04.543900+00:00
+498,aff167665ce6866cf3fb492ac3b8eebacfa8d614db912285ab1955b6712a60e0,1.0,STARTUP,GitHub AI Organizations,https://github.com/arakoodev,Arakoodev,,2026-09-12T12:01:04.543964+00:00
+499,4b21a99dee8dc59a882bd954953066f9aef322fa6fbfddf20fe23b4ac6c7a8b7,1.0,STARTUP,GitHub AI Organizations,https://github.com/Lightning-Universe,Lightning Universe,,2026-09-12T12:01:04.544051+00:00
+500,898ea4e76758d712c69d604781e4cb28a4a469e38556ff2c4feb91e8ed782255,1.0,STARTUP,GitHub AI Organizations,https://github.com/gokite-ai,Gokite Ai,,2026-09-12T12:01:04.544284+00:00
+501,57c7bce7638f8800010621bc51799df77e15322b29a9149657e94038f134a8f4,1.0,STARTUP,GitHub AI Organizations,https://github.com/MatrixAI,Matrixai,,2026-09-12T12:01:05.046010+00:00
+502,ce7ef87005e8c9842cbebeff3868ea298eb01977318158d6cc246d5cc8501e20,1.0,STARTUP,GitHub AI Organizations,https://github.com/mc-bench,Mc Bench,,2026-09-12T12:01:05.046133+00:00
+503,c1ccc065797cbed318ceab2d4db9e81975926f26feed7c1f13a84e5561076a02,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Stuff,Ai Stuff,,2026-09-12T12:01:05.046226+00:00
+504,eb5ced2ee52148dd72bfc3c0e0f44b58f2d7c245a3cf39048433a08cdf21e743,1.0,STARTUP,GitHub AI Organizations,https://github.com/tambo-ai,Tambo Ai,,2026-09-12T12:01:05.046308+00:00
+505,15e85bdd056c63fe2e684fae22f87ec88d17ce59596e81737b649e4358f0d08a,1.0,STARTUP,GitHub AI Organizations,https://github.com/TesslateAI,Tesslateai,,2026-09-12T12:01:05.046391+00:00
+506,9285c034a2e9d2cd22f6537edc7329bf364159f7b785f164ddd9eff4c068cbf1,1.0,STARTUP,GitHub AI Organizations,https://github.com/fal-ai-community,Fal Ai Community,,2026-09-12T12:01:05.046479+00:00
+507,a2ba87dd0281137f9b055e1d2ca3960ae2266152f7d74af69c3058b296b97aac,1.0,STARTUP,GitHub AI Organizations,https://github.com/AmpereComputingAI,Amperecomputingai,,2026-09-12T12:01:05.046562+00:00
+508,35d21266c325a2071af7c2d88f77ed78d2b7c97875e5e9b0c1a3a28813086478,1.0,STARTUP,GitHub AI Organizations,https://github.com/hereandnowai,Hereandnowai,,2026-09-12T12:01:05.046639+00:00
+509,2192e6c7af737efdebfd7c14e284c8a74ead4e4aada51a21bcc5ba26de302962,1.0,STARTUP,GitHub AI Organizations,https://github.com/galilai-group,Galilai,,2026-09-12T12:01:05.046721+00:00
+510,7d9734a13390f2d90c733367770a73640e8d46328a1e1b56ef5df20b9ae449a5,1.0,STARTUP,GitHub AI Organizations,https://github.com/githubanotaai,Githubanotaai,,2026-09-12T12:01:05.046804+00:00
+511,e381f1db7eeaf812f4a1954be165208b848c1810c6346e9048b6c497191292b6,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-team-UoA,Ai Team Uoa,,2026-09-12T12:01:05.046890+00:00
+512,0fde0db214abd039bef354576d96f8f2ae2f810d075407a88430a5f934c03121,1.0,STARTUP,GitHub AI Organizations,https://github.com/unionai,Unionai,,2026-09-12T12:01:05.046966+00:00
+513,2f64433ac4ed0c4150cfd865c39f828a306ea924d7282ae15f34b8ec31cb7783,1.0,STARTUP,GitHub AI Organizations,https://github.com/Alchemyst-ai,Alchemyst Ai,,2026-09-12T12:01:05.047050+00:00
+514,6a5dce2bff554aa6e52845d7da15a42ff85b2ba51e86d1636ef3c003c07e51a4,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-shifu,Ai Shifu,,2026-09-12T12:01:05.047133+00:00
+515,8e73c82f9ba780bea2d6964e8608ccaa60e9eee095534a40b1e0a3af6d63f794,1.0,STARTUP,GitHub AI Organizations,https://github.com/hackerai-tech,Hackerai,,2026-09-12T12:01:05.047212+00:00
+516,df3093294c4dca88746a47a7b2702e5ce20f11aea24a56d5ecb2a550a468843b,1.0,STARTUP,GitHub AI Organizations,https://github.com/HiDream-ai,Hidream Ai,,2026-09-12T12:01:05.047291+00:00
+517,a0ed341d227e5bc55de204d5922b305d211db4e69729c86c316c1227915cc72a,1.0,STARTUP,GitHub AI Organizations,https://github.com/flexaihq,Flexaihq,,2026-09-12T12:01:05.047371+00:00
+518,6fb7e2b501c87e2bd9b172535e502d338dceb41117f14abdef8ec0241902f106,1.0,STARTUP,GitHub AI Organizations,https://github.com/ailab-hanyang,Ailab Hanyang,,2026-09-12T12:01:05.047457+00:00
+519,2a83f0dec4f08d9958104c582050311dc958c980257d55e7576e3e287eee322a,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiortc,Aiortc,,2026-09-12T12:01:05.047534+00:00
+520,cb0e0c62c2ad0bff54ab693d94a0079cb14ef5a97fc5f4bc5b8d4fef891855e4,1.0,STARTUP,GitHub AI Organizations,https://github.com/gcui-art,Gcui Art,,2026-09-12T12:01:05.047612+00:00
+521,a80aa5cee478e1e24a00e16eebe6701125d2117015e3e2e6ce64106e04048ab2,1.0,STARTUP,GitHub AI Organizations,https://github.com/HacktronAI,Hacktronai,,2026-09-12T12:01:05.047697+00:00
+522,e49231e035e9045ae369e44906597209a670c103723e43afe92ce917a57b47dc,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiidalab,Aiidalab,,2026-09-12T12:01:05.047777+00:00
+523,bf9f7d61b5352205a4b08b42affb14c139b1524dabe268b221de26f6dc3d1a32,1.0,STARTUP,GitHub AI Organizations,https://github.com/AbanteAI,Abanteai,,2026-09-12T12:01:05.048086+00:00
+524,ed470a35b5747586ce1498d41c6a8d97e336f73c94582e19b3cff6b8830924ff,1.0,STARTUP,GitHub AI Organizations,https://github.com/WAT-ai,Wat Ai,,2026-09-12T12:01:05.048263+00:00
+525,bef73fa9fc93db1cde5b63af7c3d236dff6fe78edd63c069d954e5730697de59,1.0,STARTUP,GitHub AI Organizations,https://github.com/mbodiai,Mbodiai,,2026-09-12T12:01:05.048376+00:00
+526,08651de4c620c2d6ce33790207a9318f4988b0902f8375bae79bce3a0c64efce,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiea-lab,Aiea Lab,,2026-09-12T12:01:05.048469+00:00
+527,a601f7580c12fda6c45adcebb63e356c79c3e9514adaf7f1c8cc0dc49c68955c,1.0,STARTUP,GitHub AI Organizations,https://github.com/moorcheh-ai,Moorcheh Ai,,2026-09-12T12:01:05.048564+00:00
+528,8c2a15f5f3876c535e08926f87605e63ba45f2fdcb22356e71da10f960896958,1.0,STARTUP,GitHub AI Organizations,https://github.com/Galsenaicommunity,Galsenaicommunity,,2026-09-12T12:01:05.048656+00:00
+529,bf0084ab1f7f562622ec7f4cf193b0728a32678a35780a892a4478cdf439db45,1.0,STARTUP,GitHub AI Organizations,https://github.com/BrightDotAi,Brightdotai,,2026-09-12T12:01:05.048903+00:00
+530,49c4d3bc66900c95d7d5d6fca4f6cd2019b24b4b71cc2f3e23f914faf0adf929,1.0,STARTUP,GitHub AI Organizations,https://github.com/airchains-network,Airchains Network,,2026-09-12T12:01:05.049002+00:00
+531,98726ea9e77af3b96ed4395fde5f771ba3f111caf29b4771967ad63d462414fd,1.0,STARTUP,GitHub AI Organizations,https://github.com/components-ai,Components Ai,,2026-09-12T12:01:05.049090+00:00
+532,f7537c60ec7532d883384155232504417c544d96b6671ba22a2c81ac24780034,1.0,STARTUP,GitHub AI Organizations,https://github.com/llmware-ai,Llmware Ai,,2026-09-12T12:01:05.049496+00:00
+533,647a45586fa9be2113d3e65ee1e7cb7e151f9680156fcb34b27dd581f49e6707,1.0,STARTUP,GitHub AI Organizations,https://github.com/Locofy,Locofy,,2026-09-12T12:01:05.049593+00:00
+534,f18ced5b367842431c3c45e400afe995145cbb077247dcd13388bcb14b11fbd2,1.0,STARTUP,GitHub AI Organizations,https://github.com/nota-github,Nota Github,,2026-09-12T12:01:05.049717+00:00
+535,c19ba2319d76ed6098c760f3354ad4138ab1110c8ee1cbfa0bc87a6dfe104d87,1.0,STARTUP,GitHub AI Organizations,https://github.com/RedisAI,Redisai,,2026-09-12T12:01:05.049807+00:00
+536,92d61b87e16af5c77ca8c9bf588cd8836f4c3acffc0e5fd32db8cf148b7d8180,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-club-daiict,Ai Club Daiict,,2026-09-12T12:01:05.049906+00:00
+537,944b1dbdb134059927968a6394fb988dd11feb1ec172bef234b2fb5100fab6da,1.0,STARTUP,GitHub AI Organizations,https://github.com/elimu-ai,Elimu Ai,,2026-09-12T12:01:05.049996+00:00
+538,47459d290a9ddbb22321f9d9ee8c8bc0b859a60c23e0b85c038c49155171f6e0,1.0,STARTUP,GitHub AI Organizations,https://github.com/MiniAiLive,Miniailive,,2026-09-12T12:01:05.050078+00:00
+539,f86e16f075b6bac19323fbc7333b1fb0c25f0c2949bcb2202c5748e82a531d35,1.0,STARTUP,GitHub AI Organizations,https://github.com/locaal-ai,Locaal Ai,,2026-09-12T12:01:05.050165+00:00
+540,aafe69bb6f553be2738ad7b3b09cad2418a02b997cbf07bcdb3995e6ce127f7e,1.0,STARTUP,GitHub AI Organizations,https://github.com/promptable,Promptable,,2026-09-12T12:01:05.050245+00:00
+541,fb2db801d14294d90a8f9bd3dea90f3c4a983b36374b290eca2b53c065705dfc,1.0,STARTUP,GitHub AI Organizations,https://github.com/Aidbox,Aidbox,,2026-09-12T12:01:05.050333+00:00
+542,b833a721893ca2b5669d4d87f5695b48308d2c1ba4af6f559bcadcde2c705c17,1.0,STARTUP,GitHub AI Organizations,https://github.com/GooeyAI,Gooeyai,,2026-09-12T12:01:05.050412+00:00
+543,52de62e08e17040d3b60092fe24d30671b3df692c8dc81b2338e60f53c8443b0,1.0,STARTUP,GitHub AI Organizations,https://github.com/metauto-ai,Metauto Ai,,2026-09-12T12:01:05.050499+00:00
+544,085a633af761dae6e02688c39a039e33d28730fe707a0b25369a1f4feac9fa4c,1.0,STARTUP,GitHub AI Organizations,https://github.com/SerpentAI,Serpentai,,2026-09-12T12:01:05.050580+00:00
+545,2108d2c6111b2ed1793e30f93af66a3a5efaff676c4a985aaf67d1400acb63a2,1.0,STARTUP,GitHub AI Organizations,https://github.com/spiceai,Spiceai,,2026-09-12T12:01:05.050681+00:00
+546,014f19c4a43b42785e1c4fecdc13e9afb2e71324e1552b3fc3ad5a53803f36ed,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiax-network,Aiax Network,,2026-09-12T12:01:05.050774+00:00
+547,3a0fcaef02414d0e0987522455ecaa842a75d3e5c75e70f6e62e9dbece707e62,1.0,STARTUP,GitHub AI Organizations,https://github.com/aircodelabs,Aircodelabs,,2026-09-12T12:01:05.050851+00:00
+548,255b8e29955fb1b34f8a52749f8ca293eea4a8e8a3adaec93403f841a7d9c579,1.0,STARTUP,GitHub AI Organizations,https://github.com/Google-Health,Google Health,,2026-09-12T12:01:05.050935+00:00
+549,4dd37c18537f7b0beb07218e2876636dc7d80ab56888e0022306f8fa48ca6bfb,1.0,STARTUP,GitHub AI Organizations,https://github.com/Soul-AILab,Soul Ailab,,2026-09-12T12:01:05.051016+00:00
+550,177aa8bb56e9e0e6ba8548b4448a2a166e57dc19328d8b7a03d0dc073f782966,1.0,STARTUP,GitHub AI Organizations,https://github.com/aizuda,Aizuda,,2026-09-12T12:01:05.051216+00:00
+551,4f59a3c6d903e261a3a554e2b139220c0bca160912165c0bd61d2c30e98f9d15,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIxCyberChallenge,Aixcyberchallenge,,2026-09-12T12:01:05.051310+00:00
+552,573fd255781521cb2b6009679ae4b45fbf583ffdef00b49820975b8844b5baf7,1.0,STARTUP,GitHub AI Organizations,https://github.com/aixcoder-plugin,Aixcoder Plugin,,2026-09-12T12:01:05.051398+00:00
+553,d304271f46de0a4781733fe009d8442c850cbcd587be9dfc1eab43d978e7769a,1.0,STARTUP,GitHub AI Organizations,https://github.com/Docta-ai,Docta Ai,,2026-09-12T12:01:05.051479+00:00
+554,2c2651955d03545ca0014c3f9f25fd1ac94cdfe3bdd3bfad0ee96779cb080960,1.0,STARTUP,GitHub AI Organizations,https://github.com/AimRT,Aimrt,,2026-09-12T12:01:05.051566+00:00
+555,2e8f04b72c27cd3c5c501a470b8c4ab6bb9f4bafa602c057494be08bbd98ec7e,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai4s-research,Ai4s Research,,2026-09-12T12:01:05.051646+00:00
+556,2047d6da5b70f17a29192050c29fcf1cde365a7d5a0e0a698e8de29bed7743a9,1.0,STARTUP,GitHub AI Organizations,https://github.com/aifimmunology,Aifimmunology,,2026-09-12T12:01:05.052126+00:00
+557,c5f7cb37674aeca2ab06324397bc8d14186e4d24460c80cf14cd8fb418f1e91f,1.0,STARTUP,GitHub AI Organizations,https://github.com/trayio,Trayio,,2026-09-12T12:01:05.052333+00:00
+558,df7573801cd8258673b5bee2e6e0ade5eb1ffecca9281927abc2f24dcda6e57f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-FE,Ai Fe,,2026-09-12T12:01:05.052430+00:00
+559,1f10db115cfa0ba50c37b9ca0f655bb3bab19db338faf0888fbf30227acf01cb,1.0,STARTUP,GitHub AI Organizations,https://github.com/weavefox,Weavefox,,2026-09-12T12:01:05.052511+00:00
+560,8930781a2384dd2c2b1df6502124105a9ef8f8785e9c6aa6475985e61ed7188f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-sandbox,Ai Sandbox,,2026-09-12T12:01:05.052598+00:00
+561,0487e30d7895b327fbe7cf32d23f6edb79314835f3ee5945bc5000c363ddb001,1.0,STARTUP,GitHub AI Organizations,https://github.com/AILAB-CEFET-RJ,Ailab Cefet Rj,,2026-09-12T12:01:05.052690+00:00
+562,3c6a5ca00a3c7b40b0cf77e8608817cc8853be4c493491ea4cb37df934f92e4c,1.0,STARTUP,GitHub AI Organizations,https://github.com/xpander-ai,Xpander Ai,,2026-09-12T12:01:05.052770+00:00
+563,78dc6317e0728c0ebafe85a201bb0acff3faee98fc554f7644f47e613edc3688,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiplan4eu,Aiplan4eu,,2026-09-12T12:01:05.052852+00:00
+564,9b3fe278cda668489c9fd955c982b2ab2d50524a7df095470ad8ea812d25e1f7,1.0,STARTUP,GitHub AI Organizations,https://github.com/robosoft-ai,Robosoft Ai,,2026-09-12T12:01:05.052949+00:00
+565,be1ecdebd85c68faf464f0dec94294b4ac5af836b762fb1e920299628a16be24,1.0,STARTUP,GitHub AI Organizations,https://github.com/marswaveai,Marswaveai,,2026-09-12T12:01:05.053031+00:00
+566,70ea0bb59eb7e96be128d5b782b1820d86b3ac3fa401aa34c68ea6377f7a81df,1.0,STARTUP,GitHub AI Organizations,https://github.com/aixcc-public,Aixcc Public,,2026-09-12T12:01:05.053116+00:00
+567,535ffec3b1c0a24fb3ca9de080a17a95151fd7baf55336135dc76814c5a18cdd,1.0,STARTUP,GitHub AI Organizations,https://github.com/just-ai,Just Ai,,2026-09-12T12:01:05.053198+00:00
+568,7b0ff35479639d42b08a3ac6eef0832dc9c7c5d3cd32b0b608d0659217e3dd1a,1.0,STARTUP,GitHub AI Organizations,https://github.com/aicodix,Aicodix,,2026-09-12T12:01:05.053288+00:00
+569,2a4e1bdd3faca6a692bdf64387f52311a13ba6930abf63c8cff142b4de16f387,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIDEPT-2025-SVECW,Aidept 2025 Svecw,,2026-09-12T12:01:05.053382+00:00
+570,6a19833ee87594cb3036e197b5e07648dec63848873e35dac6db41f8e7739ab8,1.0,STARTUP,GitHub AI Organizations,https://github.com/DyadLang,Dyadlang,,2026-09-12T12:01:05.053464+00:00
+571,d41d3a880e1c50be7034338124046a13c4f911cfe970f7ccaaa950dfe789322b,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-robotics-kr,Ai Robotics Kr,,2026-09-12T12:01:05.053555+00:00
+572,b457ee5d61d5dd761e0966fa480cd0a0b983fe8d893dc935d52cb95e6f62d9e8,1.0,STARTUP,GitHub AI Organizations,https://github.com/potpie-ai,Potpie Ai,,2026-09-12T12:01:05.053646+00:00
+573,93aee32913ad1634cd3aab715866fa02d7b92e1726050fca11343c584d25be5a,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-analyst-lab,Ai Analyst Lab,,2026-09-12T12:01:05.053765+00:00
+574,d992fc09dc57dae03637fd9a67913cbb917538aef64ee20820681bd2e57bbecf,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-READI,Ai Readi,,2026-09-12T12:01:05.053859+00:00
+575,bac910ed4173166ed5c62e7c3a07e230f90d17866b9100b7d2c2a6c1ec4cff90,1.0,STARTUP,GitHub AI Organizations,https://github.com/aip-dev,Aip Dev,,2026-09-12T12:01:05.053949+00:00
+576,01f99f803a0509d964e97f9546ff49186bb429162a3fe3b45ad3c6ecc18b10f7,1.0,STARTUP,GitHub AI Organizations,https://github.com/Aivis-Project,Aivis Project,,2026-09-12T12:01:05.054040+00:00
+577,e42d7c31ca2b4a97d61ab17797628dd1b00f69df134cf37250508866809ceaee,1.0,STARTUP,GitHub AI Organizations,https://github.com/lavague-ai,Lavague Ai,,2026-09-12T12:01:05.054123+00:00
+578,bea0139a429e48ef1fc09edf9d644efecffd964c15091f4779c433b1ed9945e8,1.0,STARTUP,GitHub AI Organizations,https://github.com/asu-trans-ai-lab,Asu Trans Ai Lab,,2026-09-12T12:01:05.054222+00:00
+579,c460723f76d910fa402c389214492c3c5d904b2d0ac67fb4e219819edd691bd7,1.0,STARTUP,GitHub AI Organizations,https://github.com/huggingface,Hugging Face,,2026-09-12T12:01:05.054276+00:00
+580,3f41d730be6e231903331f43db6addda43e7bf8d77da4b4b13a53ef3ce629e34,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIML4OS,Aiml4os,,2026-09-12T12:01:05.054355+00:00
+581,7e69648db61aaad28e95157b650540976ea61860f5efa0b0cf3312d70f6bfb66,1.0,STARTUP,GitHub AI Organizations,https://github.com/taranis-ai,Taranis Ai,,2026-09-12T12:01:05.054438+00:00
+582,eb91e122361225240d8f1c626eca6e544d5083eca56ef34af4f3d3ccf8f0ae27,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-se,Ai Se,,2026-09-12T12:01:05.054523+00:00
+583,71a79597bcfb43f3cd2b4efe156ea7bef4a0b23f0a20592c4bdcd09a6305f99e,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIBabyTeaching,Aibabyteaching,,2026-09-12T12:01:05.054605+00:00
+584,ee48c4f9df73cc3c18598effa4cbac9062611a548a28cfc28fcdae4555c9d549,1.0,STARTUP,GitHub AI Organizations,https://github.com/AtomEcho,Atomecho,,2026-09-12T12:01:05.054689+00:00
+585,a882813d6080807f5e787a0591c0c2af234c3ead2d282c5a3aabfb2478037745,1.0,STARTUP,GitHub AI Organizations,https://github.com/zvec-ai,Zvec Ai,,2026-09-12T12:01:05.054781+00:00
+586,8c5693e0bf391b6c32a9455469d1fa151901d59c04ae6511b9e000113effefff,1.0,STARTUP,GitHub AI Organizations,https://github.com/Scale3-Labs,Scale3,,2026-09-12T12:01:05.054869+00:00
+587,1470b5c472712b2c31a12030d8c5684c8054b863c890b7c4ab9366f32ad8a851,1.0,STARTUP,GitHub AI Organizations,https://github.com/ailabstw,Ailabstw,,2026-09-12T12:01:05.054953+00:00
+588,4b15bab5d6b24c6da1cc24ddb997e87a280c9ac3d8a2f5fee4afa23061494bfe,1.0,STARTUP,GitHub AI Organizations,https://github.com/cognizant-ai-lab,Cognizant Ai Lab,,2026-09-12T12:01:05.055044+00:00
+589,b45ebac146e5a187e2a323e03ec633b822138044550cecc892bcedaeed378890,1.0,STARTUP,GitHub AI Organizations,https://github.com/sageailabs,Sageailabs,,2026-09-12T12:01:05.055125+00:00
+590,a3eafa2b20be157341158220a1c9e2f11cddb5e29f6af2ab64c30c62599f0845,1.0,STARTUP,GitHub AI Organizations,https://github.com/runloopai,Runloopai,,2026-09-12T12:01:05.055212+00:00
+591,e6a0ec44f2559adb2d3395131c61b9b34f1e281ab74205fa092e4fb5f08f16d5,1.0,STARTUP,GitHub AI Organizations,https://github.com/SciPhi-AI,Sciphi Ai,,2026-09-12T12:01:05.055298+00:00
+592,fb7f471d80a72ef8505970ae9773870cbfbcfea7d909823d7604b3748f288239,1.0,STARTUP,GitHub AI Organizations,https://github.com/AZ-AI,Az Ai,,2026-09-12T12:01:05.055388+00:00
+593,054454e36ce44478afc65804b991f0fb4a89d1ed746788f9f0713cab1f4aa5b5,1.0,STARTUP,GitHub AI Organizations,https://github.com/MOV-AI,Mov Ai,,2026-09-12T12:01:05.055494+00:00
+594,88256ab89d5242e4542bdad4bf8d78014971d632266185ee12b4a1c16fe55e63,1.0,STARTUP,GitHub AI Organizations,https://github.com/vessl-ai,Vessl Ai,,2026-09-12T12:01:05.055597+00:00
+595,0d4ab3588c88db7aaed901997d744fcaffd32129516dd0b80547015b7e838306,1.0,STARTUP,GitHub AI Organizations,https://github.com/dolr-ai,Dolr Ai,,2026-09-12T12:01:05.055684+00:00
+596,02eb46bebbc942bd561cda0842211bd331c5baee145e56245c8c37026921efbe,1.0,STARTUP,GitHub AI Organizations,https://github.com/airsend-io,Airsend Io,,2026-09-12T12:01:05.055788+00:00
+597,47c103bb9e2732eae354e4803a96b1350bb52b1b3420771cd90bcb3db6e09936,1.0,STARTUP,GitHub AI Organizations,https://github.com/HKU-MedAI,Hku Medai,,2026-09-12T12:01:05.055884+00:00
+598,e30ae536f3ba7b24011f9616ed6971e61a2cf6a92fc2f5ad45d176d67388d698,1.0,STARTUP,GitHub AI Organizations,https://github.com/Quarm-AI,Quarm Ai,,2026-09-12T12:01:05.055968+00:00
+599,cafd79bf9b2e7b4760dc5c80b97c67373d5ee2a6145383ad7fd68a06e6bda7d2,1.0,STARTUP,GitHub AI Organizations,https://github.com/Team-Commonly,Team Commonly,,2026-09-12T12:01:05.056057+00:00
+600,7d85c37b1094c85f4707c2fedd83ff229a039a52ee24d0058f1f3b361b4e63af,1.0,STARTUP,GitHub AI Organizations,https://github.com/Forgemind-git,Forgemind Git,,2026-09-12T12:01:05.056157+00:00
+601,8db405a30a146138cce34434ec92edb7e0902a311b0dbdf54c79e4dfcc40229a,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-coustics,Ai Coustics,,2026-09-12T12:01:05.719131+00:00
+602,55def625e5bc39647d8df1a44b4ddd6409ed396eb664b6977e456e9300d0bd73,1.0,STARTUP,GitHub AI Organizations,https://github.com/AislerHQ,Aislerhq,,2026-09-12T12:01:05.719242+00:00
+603,2a6d3ba577129c7e66d81b432065eff137184b7c13584b1ef11740016ad7af7f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Engineering-Platform,Ai Engineering Platform,,2026-09-12T12:01:05.719356+00:00
+604,0bb5f5b289d4d5ba6b69b6829450c5537a1d21d3c9acaf3082523ef9735228ee,1.0,STARTUP,GitHub AI Organizations,https://github.com/organization-x,Organization X,,2026-09-12T12:01:05.719457+00:00
+605,c5c16ec2031565cfcd1a7285da316805079acb78253289c00fa63c3c2ef5a88c,1.0,STARTUP,GitHub AI Organizations,https://github.com/AITT-VN,Aitt Vn,,2026-09-12T12:01:05.719545+00:00
+606,957336f50d1e011e67f6ab2400d353ba70880786967cb7df6a0082acfee5483c,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIESEC-LK,Aiesec Lk,,2026-09-12T12:01:05.719631+00:00
+607,3eb95019e8e6107a0ee9c3a80a8895ef535316cb9df244e063885e3591b4215c,1.0,STARTUP,GitHub AI Organizations,https://github.com/bldrs-ai,Bldrs Ai,,2026-09-12T12:01:05.719716+00:00
+608,90904de9eee2573e8f37f1aadccfab617fdaf736aa44d4333cb2d682bbe841eb,1.0,STARTUP,GitHub AI Organizations,https://github.com/BrainDAO,Braindao,,2026-09-12T12:01:05.719802+00:00
+609,f2d60397a195ff5bbe1a28fd6ba3c6d62a7a25813e6b51de2496e77500603b5c,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-FOR-DEVS,Ai For Devs,,2026-09-12T12:01:05.719892+00:00
+610,87664b17c546290f6c1f3bf762680c33aff6e4b56c4ee1f0639c8899ddea0eb3,1.0,STARTUP,GitHub AI Organizations,https://github.com/LG-AI-EXAONE,Lg Ai Exaone,,2026-09-12T12:01:05.720236+00:00
+611,a07a0c402aea05e2b5ae86527199e19311b770ecf3724da28dfd5bd76f5a1f47,1.0,STARTUP,GitHub AI Organizations,https://github.com/akave-ai,Akave Ai,,2026-09-12T12:01:05.720433+00:00
+612,c4beabef1c742760930184c5a1a02c3d2678f7d45fc5a7952af2b28c3470c242,1.0,STARTUP,GitHub AI Organizations,https://github.com/hezarai,Hezarai,,2026-09-12T12:01:05.720538+00:00
+613,1521f9eba781f311a6cf60381d13fca4497c8ebcf91cdadf224157575a5d9eaa,1.0,STARTUP,GitHub AI Organizations,https://github.com/XSpoonAi,Xspoonai,,2026-09-12T12:01:05.720630+00:00
+614,5306b5b6823739f08c4f624e4ff07ffe1c7db37aee8d539f654e2c2d7f7717cd,1.0,STARTUP,GitHub AI Organizations,https://github.com/NVIDIAAICITYCHALLENGE,Nvidiaaicitychallenge,,2026-09-12T12:01:05.720725+00:00
+615,2a9d10bd515854947dbc2b700931c8f3533e75933d1a639893719eb8c22e05f4,1.0,STARTUP,GitHub AI Organizations,https://github.com/onvoyage-ai,Onvoyage Ai,,2026-09-12T12:01:05.720845+00:00
+616,129cd93464b3df667f1e21bb678ae0a3f7efbdd5496b08b4f6fad0d8041c9678,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Training-Projects,Ai Training Projects,,2026-09-12T12:01:05.720956+00:00
+617,9a4b368baf0e52890470fa89221ec99f7c15017f93e21629af2bf42566009a0b,1.0,STARTUP,GitHub AI Organizations,https://github.com/airplanes-live,Airplanes Live,,2026-09-12T12:01:05.721056+00:00
+618,e8c9dee9e67a0d4ba6f3a2b952d5ef0b562e1c0bdabf1c83218054f0c9ff54db,1.0,STARTUP,GitHub AI Organizations,https://github.com/ailab-pku,Ailab Pku,,2026-09-12T12:01:05.721156+00:00
+619,77a0d974ceb28d1ab6395806432a0a33bca74d5cfd34b64891f042f5a1cd6323,1.0,STARTUP,GitHub AI Organizations,https://github.com/substratusai,Substratusai,,2026-09-12T12:01:05.721252+00:00
+620,31b03ee1aed2b15fe48d02aa7528a8cd1c8e350d285c0b528a53577b38e34ed3,1.0,STARTUP,GitHub AI Organizations,https://github.com/GlobalAICommunity,Globalaicommunity,,2026-09-12T12:01:05.721346+00:00
+621,22896f0becc2844c54be695c5ab12de6f4cdad592bb14c869419259c9d4e3bab,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIForBetterLife,Aiforbetterlife,,2026-09-12T12:01:05.721438+00:00
+622,c5c380f2de04f68aeb9b02600e329030f4d38b671481c7deef5c2aa3899b991a,1.0,STARTUP,GitHub AI Organizations,https://github.com/vuer-ai,Vuer Ai,,2026-09-12T12:01:05.721535+00:00
+623,e19793b6a18fbb9a5d0ecca58933d3ddf03bdd74f739479208a4ce4b6317ae61,1.0,STARTUP,GitHub AI Organizations,https://github.com/kraina-ai,Kraina Ai,,2026-09-12T12:01:05.721663+00:00
+624,0e3b02b8f7189b34ec8a0dd85705bbaed1257ec8e3ce0f4a21c015fd9b4b2f8c,1.0,STARTUP,GitHub AI Organizations,https://github.com/axelera-ai,Axelera Ai,,2026-09-12T12:01:05.721765+00:00
+625,1bf5bb753bb9e5af9fd17ed23c945ae5a845c59c9df233e88212f2d6e8ebd6c0,1.0,STARTUP,GitHub AI Organizations,https://github.com/heypocketai,Heypocketai,,2026-09-12T12:01:05.721855+00:00
+626,7c9e7f093c4de9942ac6caf973665ad6e105625f801fb67ead45c873e7c493eb,1.0,STARTUP,GitHub AI Organizations,https://github.com/aisa-group,Aisa,,2026-09-12T12:01:05.721959+00:00
+627,c6e18c765f7c54e5dbfbe9c184e55d145b83b30bec3468255d2d70692481ad1b,1.0,STARTUP,GitHub AI Organizations,https://github.com/ait-aecid,Ait Aecid,,2026-09-12T12:01:05.722057+00:00
+628,fecbb2dff77dcef6988ad4f4c5aec971485f8c55fd82941e7f7121f567ca617d,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4HealthUOL,Ai4healthuol,,2026-09-12T12:01:05.722147+00:00
+629,fc0fe29bd4c68b52e2677f5a85d6ff0704631187f35e865c94926a545c24a2b5,1.0,STARTUP,GitHub AI Organizations,https://github.com/omnimind-ai,Omnimind Ai,,2026-09-12T12:01:05.722243+00:00
+630,a3194fa36b85f8774094d643e10500a78dad36828d452e7fd59bef0b8ac9df87,1.0,STARTUP,GitHub AI Organizations,https://github.com/modelflow-ai,Modelflow Ai,,2026-09-12T12:01:05.722341+00:00
+631,11a03984583d4d309268f5e6de69c09851ad8d1f8e52802c5efaa154c9b04099,1.0,STARTUP,GitHub AI Organizations,https://github.com/Vexa-ai,Vexa Ai,,2026-09-12T12:01:05.722432+00:00
+632,5695fc521634b143c58b9ee9f0304f82be8997766f73a8e19c296983f1efa460,1.0,STARTUP,GitHub AI Organizations,https://github.com/0din-ai,0din Ai,,2026-09-12T12:01:05.722522+00:00
+633,5b13b8b1aeff953ea003acf85ddaffac3b8f505ec48201f56ee022e03075b85c,1.0,STARTUP,GitHub AI Organizations,https://github.com/360CVGroup,360cvgroup,,2026-09-12T12:01:05.722614+00:00
+634,4eac63e528856bb1069c0f7e48a4428e402ab0ec1849524eb3618cd455487e73,1.0,STARTUP,GitHub AI Organizations,https://github.com/CyberAgentAILab,Cyberagentailab,,2026-09-12T12:01:05.722711+00:00
+635,f610a4385f2ca3d97ebb1a976b3c5fb98ad17eea63507dbebae978338fe23c38,1.0,STARTUP,GitHub AI Organizations,https://github.com/bosun-ai,Bosun Ai,,2026-09-12T12:01:05.722807+00:00
+636,80f16f242500ea5d73c8c7bf059cc6a6d44f54aa5b6f5cf60db8be918b29bf1f,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-collection,Ai Collection,,2026-09-12T12:01:05.722906+00:00
+637,6133c8bb7a02683df257187d88063cddc35b1ec5a09b7d41503a7bdd73296589,1.0,STARTUP,GitHub AI Organizations,https://github.com/gottingen,Gottingen,,2026-09-12T12:01:05.722998+00:00
+638,fdd3bdce80b8e54e6f9aee0f8ea4d98c39bf454ea7b778443030cbf0f3940b40,1.0,STARTUP,GitHub AI Organizations,https://github.com/Kurrawong,Kurrawong,,2026-09-12T12:01:05.723086+00:00
+639,5ad37b2c436ff3c00ce7f6fc9016e414de30468dd9a359453b944427dc963c2d,1.0,STARTUP,GitHub AI Organizations,https://github.com/CausalAILab,Causalailab,,2026-09-12T12:01:05.723175+00:00
+640,6b10019c26b0aaab880ab25190b38275258e4b13f8727afe2ad53102853172d4,1.0,STARTUP,GitHub AI Organizations,https://github.com/NaryaAI,Naryaai,,2026-09-12T12:01:05.723269+00:00
+641,a5462cc4edc2568c763473e57970b322e5f0a5dfd47d3c295f7b8238c6025c8f,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiverify-foundation,Aiverify Foundation,,2026-09-12T12:01:05.723368+00:00
+642,09250f5b852e8a8a52b8217a7c42c457823b5046dca1b37d8f2825c052b1bbb7,1.0,STARTUP,GitHub AI Organizations,https://github.com/shield-ai,Shield AI,,2026-09-12T12:01:05.723417+00:00
+643,c8c2d1f03bd47d5a29500f4e30116f4df5114d53992d409d815bc1986667ad8d,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIBiology,Aibiology,,2026-09-12T12:01:05.723512+00:00
+644,a41d08efce68b0a06c62bbeba672366e5e85b65728fbc88c4a802e7ef1398e15,1.0,STARTUP,GitHub AI Organizations,https://github.com/qaml-ai,Qaml Ai,,2026-09-12T12:01:05.723629+00:00
+645,839674cd07d407993a8769ca9602b1d0a5825f329afc0b7646564b6f2d52b302,1.0,STARTUP,GitHub AI Organizations,https://github.com/Beneficial-AI-Foundation,Beneficial Ai Foundation,,2026-09-12T12:01:05.723743+00:00
+646,8958853b40463d4c2555f08151f302d1d132e167b7438f27fabdd996823fc670,1.0,STARTUP,GitHub AI Organizations,https://github.com/modalai,Modalai,,2026-09-12T12:01:05.723834+00:00
+647,b431eb18c9d61a0533379e4d47ead33d6e05e7e362b8c380193c268303dabcbe,1.0,STARTUP,GitHub AI Organizations,https://github.com/mts-ai,Mts Ai,,2026-09-12T12:01:05.723932+00:00
+648,eb4f417c06749a478afc40c76eeb6bdaa601676d677687b939e6ec9d631f5dba,1.0,STARTUP,GitHub AI Organizations,https://github.com/syv-ai,Syv Ai,,2026-09-12T12:01:05.724023+00:00
+649,bc02adbf13e6563c2bedb69d3b02bd88498422db6e328a0015a56201c1cfe947,1.0,STARTUP,GitHub AI Organizations,https://github.com/synheart-ai,Synheart Ai,,2026-09-12T12:01:05.724126+00:00
+650,3828ca6702188980f75854ea6408f18ce95fda9cbfaeaa545d31d43d966ebbda,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIOps-Lab-NKU,Aiops Lab Nku,,2026-09-12T12:01:05.724233+00:00
+651,bf4c838226387cc858420b2de262f8e75ed3fcac7645b4207546ef98088795b7,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiarena,Aiarena,,2026-09-12T12:01:05.724332+00:00
+652,20030451a902fa86d63d11362bf3383adfffc380a2af0eef03ac96c51cd79b37,1.0,STARTUP,GitHub AI Organizations,https://github.com/Leonardo-Interactive,Leonardo Interactive,,2026-09-12T12:01:05.724440+00:00
+653,318432b10fb649839ea61f4425637befa2ce2364b2c4b9c40f8dc55c787ade77,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIgineerAB,Aigineerab,,2026-09-12T12:01:05.724660+00:00
+654,41e72bd6c4502c0f13fee13e09979c3f91c82d35e24564f5502e6f1b301cc360,1.0,STARTUP,GitHub AI Organizations,https://github.com/aicore,Aicore,,2026-09-12T12:01:05.724794+00:00
+655,a991903d258f02bc8c4d1fc66b48c131d9d2a99ef4e37d69a669eb89fce4b5f6,1.0,STARTUP,GitHub AI Organizations,https://github.com/WecoAI,Wecoai,,2026-09-12T12:01:05.724898+00:00
+656,4f7da0029d5aef2e130136b812389a539aa3de8edeb040da8f4d19864758db30,1.0,STARTUP,GitHub AI Organizations,https://github.com/autohandai,Autohandai,,2026-09-12T12:01:05.724997+00:00
+657,7e26fb2e7030bf58cdbbd62ec2da6138958f48f208319f50ee328a485fda839c,1.0,STARTUP,GitHub AI Organizations,https://github.com/aixm,Aixm,,2026-09-12T12:01:05.725099+00:00
+658,80a9c1678c58e5e6993ee836a0ad29102c64821e7cc16e883c4448fb966f24d5,1.0,STARTUP,GitHub AI Organizations,https://github.com/jiggy-ai,Jiggy Ai,,2026-09-12T12:01:05.725209+00:00
+659,7baf015ba3dea70e60a4b0dee3de3d639e1d3f5208293d4481004b7a921c2ff8,1.0,STARTUP,GitHub AI Organizations,https://github.com/OpenAdaptAI,Openadaptai,,2026-09-12T12:01:05.725318+00:00
+660,c8a6619893f9557dea5f0916985b49a280aad67398efa3767a40cc4c1eb2a8e1,1.0,STARTUP,GitHub AI Organizations,https://github.com/JaidedAI,Jaidedai,,2026-09-12T12:01:05.725414+00:00
+661,1bec102b49cc191c9c7ac34821fe7fc7f98fc5fa963d98128c3cf22abb59dda1,1.0,STARTUP,GitHub AI Organizations,https://github.com/cto-ai,Cto Ai,,2026-09-12T12:01:05.725514+00:00
+662,88248ec5dc966dfdfcae186b5de1c06b80d215e97a9fc618a9a5caa52aea1642,1.0,STARTUP,GitHub AI Organizations,https://github.com/oneai-nlp,Oneai Nlp,,2026-09-12T12:01:05.725640+00:00
+663,bbc1c518b1198ab3de8c6dab38a024e0864b3268b18c6605b5e7bcfeb2ac907d,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-FREE-Team,Ai Free Team,,2026-09-12T12:01:05.725768+00:00
+664,771fef34f0c3b924b587a7746b4c865860b461735a24b5c24be2600426269609,1.0,STARTUP,GitHub AI Organizations,https://github.com/evolvent-ai,Evolvent Ai,,2026-09-12T12:01:05.725877+00:00
+665,0e9d61a2b87c6a3a7471dfe2c4bd3266a1def670308c0969d4a159d85e7169e4,1.0,STARTUP,GitHub AI Organizations,https://github.com/aigamedev,Aigamedev,,2026-09-12T12:01:05.726335+00:00
+666,11168b587e00fc56b7d21a11965d5c4fcde29f9209faaef49d8a97d6b46a35a6,1.0,STARTUP,GitHub AI Organizations,https://github.com/Aizistral-Studios,Aizistral Studios,,2026-09-12T12:01:05.726458+00:00
+667,edf7ec74cf9c083368fc3e43e924641d4c8410645d530dbf703c16735ddbb10a,1.0,STARTUP,GitHub AI Organizations,https://github.com/airtechzone,Airtechzone,,2026-09-12T12:01:05.726556+00:00
+668,085e8f4713894d92ad8addcd31f01334a9507a75053b063965dd0ffee97c9b7d,1.0,STARTUP,GitHub AI Organizations,https://github.com/Egonex-AI,Egonex Ai,,2026-09-12T12:01:05.726650+00:00
+669,7c07badaeccaa57e92d0fe87a85cc1699e93b800a0c3fe21c2b1fde8aa391c9b,1.0,STARTUP,GitHub AI Organizations,https://github.com/aioz-ai,Aioz Ai,,2026-09-12T12:01:05.726756+00:00
+670,014c712feb466635a4a94089239a1efef2664858871b514f5f39841f5b57003b,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiddata,Aiddata,,2026-09-12T12:01:05.726849+00:00
+671,11c8d1d32f361231bd1c9f0a01ce89b996e0582fd055cac8c44c17f06068b9de,1.0,STARTUP,GitHub AI Organizations,https://github.com/ApexAI,Apexai,,2026-09-12T12:01:05.726946+00:00
+672,e0f9d81aad4ef0b914eeeff0b3eea72f33d4f96d7e53f128750202b6489d9c7d,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIOS-club,Aios Club,,2026-09-12T12:01:05.727058+00:00
+673,8fbd41ae11800ce949072441f1318d17ebc0ce977548538d60a89160d767efad,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIE-Lafayette,Aie Lafayette,,2026-09-12T12:01:05.727175+00:00
+674,c98c386d3a58239ee49f3b5e50b9617cd0720016048c0c0895dc02e3f3ad9b3e,1.0,STARTUP,GitHub AI Organizations,https://github.com/chatfire-AI,Chatfire Ai,,2026-09-12T12:01:05.727287+00:00
+675,34922c1ec86a8421133cbc32fb836aa7dbff34c1326b8631bf5d38e41f9123cc,1.0,STARTUP,GitHub AI Organizations,https://github.com/StarsfieldAI,Starsfieldai,,2026-09-12T12:01:05.727389+00:00
+676,465cbe3a25d93efaf5c22937b8c1f7df2210a96d1595d57f4490a7ec657986dd,1.0,STARTUP,GitHub AI Organizations,https://github.com/MobAI-App,Mobai App,,2026-09-12T12:01:05.727501+00:00
+677,e942214c8955530504ac9c031ab7bdc6330043abcc609e3425fed60e7b215c2c,1.0,STARTUP,GitHub AI Organizations,https://github.com/hanamizuki-ai,Hanamizuki Ai,,2026-09-12T12:01:05.727603+00:00
+678,36d4009dfb5339a92801399327bb71c49af984171ffd2abd82c6f537c5ff9dcb,1.0,STARTUP,GitHub AI Organizations,https://github.com/SKT-AI,Skt Ai,,2026-09-12T12:01:05.727961+00:00
+679,7d87e9f961c25b1994c7966eb03b228796a6a2d93b4cf52c79656fb674514f12,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Driven-R-D-Dept,Ai Driven R D Dept,,2026-09-12T12:01:05.728069+00:00
+680,8d40ce7017b167c7f44ba0b13f668b2e21e2efff38ae9fd02773c01bf060405b,1.0,STARTUP,GitHub AI Organizations,https://github.com/KAIKAKU-AI,Kaikaku Ai,,2026-09-12T12:01:05.728157+00:00
+681,433c2f38830679786839e6779416566fb17afad7010d62534382fe09ba70621d,1.0,STARTUP,GitHub AI Organizations,https://github.com/19PINE-AI,19pine Ai,,2026-09-12T12:01:05.728229+00:00
+682,c722f586871283c85b55106e11fcfb683b5805f2bbf3a9acaff7b4bfe6dc8f4d,1.0,STARTUP,GitHub AI Organizations,https://github.com/53AI,53ai,,2026-09-12T12:01:05.728293+00:00
+683,0f2a2116c29f3bea3e8a7d021dd0cfc1a11e01f32d0b821e80bb1a0168f7d9e7,1.0,STARTUP,GitHub AI Organizations,https://github.com/TheDuckAI,Theduckai,,2026-09-12T12:01:05.728361+00:00
+684,d60be03505741741e0510eeaa7a4def628fa6f2a6d5aa0e7846a5ddecee337a5,1.0,STARTUP,GitHub AI Organizations,https://github.com/airoa-org,Airoa Org,,2026-09-12T12:01:05.728427+00:00
+685,480bc1c6c94deec6643327d983e4990c80d5078e31317c967dd5de8704bb6440,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiot-lab,Aiot Lab,,2026-09-12T12:01:05.728491+00:00
+686,b79d2ffa9e6aa05cf1ae3398ba014808a60ab73c6edbc60a8ab528dc02b92c6a,1.0,STARTUP,GitHub AI Organizations,https://github.com/zhenglab,Zhenglab,,2026-09-12T12:01:05.728551+00:00
+687,4f2e65cfe36ddd4360afeb2e022f07703bf9e656c4fbb0720f02aa080ef9b383,1.0,STARTUP,GitHub AI Organizations,https://github.com/aimotive,Aimotive,,2026-09-12T12:01:05.728618+00:00
+688,207a8f66dd4370ffede4d6459e276b3caa1b9b7137bf884a31954af7e2242069,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Robot-Book-Humble,Ai Robot Book Humble,,2026-09-12T12:01:05.728696+00:00
+689,bab9dcc8d6e0c62582bfeedb87fb93680cbf2e84d100227e02ec951b26b70933,1.0,STARTUP,GitHub AI Organizations,https://github.com/floatboatai,Floatboatai,,2026-09-12T12:01:05.728758+00:00
+690,ba12cd4adb2a782d3590e07ae38bf88606c17a87683da3af54851d5351dcf4b7,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-that-works,Ai That Works,,2026-09-12T12:01:05.728828+00:00
+691,d3af4ce6642afad14c80a8d272f170a9e6d63602c7e71ec566adf6d6b24a59d2,1.0,STARTUP,GitHub AI Organizations,https://github.com/orq-ai,Orq Ai,,2026-09-12T12:01:05.728890+00:00
+692,b684c4662f510c6ce3885036b294b389158254b69292a461599e199f6326c187,1.0,STARTUP,GitHub AI Organizations,https://github.com/Yoctol,Yoctol,,2026-09-12T12:01:05.728948+00:00
+693,7ee7d7d79ea6aa1c3c04767448f58779ff184fe8530b0aa02b16fa5bb68f2eec,1.0,STARTUP,GitHub AI Organizations,https://github.com/aipixel,Aipixel,,2026-09-12T12:01:05.729004+00:00
+694,ffb9b17baef07c4410e8e395e5d5087f00685d6fcbf6cd6924ce723d0de00034,1.0,STARTUP,GitHub AI Organizations,https://github.com/aig-upf,Aig Upf,,2026-09-12T12:01:05.729065+00:00
+695,e241b8c86ad4a9eb29839e1ff8642fe346b53e34e82139d69cbabffe570fd1c8,1.0,STARTUP,GitHub AI Organizations,https://github.com/ailab-bio,Ailab Bio,,2026-09-12T12:01:05.729127+00:00
+696,761096b2af626eb9b57775e9f2cb43b804d52d1c08febce1666d47ee0db989d4,1.0,STARTUP,GitHub AI Organizations,https://github.com/nuls-io,Nuls Io,,2026-09-12T12:01:05.729189+00:00
+697,ec80f953b5a4464a967ff8851dcfc57bd2e0fa9717ecca38d3688df0a372d7c4,1.0,STARTUP,GitHub AI Organizations,https://github.com/plexe-ai,Plexe Ai,,2026-09-12T12:01:05.729249+00:00
+698,7589d8015e17be3d69deaf8c259aa8c7c9fc3f1cd4f1f5c9914da7bade24e3f3,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-for-decision-making-tue,Ai For Decision Making Tue,,2026-09-12T12:01:05.729324+00:00
+699,32d626eaa3a38008f0bedecdb275ac361037fd8791a086b721baefd5d618b2c9,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI9Stars,Ai9stars,,2026-09-12T12:01:05.729387+00:00
+700,4713e70155ca48c52997ab4547c0524e9da04a4bef5dcf5347744d0a3df755ae,1.0,STARTUP,GitHub AI Organizations,https://github.com/ais-lab,Ais Lab,,2026-09-12T12:01:05.729446+00:00
+701,816594dc1ade36d30a366809ae856128cc06c591b5c4f43031ca2b6b3d84d0f2,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIArabicProjects,Aiarabicprojects,,2026-09-12T12:01:06.346195+00:00
+702,622e0db1dc51b36f49323b10a54789f1442d96b82a02dbf6f9a7ad8a38eea567,1.0,STARTUP,GitHub AI Organizations,https://github.com/vals-ai,Vals Ai,,2026-09-12T12:01:06.346319+00:00
+703,bad7ce119983a1ba45f5ecdf2b730353bbf4bd10381c06e7bafc31406f5c5b89,1.0,STARTUP,GitHub AI Organizations,https://github.com/PeoplePlusAI,Peopleplusai,,2026-09-12T12:01:06.346416+00:00
+704,209587843381664bfd308ec678274e1c4d30c2b0e38bef302d4637b532f1fec2,1.0,STARTUP,GitHub AI Organizations,https://github.com/ainblockchain,Ainblockchain,,2026-09-12T12:01:06.346502+00:00
+705,ac8469a7b611276a9744ddf7605aec484bab49ed0d063ff8dc33147967cefdfd,1.0,STARTUP,GitHub AI Organizations,https://github.com/airbusgeo,Airbusgeo,,2026-09-12T12:01:06.346589+00:00
+706,cc4f7d8415b0b3a0ac7f035c71211bf67d7dd24c7c46b00182551a3089e8483f,1.0,STARTUP,GitHub AI Organizations,https://github.com/boostcamp-AI-Tech-alumni,Boostcamp Ai Alumni,,2026-09-12T12:01:06.346693+00:00
+707,aa48952355a43ddef7586ebcc2804a0c013d5edaf03edb76a24133a205e732f8,1.0,STARTUP,GitHub AI Organizations,https://github.com/Airbase,Airbase,,2026-09-12T12:01:06.346776+00:00
+708,fc3d39ef9b03e6b815c701406b7a75c95cbd7ec9a2b858acb18452dab6fe4168,1.0,STARTUP,GitHub AI Organizations,https://github.com/talkdai,Talkdai,,2026-09-12T12:01:06.346866+00:00
+709,c68cabd10363de58bfd96296e770860edee0783cc7d32bfb3c5a703aee96ff7c,1.0,STARTUP,GitHub AI Organizations,https://github.com/idurar,Idurar,,2026-09-12T12:01:06.346948+00:00
+710,7eb7e0bde4bc06e99ea450822d66475c254e2a9ca01430ff98897a07bfc1fe8a,1.0,STARTUP,GitHub AI Organizations,https://github.com/The-FinAI,The Finai,,2026-09-12T12:01:06.347036+00:00
+711,faa357b8d9d5e2421562a54c47f49789e3a1dc555fd81e83e76e01305213170b,1.0,STARTUP,GitHub AI Organizations,https://github.com/aicell-lab,Aicell Lab,,2026-09-12T12:01:06.347131+00:00
+712,198549ce5c4cb13b2e46b57ad94ff66cc990ac4aea271b46259ef00f57df5f0b,1.0,STARTUP,GitHub AI Organizations,https://github.com/IRISX-AI,Irisx Ai,,2026-09-12T12:01:06.347221+00:00
+713,9fc01bb9f2f583811e3126516b6b1349efc8811925d42f477342f882cc432efc,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai4curation,Ai4curation,,2026-09-12T12:01:06.347303+00:00
+714,e3370c8dd1c690a345e63875fc0444ac88d65805eb1615795f8e5081326b343e,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIcrowd,Aicrowd,,2026-09-12T12:01:06.347380+00:00
+715,acaa16e9444d1650685ca4eff90fbf70f6ba26d7c735c77289df5aae09403802,1.0,STARTUP,GitHub AI Organizations,https://github.com/abap-ai,Abap Ai,,2026-09-12T12:01:06.347466+00:00
+716,355d2a7a188c28551bd5e2da1fb6c1396ec215651702526271da68628ea32805,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiola-lab,Aiola Lab,,2026-09-12T12:01:06.347567+00:00
+717,b348793cc5393a45ada756d961531ce9237f88a22159da81801177d09d9df140,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Protocol-Official,Ai Protocol Official,,2026-09-12T12:01:06.347668+00:00
+718,de50cc51392faf088892aa94f1c5a125a38479ba10f05a926c197b751cd70cb5,1.0,STARTUP,GitHub AI Organizations,https://github.com/airbrake,Airbrake,,2026-09-12T12:01:06.347750+00:00
+719,ebeb693f78c3038a0f8e488c86c126f0798289b118421a87d3eac94744135ed5,1.0,STARTUP,GitHub AI Organizations,https://github.com/ambianic,Ambianic,,2026-09-12T12:01:06.347839+00:00
+720,b398988026442a5d2ce96d8f795cf54a9a42259c057074669508f2514f774025,1.0,STARTUP,GitHub AI Organizations,https://github.com/instillai,Instillai,,2026-09-12T12:01:06.347918+00:00
+721,17f239877c5abccb7280315c8606e64f9d7c9e551ff77f0efc104d879357997a,1.0,STARTUP,GitHub AI Organizations,https://github.com/bodo-ai,Bodo Ai,,2026-09-12T12:01:06.348242+00:00
+722,c9854cc39552e3ce28a9c35e1c5ed307b5bf004f7ad2631843f9c73689c66127,1.0,STARTUP,GitHub AI Organizations,https://github.com/Birmingham-AI,Birmingham Ai,,2026-09-12T12:01:06.348383+00:00
+723,2370e58c833846f94404c262cc3850c2423f021a213ba77edbeed844d7e60703,1.0,STARTUP,GitHub AI Organizations,https://github.com/testdotai,Testdotai,,2026-09-12T12:01:06.348482+00:00
+724,141009329adb58f7f918951e931a270dbeb64b2d62421662dc0e573e75e5caef,1.0,STARTUP,GitHub AI Organizations,https://github.com/AiArt-Gao,Aiart Gao,,2026-09-12T12:01:06.348583+00:00
+725,396acf10c7ea250cf23068a3870374dc227c44e16c445fcf5a81c67c6cdb3ede,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-agriculture-circuits-and-systems,Ai Agriculture Circuits And Systems,,2026-09-12T12:01:06.348699+00:00
+726,dcaa0e9c40d9ffac798ea332a7652ee399e68055b1de19bddddd93ba99129e3b,1.0,STARTUP,GitHub AI Organizations,https://github.com/waifuai,Waifuai,,2026-09-12T12:01:06.348789+00:00
+727,46be19f6c60e2cb74f5ad00dd195234ef159146c91faf60be6c31bf2c20d3bf6,1.0,STARTUP,GitHub AI Organizations,https://github.com/radaisystems,Radaisystems,,2026-09-12T12:01:06.348878+00:00
+728,db7053231b3709a4481bf0e5d9abe34f0b5c93b793a9a1810063a1c6809c50c6,1.0,STARTUP,GitHub AI Organizations,https://github.com/raga-ai-hub,Raga Ai Hub,,2026-09-12T12:01:06.348970+00:00
+729,f153b1d6a94da8e17b4f0412675bfa4dc311f5bd77ca6686eaa860fe8a00c16c,1.0,STARTUP,GitHub AI Organizations,https://github.com/AccelAI,Accelai,,2026-09-12T12:01:06.349052+00:00
+730,1db18bc36db98686f19acc51af5324777d2804fdb42cd03584dbb4884d66cc01,1.0,STARTUP,GitHub AI Organizations,https://github.com/AICONSlab,Aiconslab,,2026-09-12T12:01:06.349137+00:00
+731,89e4fe654e8b63eb6b3dd470d4d7f0676aa3c16a64ed9d5080b8cb45c77ecdbb,1.0,STARTUP,GitHub AI Organizations,https://github.com/crowdAI,Crowdai,,2026-09-12T12:01:06.349228+00:00
+732,4afa63a7ffe3443c1aac5b4728e7df5e366b1831c8da6f7359b7c285ac5a4921,1.0,STARTUP,GitHub AI Organizations,https://github.com/Lamatic,Lamatic,,2026-09-12T12:01:06.349309+00:00
+733,bd0b09ee1723d842ff53922a10b4248968429f850a67de6062479c062cd69695,1.0,STARTUP,GitHub AI Organizations,https://github.com/Cloud-Code-AI,Cloud Code Ai,,2026-09-12T12:01:06.349401+00:00
+734,3e185659a950e26b7b83c4b9673fc0378651e60e4e352218ae445fbfd9a4e6ba,1.0,STARTUP,GitHub AI Organizations,https://github.com/valkor-ai,Valkor Ai,,2026-09-12T12:01:06.349810+00:00
+735,e5b3b2e453248e128ef8b3e024954cd2c2164b8000b41737bfa7e6f67d8c1fa2,1.0,STARTUP,GitHub AI Organizations,https://github.com/guardstrikelab,Guardstrikelab,,2026-09-12T12:01:06.350040+00:00
+736,ddba1574c84d61d7141677c5294e4ac83fdb33e82c12f84a02ec8b05e43359f7,1.0,STARTUP,GitHub AI Organizations,https://github.com/patterns-ai-core,Patterns Ai Core,,2026-09-12T12:01:06.350219+00:00
+737,3a2dbcce467a84361868ad71aea0a7ae59263c5165549e3c00ddd1b1748ffe61,1.0,STARTUP,GitHub AI Organizations,https://github.com/MoroccoAI,Moroccoai,,2026-09-12T12:01:06.350317+00:00
+738,efe4754592a769b6da6ff5aa4a64d0398c147152bd29f4d75fd01975ca237fab,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4Chem,Ai4chem,,2026-09-12T12:01:06.350496+00:00
+739,0cbe1d4709d4cd4e124dced0e92599cf7b27aec6dfa7dd6560ed4bd7af966124,1.0,STARTUP,GitHub AI Organizations,https://github.com/waldzellai,Waldzellai,,2026-09-12T12:01:06.350726+00:00
+740,d20bdb03ba0b0da2e3653ff109603567c6e4ae08ddbe0f8820b7d193b7e5fcb2,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIT-Assistive-Autonomous-Systems,Ait Assistive Autonomous Systems,,2026-09-12T12:01:06.350857+00:00
+741,f8929ca0f2966835b6d3eddd6005e818d4797f7511ac91dabd8fe1f751da480e,1.0,STARTUP,GitHub AI Organizations,https://github.com/PlotSenseAICommunity,Plotsenseaicommunity,,2026-09-12T12:01:06.350958+00:00
+742,61ba6b98f7dfcaad4e788412ce9a2f6dc83abf2fb3aacf8bb511fb38b1eacdf1,1.0,STARTUP,GitHub AI Organizations,https://github.com/ultralytics,Ultralytics,,2026-09-12T12:01:06.351047+00:00
+743,b3579a6990f5ae26a94ae982e6ae5a12815d1b7ed0fea948223dbd9b6701af79,1.0,STARTUP,GitHub AI Organizations,https://github.com/ivrit-ai,Ivrit Ai,,2026-09-12T12:01:06.351136+00:00
+744,97a581f88f7d2bb9fffe3db3e500905c3ad6378c9b58085039a4faa7130b1a4d,1.0,STARTUP,GitHub AI Organizations,https://github.com/Aiko-IT-Systems,Aiko It Systems,,2026-09-12T12:01:06.351235+00:00
+745,a37972cf38a12c9afaab73ab05c78cbd9a0722a75baee509e258edde1e13b0d0,1.0,STARTUP,GitHub AI Organizations,https://github.com/botlearn-ai,Botlearn Ai,,2026-09-12T12:01:06.351324+00:00
+746,637c87d024b55d8488d1195a72c1537fe2a3ea116ac6d112ac30d909e2ba666a,1.0,STARTUP,GitHub AI Organizations,https://github.com/positron-ai,Positron Ai,,2026-09-12T12:01:06.351417+00:00
+747,0b31797ed25dc800c3802014491fa772d152befeb2df8374e799ce806018691b,1.0,STARTUP,GitHub AI Organizations,https://github.com/zyndai,Zyndai,,2026-09-12T12:01:06.351504+00:00
+748,7e6c9fca0edaf75f4bc217f3fd750cca5c9a27f8b166686040c5bec850645b09,1.0,STARTUP,GitHub AI Organizations,https://github.com/ifixai-ai,Ifixai Ai,,2026-09-12T12:01:06.351594+00:00
+749,483fbf3cf9da935f37cc1de7531e5f3d6bacb545d1a22091f2714ea63e33d156,1.0,STARTUP,GitHub AI Organizations,https://github.com/fiveai,Fiveai,,2026-09-12T12:01:06.351675+00:00
+750,61600dac654051bdf39aec652ed13984b7cd925fc678912600115f998c5fa3bf,1.0,STARTUP,GitHub AI Organizations,https://github.com/LibreChat-AI,Librechat Ai,,2026-09-12T12:01:06.351769+00:00
+751,ef8e9f4a64103dd752e1418aa70857feba4d1309fb2989e3e4349df45c2281b2,1.0,STARTUP,GitHub AI Organizations,https://github.com/aiqm,Aiqm,,2026-09-12T12:01:06.351852+00:00
+752,6603822d0afac5733b05b2329c4db153b05ca148e9feaef11c186ec5943f2052,1.0,STARTUP,GitHub AI Organizations,https://github.com/Red-Hat-AI-Innovation-Team,Red Hat Ai Innovation Team,,2026-09-12T12:01:06.351964+00:00
+753,14844859ece16e47f3cdec1a3b3b28ebed85f655497ecbfc7e3c53f0d1307647,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIMedLab,Aimedlab,,2026-09-12T12:01:06.352051+00:00
+754,cbde42b35de13fc2cad4519a987e41601f9cdee24d9f7f01363b6fd466eb9fb6,1.0,STARTUP,GitHub AI Organizations,https://github.com/field-ai,Field Ai,,2026-09-12T12:01:06.352139+00:00
+755,6c3b7cfda90ef73ee8c835008bf467e9b9980de5fdbd837ce234c2c144aaf506,1.0,STARTUP,GitHub AI Organizations,https://github.com/FailproofAI,Failproofai,,2026-09-12T12:01:06.352501+00:00
+756,146bc1dc36fb7a3f519e8b08f98ea09d86e958331e12cb3f7df5c3160073f132,1.0,STARTUP,GitHub AI Organizations,https://github.com/Abilityai,Abilityai,,2026-09-12T12:01:06.352630+00:00
+757,2d7e4b505e86a0ed6dfea353f14dc1371294072706f52970c930800e50a63832,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai4os,Ai4os,,2026-09-12T12:01:06.352715+00:00
+758,a6d0926d11de1012f2a57f8d1aaae6f82544e0dabca42c18a4d60f4a1a4ab26f,1.0,STARTUP,GitHub AI Organizations,https://github.com/Hypogenic-AI,Hypogenic Ai,,2026-09-12T12:01:06.352811+00:00
+759,9409274e02206aa7204c8b89bbcef156e981b0885c98413321f4385479162d60,1.0,STARTUP,GitHub AI Organizations,https://github.com/Dream-AI-4444,Dream Ai 4444,,2026-09-12T12:01:06.352910+00:00
+760,7f531826ddf16b2acc84db49f6d32419d91aaacbc94b56b8b16b8b67aef444b5,1.0,STARTUP,GitHub AI Organizations,https://github.com/Lexsi-Labs,Lexsi,,2026-09-12T12:01:06.353005+00:00
+761,1f5967765bd88a925cc618a123c381a10412af7333caad3a3bf6a161c0975857,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-HUB-Deep-Learning-Fundamental,Ai Hub Deep Learning Fundamental,,2026-09-12T12:01:06.353117+00:00
+762,4265ad6792864dadb1a6f8da7104e6897bf0375895a28e65c86ba785209e56aa,1.0,STARTUP,GitHub AI Organizations,https://github.com/aidilsaputrakirsan-classroom,Aidilsaputrakirsan Classroom,,2026-09-12T12:01:06.353227+00:00
+763,7ef44b41a62fe432146faf60b278fabda40ed699bcaa8130269385fbabb298a5,1.0,STARTUP,GitHub AI Organizations,https://github.com/lfai,Lfai,,2026-09-12T12:01:06.353311+00:00
+764,020dea628b6ea3f3f65274b695f301454a1476959af664316ff91731ba1f3bfe,1.0,STARTUP,GitHub AI Organizations,https://github.com/aionnetwork,Aionnetwork,,2026-09-12T12:01:06.353393+00:00
+765,e48096f924338b5afeef127f2e5cef6d3fe27972f4b9b6a5a2dbd0a381a8a9ff,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIFrontiersLab,Aifrontierslab,,2026-09-12T12:01:06.353477+00:00
+766,055bcdfbfe2956187e08e77f455e7ec8e7c4dfe8d9186a2a2a9f0c35c9f01cac,1.0,STARTUP,GitHub AI Organizations,https://github.com/AirIndia-ITDepartment,Airindia Itdepartment,,2026-09-12T12:01:06.353574+00:00
+767,9601d923a0766501f30acd01189309b2e1823381cb330b84afef2ecd0d64eeb5,1.0,STARTUP,GitHub AI Organizations,https://github.com/android-nuc,Android Nuc,,2026-09-12T12:01:06.353662+00:00
+768,e9702bd3e351a7b41ca459262de106b690dc9c0bf5418a2e58294703c3f810b8,1.0,STARTUP,GitHub AI Organizations,https://github.com/ditto-assistant,Ditto Assistant,,2026-09-12T12:01:06.353745+00:00
+769,afeae0a516bb8495aeb84cae66e032a694f52d4ee5678d2e68c7e020bafe4496,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIStream-Peelout,Aistream Peelout,,2026-09-12T12:01:06.353830+00:00
+770,6858186570865c54c99ffabcb412c30d718ef9aea8f52219296097acc29e7699,1.0,STARTUP,GitHub AI Organizations,https://github.com/axelera-ai-hub,Axelera Ai Hub,,2026-09-12T12:01:06.353920+00:00
+771,05c32a02c456405ce41ab268c5de3fadb8787449b63743d398fa84463c0ac7d3,1.0,STARTUP,GitHub AI Organizations,https://github.com/MSU-AI,Msu Ai,,2026-09-12T12:01:06.354038+00:00
+772,bd47abccab4413d488bbc4ece28f91283b21c5398b9c631d7f0c32a818a38eb4,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Agent-Incubator-Month,Ai Agent Incubator Month,,2026-09-12T12:01:06.354143+00:00
+773,50f4218332038f87c462ce3eed933ead3e184314f02570a3f824a110aa7f3e8e,1.0,STARTUP,GitHub AI Organizations,https://github.com/airtimemedia,Airtimemedia,,2026-09-12T12:01:06.354229+00:00
+774,435159ff9b54479711cefe448d877cbf25e18190df4bf42eabf037e0b7dacf9b,1.0,STARTUP,GitHub AI Organizations,https://github.com/TaskingAI,Taskingai,,2026-09-12T12:01:06.354305+00:00
+775,3c74414176fcd948d99602eb7e491af13e49264bbf00c840f805b13aa68bcad3,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-School-F5-P3,Ai School F5 P3,,2026-09-12T12:01:06.354390+00:00
+776,d6e487bf85ffc324da00bf4c55ece96cb97d815f37c2b8ad4626d78141cc826e,1.0,STARTUP,GitHub AI Organizations,https://github.com/airtasker,Airtasker,,2026-09-12T12:01:06.354463+00:00
+777,9781ff2fc520fd26fc9b11f9079e0e997ddd0a6f396f792520e41dfdfbbfc802,1.0,STARTUP,GitHub AI Organizations,https://github.com/vobiz-ai,Vobiz Ai,,2026-09-12T12:01:06.354546+00:00
+778,6437512ab2bcc4070f4a43acb349927000b7926c011ad7dd30377e98ff9dea2a,1.0,STARTUP,GitHub AI Organizations,https://github.com/Sider-ai,Sider Ai,,2026-09-12T12:01:06.354622+00:00
+779,8884dd0bf715744e6eda49002b8e0717b88b4cf83e53586f7a1941140f30d454,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Unicamp,Ai Unicamp,,2026-09-12T12:01:06.354700+00:00
+780,efe1dbf06d69c36576ceb78581ddb47f461be00f7a19c571cce093841fb59c19,1.0,STARTUP,GitHub AI Organizations,https://github.com/minitap-ai,Minitap Ai,,2026-09-12T12:01:06.354782+00:00
+781,11bcca9a9f91679658e7428d9ab3f7938d977b65f597725e6ef8e20d428166cc,1.0,STARTUP,GitHub AI Organizations,https://github.com/bluleap-ai,Bluleap Ai,,2026-09-12T12:01:06.354865+00:00
+782,4f61592f3674c808a1a8f66cebec273e90887e967368f5ae08a5ebde42de6278,1.0,STARTUP,GitHub AI Organizations,https://github.com/nlweb-ai,Nlweb Ai,,2026-09-12T12:01:06.354940+00:00
+783,e24f9ad1bcca67b21ae03dd90a60100bae7140767c4774f9e3375d34bacb38d0,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4S-YB,Ai4s Yb,,2026-09-12T12:01:06.355015+00:00
+784,21d082529adcd9b2bd3b5c4eda6fcd2419eb5b266595ba3094705e4ae17f3449,1.0,STARTUP,GitHub AI Organizations,https://github.com/keenableai,Keenableai,,2026-09-12T12:01:06.355091+00:00
+785,581ee1f028e92751f3c70d0a9a2b9b195324fffc0b3f49047f8712543c715bfd,1.0,STARTUP,GitHub AI Organizations,https://github.com/Picsart-AI-Research,Picsart Ai Research,,2026-09-12T12:01:06.355173+00:00
+786,891d83f5df7846304ab0fd2c74c88077f4596c27de1b9d1e71efa9a82cd80aab,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIandGlobalDevelopmentLab,Aiandglobaldevelopmentlab,,2026-09-12T12:01:06.355250+00:00
+787,67ec54724fccedaf5f8ece6606e454fee735ca815dafbe61ef6786c52a60c8a5,1.0,STARTUP,GitHub AI Organizations,https://github.com/AirPR,Airpr,,2026-09-12T12:01:06.355325+00:00
+788,aecf563b8ccbf58e15865c32c3dd84dfbe4a8c342890fba68cac59972a9f75e3,1.0,STARTUP,GitHub AI Organizations,https://github.com/Aimpoint-Digital,Aimpoint Digital,,2026-09-12T12:01:06.355409+00:00
+789,7356ef0844b59ff71818bc1d47210bc1a0a7f1b58102529577b9512a072f6aa6,1.0,STARTUP,GitHub AI Organizations,https://github.com/Akyl-AI,Akyl Ai,,2026-09-12T12:01:06.355490+00:00
+790,9cb6bc863c22c95b381fbe27970b2133d59af7294d29c9d2100a1a265921e0f7,1.0,STARTUP,GitHub AI Organizations,https://github.com/neutree-ai,Neutree Ai,,2026-09-12T12:01:06.355567+00:00
+791,42f8e3646e858b58b1db62c8635ba2e0a1fa4233edf10dc5361ee83f5304ae6e,1.0,STARTUP,GitHub AI Organizations,https://github.com/airqo-platform,Airqo Platform,,2026-09-12T12:01:06.355644+00:00
+792,1549d90a08b21c67747d8d18500ec29127f41f8640d3eac00f3d89432f2d6d37,1.0,STARTUP,GitHub AI Organizations,https://github.com/InftyAI,Inftyai,,2026-09-12T12:01:06.355711+00:00
+793,dfc82e06f9117d35c40751c4413e5a07c2463d36792ec2f2cdf4fce4b638b055,1.0,STARTUP,GitHub AI Organizations,https://github.com/opper-ai,Opper Ai,,2026-09-12T12:01:06.355779+00:00
+794,6fff23167ef9aeef8d903ad907c78932d576467fdc20bfa6d6a925745159a6a1,1.0,STARTUP,GitHub AI Organizations,https://github.com/xpert-ai,Xpert Ai,,2026-09-12T12:01:06.355846+00:00
+795,7f2f887a26e7f4ff856475646ff8438c61677c6d568eaff9276a0495861e2a3f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AirVantage,Airvantage,,2026-09-12T12:01:06.355917+00:00
+796,6b1beca1866b1dd1281b82faea5cb24dd66a25cd0b20961981a7acfa1ee5c580,1.0,STARTUP,GitHub AI Organizations,https://github.com/guiiai,Guiiai,,2026-09-12T12:01:06.355990+00:00
+797,3f15ffa6c07385e8bc1b0867e6f2ba80d8452b8a62dbc57f9a1f419f39ed97be,1.0,STARTUP,GitHub AI Organizations,https://github.com/OPPO-PersonalAI,Oppo Personalai,,2026-09-12T12:01:06.356078+00:00
+798,2f645d26159eabecefa9d897ac80708216cd1ea4246d03eac823a191d21e7c2a,1.0,STARTUP,GitHub AI Organizations,https://github.com/aircall,Aircall,,2026-09-12T12:01:06.356798+00:00
+799,d8230d96a651241202ded1f97274ed713c2a448464d35be3a7035a5615a36aba,1.0,STARTUP,GitHub AI Organizations,https://github.com/devv-ai,Devv Ai,,2026-09-12T12:01:06.356906+00:00
+800,196759be225f8cc8bbe84dcecc7ed383aa6e2e169522f568f763c3250a8b1bf5,1.0,STARTUP,GitHub AI Organizations,https://github.com/RSandAI,Rsandai,,2026-09-12T12:01:06.356974+00:00
+801,da2b56c9ebe87831799a7a4ab9c8631df093f3cbf10c1604f7fe15f3c5c6517f,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-chem,Ai Chem,,2026-09-12T12:01:07.222941+00:00
+802,0462493e1cb2687b9ad7b0865cef62409d130f8e8ef38da97aaf8c697b57abf4,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIRInstitute,Airinstitute,,2026-09-12T12:01:07.223042+00:00
+803,3e2735ccc8538f0a1836af137261c6d9a3829c43f989b52c5a2d9c7fead8835f,1.0,STARTUP,GitHub AI Organizations,https://github.com/InflectionAI,Inflectionai,,2026-09-12T12:01:07.223121+00:00
+804,c4270c3ce0a2fad753a76efb7b11050da288f6521144bff7f007b9fa21cdf65b,1.0,STARTUP,GitHub AI Organizations,https://github.com/kamiwaza-ai,Kamiwaza Ai,,2026-09-12T12:01:07.223203+00:00
+805,0bc38e9152856a03b4f3b1681088b6fce8f912598a46968d7b29477578311f96,1.0,STARTUP,GitHub AI Organizations,https://github.com/manus-ai,Manus Ai,,2026-09-12T12:01:07.223280+00:00
+806,b530ab3e72839c4cfcae0c9f45a24610490dca0eccc78504811da797a9bb9be1,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-at-the-edge,Ai At The Edge,,2026-09-12T12:01:07.223368+00:00
+807,8c0e5150f43bdb7da6866782f9ee74722756e87e910ab125860b439b1f3722ec,1.0,STARTUP,GitHub AI Organizations,https://github.com/airdb,Airdb,,2026-09-12T12:01:07.223438+00:00
+808,f99960be7cf171e95d0dcb066d31ea9e88eec2a05a9f6f904aeda4f43c2bba90,1.0,STARTUP,GitHub AI Organizations,https://github.com/Visual-AI,Visual Ai,,2026-09-12T12:01:07.223511+00:00
+809,32e9c3381b40ea5eec2246bd64617490c5b5b8edfab821548b7fd350170e22d7,1.0,STARTUP,GitHub AI Organizations,https://github.com/aida-ugent,Aida Ugent,,2026-09-12T12:01:07.223589+00:00
+810,6cf1693746538eb026e4080fabaff3381428f386b558ce47fa198f96e6695bca,1.0,STARTUP,GitHub AI Organizations,https://github.com/aipoch,Aipoch,,2026-09-12T12:01:07.223660+00:00
+811,eb0dda09c6c6561b1ac5bdc156acb6a5f75ad23ccee8821174a25bd7ef39cdae,1.0,STARTUP,GitHub AI Organizations,https://github.com/airspy,Airspy,,2026-09-12T12:01:07.223724+00:00
+812,7b8e96d5f107c5d8ba6db977c661101819c37216166cc25c29ca5c773911bde5,1.0,STARTUP,GitHub AI Organizations,https://github.com/Vyro-ai,Vyro Ai,,2026-09-12T12:01:07.223796+00:00
+813,7b2ab362ebe6d886d115e01ad347d9f6f24c8678d9b867739205ef8d8d5cb028,1.0,STARTUP,GitHub AI Organizations,https://github.com/aikodigital,Aikodigital,,2026-09-12T12:01:07.223864+00:00
+814,a98b4ac863eff8774fe541c99c0d2ca2c6aac28ce457edb1c0f0e16c8601f607,1.0,STARTUP,GitHub AI Organizations,https://github.com/claypotai,Claypotai,,2026-09-12T12:01:07.223929+00:00
+815,edeb3805d80aebe8adf71df1193a3ba9e4526570e7d497b1d48bf2f8375000bd,1.0,STARTUP,GitHub AI Organizations,https://github.com/Cocoon-AI,Cocoon Ai,,2026-09-12T12:01:07.223997+00:00
+816,2d45a48c93153d15cf44974f527ccfa63fdc5b7492e47130680f906cbe4d6e45,1.0,STARTUP,GitHub AI Organizations,https://github.com/LucknowAI,Lucknowai,,2026-09-12T12:01:07.224084+00:00
+817,ad8c0ff535a26bad54d2c10cd2cbb495da23eb66842d01734f3f5232068d964b,1.0,STARTUP,GitHub AI Organizations,https://github.com/CelestoAI,Celestoai,,2026-09-12T12:01:07.224156+00:00
+818,37f548886288e7fe388ea389649bf9c0cd9d67f797e8017b3021132d9f73fbde,1.0,STARTUP,GitHub AI Organizations,https://github.com/NUS-HPC-AI-Lab,Nus Hpc Ai Lab,,2026-09-12T12:01:07.224234+00:00
+819,73c9ce298362f6dd66d27d60547963417fecae67e5ddb0158e5ed31dd859870b,1.0,STARTUP,GitHub AI Organizations,https://github.com/OpenAccess-AI-Collective,Openaccess Ai Collective,,2026-09-12T12:01:07.224547+00:00
+820,582ea1902903c839ff8ac946438a9ba7d5deb14fe01a3f746e54bfa0bc58da7c,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-for-edu,Ai For Edu,,2026-09-12T12:01:07.224683+00:00
+821,9e35dbe12e7db2d1df1d559e7dc8bf1e6546b06b3a77a11f85926ecfaa61b799,1.0,STARTUP,GitHub AI Organizations,https://github.com/windsor-ai,Windsor Ai,,2026-09-12T12:01:07.224763+00:00
+822,176300196e6710c365c38e6b1af908a9fad6a085e328412be710fcdf2c4df99e,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-for-Education,Ai For Education,,2026-09-12T12:01:07.224842+00:00
+823,fc7a96b74e8c57688e5dc8a665d708260b1c53c07367501cbdb0e172431672f6,1.0,STARTUP,GitHub AI Organizations,https://github.com/yaak-ai,Yaak Ai,,2026-09-12T12:01:07.224912+00:00
+824,1a7c29fbe5904c90997a354f04ba3b20ebe9bb7804281cf7ab597a41574498e6,1.0,STARTUP,GitHub AI Organizations,https://github.com/Radical-AI,Radical Ai,,2026-09-12T12:01:07.224984+00:00
+825,aeb97caa8e57e688542bf9d411894f7ed837dc54a973a4e76bd757a1d61f2651,1.0,STARTUP,GitHub AI Organizations,https://github.com/lemony-ai,Lemony Ai,,2026-09-12T12:01:07.225317+00:00
+826,aa2b59f8e888c9703edc51fa6f94d4732525cb66cc4da0f533f7ec60564db2c4,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIhubmix,Aihubmix,,2026-09-12T12:01:07.225432+00:00
+827,c2ee5ed77f8f37a5044c56a5f579eb5462c06532678483dea4da0ee490e3e3b7,1.0,STARTUP,GitHub AI Organizations,https://github.com/AierLab,Aierlab,,2026-09-12T12:01:07.225511+00:00
+828,4747c33fda1a32555e42aa5e1aa7d5741bc3478e655f2ecbdc721ba98fa33ab5,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4REALNET,Ai4realnet,,2026-09-12T12:01:07.225584+00:00
+829,75536478aa55c79ca25a10f9c0427817e87ae446b70cd6218f07b7b661d1c5ed,1.0,STARTUP,GitHub AI Organizations,https://github.com/Leading-AI-IO,Leading Ai Io,,2026-09-12T12:01:07.225674+00:00
+830,86032fb0bdbd4abefff20427478d4857949c67720174646574a6ea86605032e9,1.0,STARTUP,GitHub AI Organizations,https://github.com/holaboss-ai,Holaboss Ai,,2026-09-12T12:01:07.225753+00:00
+831,dfa85767040e0e5e493addb0b7eecff3431e879eda8f01677954802f3e8eceac,1.0,STARTUP,GitHub AI Organizations,https://github.com/genbio-ai,Genbio Ai,,2026-09-12T12:01:07.225836+00:00
+832,06f111d2d9096433b98fb83212e1c9db92e67371ec7e7c62ec0b3cc59bf10529,1.0,STARTUP,GitHub AI Organizations,https://github.com/holistic-ai,Holistic Ai,,2026-09-12T12:01:07.225914+00:00
+833,ba9aba39e41dc8edaaded7547208e6e2e442913bf8dd68ff553de7a41e9c285b,1.0,STARTUP,GitHub AI Organizations,https://github.com/centaurinstitute,Centaurinstitute,,2026-09-12T12:01:07.225992+00:00
+834,dbee5ef2aa2b41a703b61202d46b75468d5f6a8f0306683042b4af92801f26ed,1.0,STARTUP,GitHub AI Organizations,https://github.com/spear-ai,Spear Ai,,2026-09-12T12:01:07.226080+00:00
+835,4a8be64dd133b9e531ebec05a3f3f85c9b5aa6ea07d0935b60176b4f1627777c,1.0,STARTUP,GitHub AI Organizations,https://github.com/keibaAI-community,Keibaai Community,,2026-09-12T12:01:07.226169+00:00
+836,dce9e63b92153b6f07e3e481d7c5dc513b47404ce0c1679f4984df24ebcbc3c9,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Marketing-Hub,Ai Marketing Hub,,2026-09-12T12:01:07.226253+00:00
+837,3946e83cf78c82eb7bcadc8d4ef798a9515b81a2b7e498af11b829a66a0b532f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIScientists-Dev,Aiscientists Dev,,2026-09-12T12:01:07.226333+00:00
+838,b3f7e26152738802bf0e7181765ee8adafaee729c15eb07a97929562358c7f59,1.0,STARTUP,GitHub AI Organizations,https://github.com/AirLiquide,Airliquide,,2026-09-12T12:01:07.226412+00:00
+839,a0835fb644f911418864d8e0fd076cc1acde1188d59dc3027af261ac0d795fe9,1.0,STARTUP,GitHub AI Organizations,https://github.com/corva-ai,Corva Ai,,2026-09-12T12:01:07.226491+00:00
+840,dacd5078a160147fac60982f96416a3059da8c5236470434a53e4f8d67849f27,1.0,STARTUP,GitHub AI Organizations,https://github.com/agency-ai-solutions,Agency Ai Solutions,,2026-09-12T12:01:07.226575+00:00
+841,6cb6f88aba8889f21e51e5158b035bad7b54c57b947f09bca660fd3278062a97,1.0,STARTUP,GitHub AI Organizations,https://github.com/cornball-ai,Cornball Ai,,2026-09-12T12:01:07.226676+00:00
+842,052054413efea8a915097bd9d6375d0426b3a5e921275432cfe1d3762b71a84e,1.0,STARTUP,GitHub AI Organizations,https://github.com/spicehq,Spicehq,,2026-09-12T12:01:07.226759+00:00
+843,4faadc6789e137b05bf7fd37832c0dd13f09498e550a166f2fe49bdae3e3e00f,1.0,STARTUP,GitHub AI Organizations,https://github.com/ScaDS,Scads,,2026-09-12T12:01:07.226831+00:00
+844,2b360e4451d596fc78ca51352000f01b01deb3229e583508942e068613352d8b,1.0,STARTUP,GitHub AI Organizations,https://github.com/Zerax-AI,Zerax Ai,,2026-09-12T12:01:07.226897+00:00
+845,6db4ad8356598946999857481dd0722ff8f75e8b4df2b6324bad2431d64d1c2c,1.0,STARTUP,GitHub AI Organizations,https://github.com/takara-ai,Takara Ai,,2026-09-12T12:01:07.226964+00:00
+846,f8518fc373b22bb15134680ade396425ad2ed4a7a04374f71f78cb92745985ef,1.0,STARTUP,GitHub AI Organizations,https://github.com/KAIST-Visual-AI-Group,Kaist Visual Ai,,2026-09-12T12:01:07.227060+00:00
+847,05d92a2d4e652bebaefb28344fc2743a4e9a02b7634d7533bf561121ab427340,1.0,STARTUP,GitHub AI Organizations,https://github.com/Repello-AI,Repello Ai,,2026-09-12T12:01:07.227129+00:00
+848,6d2222ccca0680016e5f877f5e253f96b4e48b73f08c3f7d27e9e46585c9155b,1.0,STARTUP,GitHub AI Organizations,https://github.com/Minara-AI,Minara Ai,,2026-09-12T12:01:07.227196+00:00
+849,8f13737802322aac86ecaf9bc4ef43e4cdb34425c8f8dada161fcdb6dce7d778,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-compiler-study,Ai Compiler Study,,2026-09-12T12:01:07.227273+00:00
+850,fabdc064597f156517002b9b5427704b2f577d5b71e10432e572b8c135537941,1.0,STARTUP,GitHub AI Organizations,https://github.com/pretzelai,Pretzelai,,2026-09-12T12:01:07.227339+00:00
+851,4d31876c2767650e290f7e01c66b9acca4e8f22e10b4e1870eab50671c54795e,1.0,STARTUP,GitHub AI Organizations,https://github.com/SemiAnalysisAI,Semianalysisai,,2026-09-12T12:01:07.227404+00:00
+852,266dad0b2562bf890b002c703b20aac6049b50b9da74e0594475062089a473ad,1.0,STARTUP,GitHub AI Organizations,https://github.com/elyra-ai,Elyra Ai,,2026-09-12T12:01:07.227472+00:00
+853,caed789ae3995487d20219dfd2aa14f51f19389f65d11334413f834cc2f8fb98,1.0,STARTUP,GitHub AI Organizations,https://github.com/whataiart,Whataiart,,2026-09-12T12:01:07.227532+00:00
+854,0b26856255b4794c78b70774358d3ed0f409c51dc82559ac241e981c7af309c8,1.0,STARTUP,GitHub AI Organizations,https://github.com/kasaai,Kasaai,,2026-09-12T12:01:07.227593+00:00
+855,9b2f6c65b230feb77160852b33b15a3dc82daf3cee85fc460af479afe6488762,1.0,STARTUP,GitHub AI Organizations,https://github.com/aagentai,Aagentai,,2026-09-12T12:01:07.227655+00:00
+856,cad40d6f9f4e86a97f49120a86df290a0f629e4b51255e1b81a55c42b32a3981,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIRCentre,Aircentre,,2026-09-12T12:01:07.227718+00:00
+857,e936059d91ee5f25be45b13664977228e6ca0c8caea81e5961456279ff51ab92,1.0,STARTUP,GitHub AI Organizations,https://github.com/Airalo,Airalo,,2026-09-12T12:01:07.227778+00:00
+858,8ad58811397b67358a62c8383d37fbb476dc0e51bb6460bc14c4ea7de474ddea,1.0,STARTUP,GitHub AI Organizations,https://github.com/fuseai-fellowship,Fuseai Fellowship,,2026-09-12T12:01:07.227851+00:00
+859,ba49ecbe2e04ccd8d456bdbb3c852c24b38ed6ec36c0815fb39caedc6d079425,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIBlockOfficial,Aiblockofficial,,2026-09-12T12:01:07.227910+00:00
+860,ee5c0ee758dc77891fa88dfc7d4a7a2041775c9c6e3e3e5606962f5c08646d91,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Efficiency,Ai Efficiency,,2026-09-12T12:01:07.227976+00:00
+861,7dea7eb6f5aecbc4859ffc4b482158e9cf0b32fbe9363e08547b5c97af9ad5ee,1.0,STARTUP,GitHub AI Organizations,https://github.com/ischemaview,Ischemaview,,2026-09-12T12:01:07.228044+00:00
+862,8a4368cb22e2b190b5edea19668def1a1c402a061f032a3dabbe90d1cb5eb4a4,1.0,STARTUP,GitHub AI Organizations,https://github.com/meca-technologies,Meca,,2026-09-12T12:01:07.228116+00:00
+863,1935e7e308e768155a78a2179c870087e053ab7900066766e5f2ac18cbefb0cf,1.0,STARTUP,GitHub AI Organizations,https://github.com/kartAI,Kartai,,2026-09-12T12:01:07.228178+00:00
+864,dec4cf41c8c02194894880b89b726010d07d14e1f3e05166387fdb1c436f4a9e,1.0,STARTUP,GitHub AI Organizations,https://github.com/ValueCell-ai,Valuecell Ai,,2026-09-12T12:01:07.228240+00:00
+865,3c9b0fb1b53ede869fbcae7720502da2b3506e803b55f7a6e66565581940ab92,1.0,STARTUP,GitHub AI Organizations,https://github.com/CardoAI,Cardoai,,2026-09-12T12:01:07.228296+00:00
+866,88ac741e77218e5c6b97fca61af61a6d8ab2d85de997bc60511a4f69586060ba,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4ChemS,Ai4chems,,2026-09-12T12:01:07.228357+00:00
+867,3a2a5dd2358d347009343c14cf8a261778313a6f3fa3cceb0b52b4c61b26d5fe,1.0,STARTUP,GitHub AI Organizations,https://github.com/AtomaAI,Atomaai,,2026-09-12T12:01:07.228418+00:00
+868,799c5bfbc0f8d0bc4f42a6a5ddf6f2583f9dfd5b8a667e3a1517d50d8f3bb3c4,1.0,STARTUP,GitHub AI Organizations,https://github.com/AImageLab-zip,Aimagelab Zip,,2026-09-12T12:01:07.228480+00:00
+869,da55f64cec2ed152c1b5ca5614cb6871cb0fb2d45fb2cecfc01eb3ddf7709955,1.0,STARTUP,GitHub AI Organizations,https://github.com/ola-krutrim,Ola Krutrim,,2026-09-12T12:01:07.228541+00:00
+870,b93bcc36e28c35967c2c837f02b349df0133c0990048aebd80f399f88389ab72,1.0,STARTUP,GitHub AI Organizations,https://github.com/Emmi-AI,Emmi Ai,,2026-09-12T12:01:07.228605+00:00
+871,0e11214989a8af2d69bb9265e908f58a44cfdb77b033f812c2506122c18666db,1.0,STARTUP,GitHub AI Organizations,https://github.com/elastic-ai,Elastic Ai,,2026-09-12T12:01:07.228665+00:00
+872,3c74d7ab028d63c22b4d5756d7ffa7e942015242bd7a9c45fde2cd71bf8bee13,1.0,STARTUP,GitHub AI Organizations,https://github.com/Autoware-AI,Autoware Ai,,2026-09-12T12:01:07.228725+00:00
+873,58bc977723c4b148d9b259cdd2fdd368e4f09e9c8fd4b4d910c3ffa175d9fed8,1.0,STARTUP,GitHub AI Organizations,https://github.com/sciai-lab,Sciai Lab,,2026-09-12T12:01:07.228781+00:00
+874,c3036addb3883f2a4b1db31e36042b9e33fda3a14710f14bf0d0f4f869bed785,1.0,STARTUP,GitHub AI Organizations,https://github.com/Intellindust-AI-Lab,Intellindust Ai Lab,,2026-09-12T12:01:07.228849+00:00
+875,1922ae9cc69dcedb9d88d63197d5fff55f0898071cbbc0d694b5e9725266e5e7,1.0,STARTUP,GitHub AI Organizations,https://github.com/Tiiny-AI,Tiiny Ai,,2026-09-12T12:01:07.228906+00:00
+876,8da7dfe7bd2f238e1443a702eb122e95a14e8fa4b163b28851b163b34c939a69,1.0,STARTUP,GitHub AI Organizations,https://github.com/air-embodied-brain,Air Embodied Brain,,2026-09-12T12:01:07.228968+00:00
+877,7c9ca443a22a1205cf1ab3139ce52a56efdc682dfffec6611294f6a616fa9a4a,1.0,STARTUP,GitHub AI Organizations,https://github.com/HaltiaAI,Haltiaai,,2026-09-12T12:01:07.229037+00:00
+878,cfd90015bbe0a0b27a6073df8045be6e014cf803e408448507a006aa99fdfbb9,1.0,STARTUP,GitHub AI Organizations,https://github.com/Spain-AI,Spain Ai,,2026-09-12T12:01:07.229100+00:00
+879,b181026f9e457c2abd696a2e904e2373f4cc80664ff620ac995e75de266baa71,1.0,STARTUP,GitHub AI Organizations,https://github.com/ksug-ai,Ksug Ai,,2026-09-12T12:01:07.229157+00:00
+880,380bc0d6ce801adfe59e85f205dee1bbcb2e11befa09ad7ad59a4f2d3ee7cf5c,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-on-gke,Ai On Gke,,2026-09-12T12:01:07.229217+00:00
+881,8b544cb48a0ec7d8e3c4003be6359b3de2beb70d845cd3298b96a1d9217d3c95,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-cockpit,Ai Cockpit,,2026-09-12T12:01:07.229276+00:00
+882,89d0e13a8a11e562f49bbc4ce6ea5dd56f62dab18086d1b2cc349e0d3fcd0e17,1.0,STARTUP,GitHub AI Organizations,https://github.com/taylorai,Taylorai,,2026-09-12T12:01:07.229335+00:00
+883,281e26d7f1f8460c9966c248a9d0153ea7730f04249121cce2643a654d0a313a,1.0,STARTUP,GitHub AI Organizations,https://github.com/BoltAI,Boltai,,2026-09-12T12:01:07.229389+00:00
+884,f24257da31ef8ab9428fafbd5a04da10720b6f8265af266fda28c527ac67c484,1.0,STARTUP,GitHub AI Organizations,https://github.com/aindustriosa,Aindustriosa,,2026-09-12T12:01:07.229443+00:00
+885,8149829e8654b2ab2abb753fc6bd594da010aaa05d7afcf6713adeb2f4773899,1.0,STARTUP,GitHub AI Organizations,https://github.com/secondlayerco,Secondlayerco,,2026-09-12T12:01:07.229503+00:00
+886,95d8697298c3fdc3a9cad1042441fe133c846217af4a49096c9e1e12c9a96135,1.0,STARTUP,GitHub AI Organizations,https://github.com/airdrophunterst,Airdrophunterst,,2026-09-12T12:01:07.229559+00:00
+887,c1f782645e9bc457d60741a7786eee466e3da272351495eae21351a38a64b567,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIoT-Lab-AI4LIFE,Aiot Lab Ai4life,,2026-09-12T12:01:07.229623+00:00
+888,9ca5d8e9dfb71ab75b54d7a6bd801811408c21df172c812266fc568696534e8b,1.0,STARTUP,GitHub AI Organizations,https://github.com/HSV-AI,Hsv Ai,,2026-09-12T12:01:07.229684+00:00
+889,a5686099f07d28e4de8c8ad56a10c8a19fb16d46bc4e415a130cc84768674913,1.0,STARTUP,GitHub AI Organizations,https://github.com/NbAiLab,Nbailab,,2026-09-12T12:01:07.229739+00:00
+890,202b9045cce3aee6d56422ed1b33a3cedff9880225a63ab5d2adb6836bb758f4,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-agents-incubator,Ai Agents Incubator,,2026-09-12T12:01:07.229801+00:00
+891,a6fbf32337e331ae8faca8fda10ed55546868b3963e8a9c3ff9d0f0fdc8d6730,1.0,STARTUP,GitHub AI Organizations,https://github.com/AxisAIOrg,Axisaiorg,,2026-09-12T12:01:07.229851+00:00
+892,d5712909ab787c651d62f7c9f7397d5ca207739a4f2af72b4405783ec9f0e795,1.0,STARTUP,GitHub AI Organizations,https://github.com/Clearbox-AI,Clearbox Ai,,2026-09-12T12:01:07.229909+00:00
+893,a56b75efff1b1c34f8c624df2713e7830c84b77d9ac97e7e33ff92f544310589,1.0,STARTUP,GitHub AI Organizations,https://github.com/flaqai,Flaqai,,2026-09-12T12:01:07.229960+00:00
+894,69de6262b3840997964980d2c7c24b7643c7089b28dd6de3fd6fd0954eab05d4,1.0,STARTUP,GitHub AI Organizations,https://github.com/redhat-composer-ai,Redhat Composer Ai,,2026-09-12T12:01:07.230020+00:00
+895,31efb8635d84cacf02018d1b2c4fbcbb9f055db4c67e0b885e5a31fdd93eeef5,1.0,STARTUP,GitHub AI Organizations,https://github.com/aibuild-lab,Aibuild Lab,,2026-09-12T12:01:07.230074+00:00
+896,0e65338c186c9b4abe90ad3db7f4e79dc4927951cba0681a313bb7d4bfdd1377,1.0,STARTUP,GitHub AI Organizations,https://github.com/inference-ai-course,Inference Ai Course,,2026-09-12T12:01:07.230135+00:00
+897,76cf4011462c95856ab1e2d01fd3fa4791376b70b50b56f3d0ec186747075b75,1.0,STARTUP,GitHub AI Organizations,https://github.com/LambdaTest,Lambdatest,,2026-09-12T12:01:07.230190+00:00
+898,7567c49f68c5b12132c03614e5c4ca12536a527b641658a746e592da66d0606c,1.0,STARTUP,GitHub AI Organizations,https://github.com/ostis-ai,Ostis Ai,,2026-09-12T12:01:07.230244+00:00
+899,4c1390146e393513aa88e3ccd2702b56c15d42b326ba8a7f1506b9b126500e8d,1.0,STARTUP,GitHub AI Organizations,https://github.com/gaih,Gaih,,2026-09-12T12:01:07.230298+00:00
+900,633529f41a5b2c605e1dfb031555c4515449fa7d806fac1a4712fce2ef67e500,1.0,STARTUP,GitHub AI Organizations,https://github.com/aisepucrio,Aisepucrio,,2026-09-12T12:01:07.230346+00:00
+901,451045cc898aff92c8c12c1bc92c4b1f54fb71422d0b8ff1b515895403457b87,1.0,STARTUP,GitHub AI Organizations,https://github.com/pixillab,Pixillab,,2026-09-12T12:01:08.088790+00:00
+902,a2732b14dd1301bb4749bc83b9be4c22fc5dbbb274f7827e254f50e77f41c619,1.0,STARTUP,GitHub AI Organizations,https://github.com/aicuai,Aicuai,,2026-09-12T12:01:08.088901+00:00
+903,50f5d267fe6d7e04a851e82da0cc56f5d4590a34c72454b6876456ce5654515f,1.0,STARTUP,GitHub AI Organizations,https://github.com/ucfai,Ucfai,,2026-09-12T12:01:08.088990+00:00
+904,8300898f27219207d0db3701518d68b6c4dd5d2fcdad2e2852a57e1781aea5fd,1.0,STARTUP,GitHub AI Organizations,https://github.com/ailabtelkom,Ailabtelkom,,2026-09-12T12:01:08.089079+00:00
+905,918a6733260a26cbd49845826c2e60f17ce53a2c0ed6e05df0626f080e1f2a9a,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIDASLab,Aidaslab,,2026-09-12T12:01:08.089167+00:00
+906,11abeac7c56d571965d1043138ca90515b75859768c66b777e9b3c03059ddfc2,1.0,STARTUP,GitHub AI Organizations,https://github.com/realsenseai,Realsenseai,,2026-09-12T12:01:08.089266+00:00
+907,20ad5fe958a3bf88293c32d88d8ce9321abbfb095a9b64ef9bd2ead44259e196,1.0,STARTUP,GitHub AI Organizations,https://github.com/sberbank-ai-lab,Sberbank Ai Lab,,2026-09-12T12:01:08.089375+00:00
+908,85918f32870727bda59449bddc9fa57d50f153373cb1a45d3e72f2e9b33eeaf4,1.0,STARTUP,GitHub AI Organizations,https://github.com/OpenNyAI,Opennyai,,2026-09-12T12:01:08.089460+00:00
+909,da80f514a18c667822dd01647ceb43d4eeb2b09eae118ad3c1950fc77af30c3a,1.0,STARTUP,GitHub AI Organizations,https://github.com/notebooks-ai,Notebooks Ai,,2026-09-12T12:01:08.089577+00:00
+910,20aed3e12bad4b194653428c851657f73df866e6f6c87c63b58217620c488dfc,1.0,STARTUP,GitHub AI Organizations,https://github.com/aicip,Aicip,,2026-09-12T12:01:08.089668+00:00
+911,66a51d283f77de924c5549b42de0783ed1907ff456c83056919be1a5d63de959,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Club-IIT-Madras,Ai Club Iit Madras,,2026-09-12T12:01:08.089775+00:00
+912,005f5e593d02fe2718ba1a1dee523f8e36d140e952a1867bcde4ffefb3559f5c,1.0,STARTUP,GitHub AI Organizations,https://github.com/Air-duino,Air Duino,,2026-09-12T12:01:08.089866+00:00
+913,c8851c013930851e68cf9188f5c112c1e25747f105719752b4e572c2712af911,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Vector-Accelerator,Ai Vector Accelerator,,2026-09-12T12:01:08.089978+00:00
+914,c5f4a7f97c51263026b9cc005b40959a11241449a5bfd7dce2646057cdec7823,1.0,STARTUP,GitHub AI Organizations,https://github.com/lmos-ai,Lmos Ai,,2026-09-12T12:01:08.090073+00:00
+915,2645c86a85e6b730c58700fc540b69493827cd900180a2911e1ab9ce42949ae5,1.0,STARTUP,GitHub AI Organizations,https://github.com/Gauntlet-AI,Gauntlet Ai,,2026-09-12T12:01:08.090175+00:00
+916,dd733b5cc22baf686097715da22f171e8ff1a8bd1493d4c31487d700b5a839f8,1.0,STARTUP,GitHub AI Organizations,https://github.com/Air-SENSE,Air Sense,,2026-09-12T12:01:08.090272+00:00
+917,e582bbd2d034375fcca14a55813d2b50b7e6c838c7fd76d0aa53404e0eed26eb,1.0,STARTUP,GitHub AI Organizations,https://github.com/drexelai,Drexelai,,2026-09-12T12:01:08.090367+00:00
+918,70a2a40a29eabaf07a79a311403b03bdc655339f9e5d67b493ee0db8487f0a3b,1.0,STARTUP,GitHub AI Organizations,https://github.com/ait-cs-IaaS,Ait Cs Iaas,,2026-09-12T12:01:08.090465+00:00
+919,c0c165a0deaa05ccf6f8ae6169c495104bb4b7ac1aa2c7e404a7b3c9ac0fe5c0,1.0,STARTUP,GitHub AI Organizations,https://github.com/aisaac-lab,Aisaac Lab,,2026-09-12T12:01:08.090566+00:00
+920,9f646de6a0c21ff8b319c723023aeba897a2a827dc2c831cacab76ac0eeedad8,1.0,STARTUP,GitHub AI Organizations,https://github.com/Burmese-AI,Burmese Ai,,2026-09-12T12:01:08.090662+00:00
+921,447a0f2c7ccd9dd0eb246bb277d6c7ac93af3b7e404cce5d4570142484fe2d09,1.0,STARTUP,GitHub AI Organizations,https://github.com/rapidaai,Rapidaai,,2026-09-12T12:01:08.090753+00:00
+922,3ead48f47211baa357c1cb128b62641addb52da42b86ac3da4d008f9988b0d41,1.0,STARTUP,GitHub AI Organizations,https://github.com/aircury,Aircury,,2026-09-12T12:01:08.090840+00:00
+923,284e338d273933096a543ab3d74ace7aaae1ef570c628e506addfc071601203c,1.0,STARTUP,GitHub AI Organizations,https://github.com/koombea,Koombea,,2026-09-12T12:01:08.090927+00:00
+924,b9b29a93e36397238c2997ce20553ee38fd1ce9cef5bd41b48339e78ff562ba4,1.0,STARTUP,GitHub AI Organizations,https://github.com/fyaic,Fyaic,,2026-09-12T12:01:08.091017+00:00
+925,61b6921fb3524dd5c31821a8aa2db014a8583997bf20df67b8aa447597783544,1.0,STARTUP,GitHub AI Organizations,https://github.com/varchar-io,Varchar Io,,2026-09-12T12:01:08.091109+00:00
+926,d56d2f3fe8417d04a9e88a7aefb38c3c63b0839aa0b1eb805c5082d7d94beb96,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI4SCR,Ai4scr,,2026-09-12T12:01:08.091197+00:00
+927,eda5198f10a49f8bc3fdc909de242c71be9340e90738a6bf12c3f0900ffb10ca,1.0,STARTUP,GitHub AI Organizations,https://github.com/aikorea,Aikorea,,2026-09-12T12:01:08.091291+00:00
+928,95acb98171bded324d858f61bc9299f40dfc7d29be9ef6ba67fb45f067542604,1.0,STARTUP,GitHub AI Organizations,https://github.com/astro-informatics,Astro Informatics,,2026-09-12T12:01:08.091395+00:00
+929,82e54a3cad1d7468976448efb2b4d66a2132f4b36a8b12ec9a4a8953db4296ac,1.0,STARTUP,GitHub AI Organizations,https://github.com/MHubAI,Mhubai,,2026-09-12T12:01:08.091483+00:00
+930,71eaa251a757d07cb209760257bef36d17707f29931fba810425ab25afae99dc,1.0,STARTUP,GitHub AI Organizations,https://github.com/ZenAI-Vietnam,Zenai Vietnam,,2026-09-12T12:01:08.091934+00:00
+931,28aa7c84812996bcbc8ffb9f1baa247903f96ffc4751e00b852c1e556bbd4e8c,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-Natural-Language-Processing-Lab,Ai Natural Language Processing Lab,,2026-09-12T12:01:08.092065+00:00
+932,3c9a5878546cc9f7c8f3faa6b46306c7af6574758d2c9bddf797876ca476ec4d,1.0,STARTUP,GitHub AI Organizations,https://github.com/RevEngAI,Revengai,,2026-09-12T12:01:08.092152+00:00
+933,1b93add2976cefff9a0b7334cec494bdcb3edfdca04325d632bf78ff7db44c07,1.0,STARTUP,GitHub AI Organizations,https://github.com/bragai,Bragai,,2026-09-12T12:01:08.092234+00:00
+934,b681e507aaacd48eec6d20aa37d8d7d6949126b0e4dce6631378aeec7295dbc9,1.0,STARTUP,GitHub AI Organizations,https://github.com/Luce-Org,Luce Org,,2026-09-12T12:01:08.092323+00:00
+935,8de995a83feec6c56dd6eaf686ef58c4e82656822e44c461f9b7b9bca7c8ad75,1.0,STARTUP,GitHub AI Organizations,https://github.com/best-of-ai,Best Of Ai,,2026-09-12T12:01:08.092973+00:00
+936,b75d9526b27111ee83f4051f3ced93490696225f76a07e0803c8aab2c456cc1e,1.0,STARTUP,GitHub AI Organizations,https://github.com/swiss-ai-center,Swiss Ai Center,,2026-09-12T12:01:08.093173+00:00
+937,5fbc3649bb830382135931ab9d0c193303c208a6a57a38147bcf9722df4d0688,1.0,STARTUP,GitHub AI Organizations,https://github.com/gridai,Gridai,,2026-09-12T12:01:08.093265+00:00
+938,c49787ecd7591a893648df5ed9c2a33067effb1b37c8782d7ba2e0db7571b37a,1.0,STARTUP,GitHub AI Organizations,https://github.com/hopx-ai,Hopx Ai,,2026-09-12T12:01:08.093300+00:00
+939,7b19f61a856117ec4b4302e09c0fdd716c153fbea1102fd8328e03963e32d375,1.0,STARTUP,GitHub AI Organizations,https://github.com/humblebeeai,Humblebeeai,,2026-09-12T12:01:08.093333+00:00
+940,222452e17723855458870bfb1f6e06d223b52520f58a15f0759f3972693e3302,1.0,STARTUP,GitHub AI Organizations,https://github.com/Opus-AI,Opus Ai,,2026-09-12T12:01:08.093366+00:00
+941,069bced356ea42d16b9e111c8dc36a1ece0109906ba8ba88676cb0cb7aa7c130,1.0,STARTUP,GitHub AI Organizations,https://github.com/arklexai,Arklexai,,2026-09-12T12:01:08.093399+00:00
+942,6ccec0ad5cec2c693d538fbd12074e42c2dd44de1fb6ce996103b339f9a53371,1.0,STARTUP,GitHub AI Organizations,https://github.com/bureau14,Bureau14,,2026-09-12T12:01:08.093431+00:00
+943,80b6acb9b7b91832556be264043d2dcf725c033157d635608d8e58cc5cef586a,1.0,STARTUP,GitHub AI Organizations,https://github.com/nodetool-ai,Nodetool Ai,,2026-09-12T12:01:08.093465+00:00
+944,1e876b8b9742d37cdcaa52feaaa4c71447fbf6b609da8d74ea73df30a5727265,1.0,STARTUP,GitHub AI Organizations,https://github.com/Rizzo-AI-Academy,Rizzo Ai Academy,,2026-09-12T12:01:08.093501+00:00
+945,35a7955e97658920afede2b9c78efffe2eb02d3e8ed292dda84f1f298d45240f,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIM3-RUC,Aim3 Ruc,,2026-09-12T12:01:08.093532+00:00
+946,3c52da5d458069db7596b6cfc52b93d5dd55a4088cff819952a529939f184f01,1.0,STARTUP,GitHub AI Organizations,https://github.com/inspirai,Inspirai,,2026-09-12T12:01:08.093564+00:00
+947,d786f551d0f1dc61d57251b255e06d2fbbfa00d47fa7af3f0525186fb018553a,1.0,STARTUP,GitHub AI Organizations,https://github.com/AICPS,Aicps,,2026-09-12T12:01:08.093594+00:00
+948,1fb2912676bf15b507c732d64cf7889e214a434572d985ca82fe0efd5ee93a61,1.0,STARTUP,GitHub AI Organizations,https://github.com/Aitum,Aitum,,2026-09-12T12:01:08.093626+00:00
+949,833da288ddb08fbcf758f63b3d96bd1c4b34d65584489aa70f131762b9d8306d,1.0,STARTUP,GitHub AI Organizations,https://github.com/RhineAI,Rhineai,,2026-09-12T12:01:08.093659+00:00
+950,b63e40b01d057030905a974fdf380061d1ccf64817067a244d9e8f0e9121fd0e,1.0,STARTUP,GitHub AI Organizations,https://github.com/Extrality,Extrality,,2026-09-12T12:01:08.093690+00:00
+951,652f0a73749c1f0db99ab431c10972926442e4c2ae0127172d8b9edffcb511ba,1.0,STARTUP,GitHub AI Organizations,https://github.com/TeneoProtocolAI,Teneoprotocolai,,2026-09-12T12:01:08.093724+00:00
+952,711f64df63754912d9c98d7132f6105e858eeb6cf26d429779ef2817a11da565,1.0,STARTUP,GitHub AI Organizations,https://github.com/neovateai,Neovateai,,2026-09-12T12:01:08.093754+00:00
+953,673e9ee3a8cb71c34cc3d5167cda9f74cb7045cf3133b8d82586add897a93ebc,1.0,STARTUP,GitHub AI Organizations,https://github.com/CodeAnt-AI,Codeant Ai,,2026-09-12T12:01:08.093788+00:00
+954,0bc69d2faa566743bf7e25a658042b1ab557768580ca42caf39144955916e2f7,1.0,STARTUP,GitHub AI Organizations,https://github.com/Capx-AI,Capx Ai,,2026-09-12T12:01:08.093821+00:00
+955,0038b8257a953f37e36214090ba6b876c581044f2eb2bf348516841d0e37976f,1.0,STARTUP,GitHub AI Organizations,https://github.com/Villanova-AI,Villanova Ai,,2026-09-12T12:01:08.093854+00:00
+956,3e18d7bcbcb50e6f642dd11827771b11cc1e607a78e2a2486b177daad3ff8cd6,1.0,STARTUP,GitHub AI Organizations,https://github.com/biomed-AI,Biomed Ai,,2026-09-12T12:01:08.093887+00:00
+957,a0032b1b660aeca31594ccbb34c6775f785584d94b0d628613d9ee9fb9e0efef,1.0,STARTUP,GitHub AI Organizations,https://github.com/ClareAI,Clareai,,2026-09-12T12:01:08.093919+00:00
+958,c54ef8c36501103810d75c017573faa907b76535cc3b8eede1bdced7c0f4154d,1.0,STARTUP,GitHub AI Organizations,https://github.com/Storia-AI,Storia Ai,,2026-09-12T12:01:08.093952+00:00
+959,7700d4186d27132b832c2b1677a0c1124199468f02bd6bdba6519d8d15a21e06,1.0,STARTUP,GitHub AI Organizations,https://github.com/Forethought-Technologies,Forethought,,2026-09-12T12:01:08.093988+00:00
+960,ea981172c4f998f7c1e3634764a49a0150b0031ddf7e663de247220cd9fea32d,1.0,STARTUP,GitHub AI Organizations,https://github.com/Entelligence-AI,Entelligence Ai,,2026-09-12T12:01:08.094023+00:00
+961,a446148cad9eb50439e879fce7e1d2fb5a467b7e8338809ebef0927ee7e8035d,1.0,STARTUP,GitHub AI Organizations,https://github.com/EndexAI,Endexai,,2026-09-12T12:01:08.094053+00:00
+962,1ed326928bbf387afbfd02e7d135f0fbf638854f4a59c8d15fa8df4ce3ddc7e3,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai4city-hkust,Ai4city Hkust,,2026-09-12T12:01:08.094086+00:00
+963,aa6c5f0406cbaba1c9a49a2b762e02f45d300d083431cb2581775716b8813fc1,1.0,STARTUP,GitHub AI Organizations,https://github.com/korbit-ai,Korbit Ai,,2026-09-12T12:01:08.094119+00:00
+964,634dd929c06ad4cab512b88cf67524b04bc21cc93fbf35884a1fa75b622f4049,1.0,STARTUP,GitHub AI Organizations,https://github.com/AI-MED-AGH,Ai Med Agh,,2026-09-12T12:01:08.094154+00:00
+965,0f5faadb707c68d585ec20231ded377d04cb9a7b5103d9543766cd492cbec95e,1.0,STARTUP,GitHub AI Organizations,https://github.com/GritinAI,Gritinai,,2026-09-12T12:01:08.094184+00:00
+966,b88c2f54c971c7a10a4ff195c1426bbdfd01bcb06f58300a7a60eed83a822465,1.0,STARTUP,GitHub AI Organizations,https://github.com/aevatarAI,Aevatarai,,2026-09-12T12:01:08.094215+00:00
+967,4a2dc1ecd8f3b6d1e14bf259144bf7c20031f5d83ffa1d10b8a4257be696d291,1.0,STARTUP,GitHub AI Organizations,https://github.com/aisystant,Aisystant,,2026-09-12T12:01:08.094247+00:00
+968,396e3917a8ee6bbc82f3626a512e3469949354893f7f272bf8611ef77a7ddaf5,1.0,STARTUP,GitHub AI Organizations,https://github.com/replicate,Replicate,,2026-09-12T12:01:08.094264+00:00
+969,ad698614243b5e4d4bde7a73d52d570f964803f39e9c5c8624b18a907d3de227,1.0,STARTUP,GitHub AI Organizations,https://github.com/AirConsole,Airconsole,,2026-09-12T12:01:08.094295+00:00
+970,167398c00180b9e6e389c76d696c1b218cc8c9dc9092dde342b0d40d96739006,1.0,STARTUP,GitHub AI Organizations,https://github.com/NevaMind-AI,Nevamind Ai,,2026-09-12T12:01:08.094329+00:00
+971,5b7c17ebdb6152c7087acd4264a058329adceac408e7014c9ead3a845b14ca81,1.0,STARTUP,GitHub AI Organizations,https://github.com/signal-ai,Signal Ai,,2026-09-12T12:01:08.094362+00:00
+972,be7854e876fabb42aa91e0adf313e4a9a942bc2c663a251a7230fbee85bbce8d,1.0,STARTUP,GitHub AI Organizations,https://github.com/NimbleBoxAI,Nimbleboxai,,2026-09-12T12:01:08.094392+00:00
+973,81348a9d1be7f3ea31a6b6094d9846bc67fac1721622e92461eb201114bd40bc,1.0,STARTUP,GitHub AI Organizations,https://github.com/vital-ai,Vital Ai,,2026-09-12T12:01:08.094426+00:00
+974,3b11eb488b14ef14d686b5d078c3b4bb90ac06fdaa143ab2ba91cdce906751e4,1.0,STARTUP,GitHub AI Organizations,https://github.com/Amrita-School-of-AI,Amrita School Of Ai,,2026-09-12T12:01:08.094465+00:00
+975,8ea490012a25f1513955a16a4f46b29fa96f7d0fb06d5c656e89620b06474923,1.0,STARTUP,GitHub AI Organizations,https://github.com/swirl-ai,Swirl Ai,,2026-09-12T12:01:08.094499+00:00
+976,e96c5b50888ccb20cce5e6b059af044c89f349d9ecb10d92940335107929468e,1.0,STARTUP,GitHub AI Organizations,https://github.com/Data-Centric-AI-Community,Data Centric Ai Community,,2026-09-12T12:01:08.094536+00:00
+977,f50eab32a3bb197c216db5c06c815b338323b7235eaea996b6ac78576ea70698,1.0,STARTUP,GitHub AI Organizations,https://github.com/ofoxai,Ofoxai,,2026-09-12T12:01:08.094649+00:00
+978,add91dbbd8dfa6c66a71b10f43fd26238f6d91c3b59c8ab5bac45c9e00d82b77,1.0,STARTUP,GitHub AI Organizations,https://github.com/Airtable-Labs,Airtable,,2026-09-12T12:01:08.094744+00:00
+979,92eff7b9c19697481e73686c4fcd9e48aed7037233eaea1c97ccfa172157da96,1.0,STARTUP,GitHub AI Organizations,https://github.com/vivo-ai-lab,Vivo Ai Lab,,2026-09-12T12:01:08.094834+00:00
+980,abebcf6d92407a69acf5a19119339d444ff4eaeef4edb8a5c0f574d85bdbd8d3,1.0,STARTUP,GitHub AI Organizations,https://github.com/aispeech-lab,Aispeech Lab,,2026-09-12T12:01:08.094921+00:00
+981,5b9b10d997545fc88fccba0aeccecef5ba66dcc37fbbf0a4fa485557a42e032c,1.0,STARTUP,GitHub AI Organizations,https://github.com/A2-ai,A2 Ai,,2026-09-12T12:01:08.095005+00:00
+982,c63d86d7f3e0abe8e7cc54db6360601020e9d491ad6393df1a985c5b3ce33f6b,1.0,STARTUP,GitHub AI Organizations,https://github.com/partme-ai,Partme Ai,,2026-09-12T12:01:08.095102+00:00
+983,652efcce5547a22241bc06b2c9a2113e170b76a48ad7f018501aed0946eacb83,1.0,STARTUP,GitHub AI Organizations,https://github.com/inductiva,Inductiva,,2026-09-12T12:01:08.095183+00:00
+984,1c8d36c31242808f35f58aa5e0d6a9f1e7bde44e4f4aac13ec4e4966dcdd8a22,1.0,STARTUP,GitHub AI Organizations,https://github.com/earlyaidopters,Earlyaidopters,,2026-09-12T12:01:08.095264+00:00
+985,c063db66c91def890c0f1bde6a2cc8f579586aa4614369535ca1a669da756e99,1.0,STARTUP,GitHub AI Organizations,https://github.com/aigora,Aigora,,2026-09-12T12:01:08.095350+00:00
+986,4750c8375b188ed1bb4b308597fc25a4a3511fdd7c67a97e6dbdbe33ffb8941f,1.0,STARTUP,GitHub AI Organizations,https://github.com/aims-umich,Aims Umich,,2026-09-12T12:01:08.095439+00:00
+987,cd519fcf8aeede740c283e6671593962452d1d0d0202b3dcde582f8f2cc8cb07,1.0,STARTUP,GitHub AI Organizations,https://github.com/insoblok,Insoblok,,2026-09-12T12:01:08.095518+00:00
+988,66e8225624e6011d95cf8dc42aaf6e5e1aa45a04c1fd54c7827c79ff372e4901,1.0,STARTUP,GitHub AI Organizations,https://github.com/Mindful-AI-Research,Mindful Ai Research,,2026-09-12T12:01:08.095609+00:00
+989,445c4c579aa76bd942ff0b3ca487cee548e0ca377143c8ab9a44e442e622e4ad,1.0,STARTUP,GitHub AI Organizations,https://github.com/EticaAI,Eticaai,,2026-09-12T12:01:08.095693+00:00
+990,c70b92d0e6994ce4b880e8615a225b2b4fed7ae6868f62b80c7694eb2a8305b8,1.0,STARTUP,GitHub AI Organizations,https://github.com/Libertai,Libertai,,2026-09-12T12:01:08.095780+00:00
+991,708361f8ba69bf4456cd4c27c62eb7c425ce4974c07f515ba80cf448c5383b59,1.0,STARTUP,GitHub AI Organizations,https://github.com/ai-robotics-estonia,Ai Robotics Estonia,,2026-09-12T12:01:08.095880+00:00
+992,208a0c48102baa9f473e28f0671d789e6ab1b24a6106614b8a9d039247af6d28,1.0,STARTUP,GitHub AI Organizations,https://github.com/monocle2ai,Monocle2ai,,2026-09-12T12:01:08.095975+00:00
+993,2851a88c131dd1c0884923dc097a62e2b3bce9495eab59b1126d4147c2b3a2c2,1.0,STARTUP,GitHub AI Organizations,https://github.com/Social-AI-Studio,Social Ai Studio,,2026-09-12T12:01:08.096080+00:00
+994,38b81dea0fba7226f426ac5033e27e3178cd6bfb97154d73fd8c0729b95152af,1.0,STARTUP,GitHub AI Organizations,https://github.com/Render-AI-Team,Render Ai Team,,2026-09-12T12:01:08.096178+00:00
+995,5c6273eaf36092f36192f1f3f7a61baa094b6f6c6fe5447dd356775499e91b49,1.0,STARTUP,GitHub AI Organizations,https://github.com/Sema4AI,Sema4ai,,2026-09-12T12:01:08.096265+00:00
+996,35064ec4bfc089b350d7a62a40a3a11e18efca65f3918ec9364cb407c1376cf0,1.0,STARTUP,GitHub AI Organizations,https://github.com/hype-usp,Hype Usp,,2026-09-12T12:01:08.096359+00:00
+997,428fbfc3652a130ebcfaab2e57fb4310ea259a4344372ccdeb5727df589c9ffa,1.0,STARTUP,GitHub AI Organizations,https://github.com/ErgoAI,Ergoai,,2026-09-12T12:01:08.096447+00:00
+998,9c394864feddf7a6a75cdbcf1ea20efaabc5ac14a9e4d3a19d7c1d4bd30e4ffb,1.0,STARTUP,GitHub AI Organizations,https://github.com/AIGNE-io,Aigne Io,,2026-09-12T12:01:08.096547+00:00
+999,70808fcb93fc7695c5f63b4c355b9ea83cb432311054a1f3fd87a0f1096894c0,1.0,STARTUP,GitHub AI Organizations,https://github.com/eidolon-ai,Eidolon Ai,,2026-09-12T12:01:08.096666+00:00
+1000,c70105314c0a9d5b97d30eb7272d827118d31c1d50ecb6beeec1e98301db8f88,1.0,STARTUP,GitHub AI Organizations,https://github.com/Radico,Radico,,2026-09-12T12:01:08.096758+00:00
